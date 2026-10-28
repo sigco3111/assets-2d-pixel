@@ -836,3 +836,463 @@ rubberduck (OpenGameArt) 2D 팩 3개. CC-BY 2건은 사용 시 저작자 표기�
 - 파일: `fantasy-weapon-concepts.zip` — 릴리스 v6.9 첨부, 단일
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-weapon-concepts
 - 내용: 판타지 무기 콘셉트 아트 7종(매지컬 스태프 3, 배틀액스, 목제 스태프, 검, 시미터)
+
+## 2026-10-29 추가 팩 15차 (릴리스 v8.11)
+
+Kenney 공식 사이트 전수 대조로 수집한 신규 2D·텍스처 팩 76종. 전부 CC0, 원본 바이트 그대로(isometric-roads 2종만 zip 내부 readme.txt가 구식 permissive 문구이며 공식 페이지는 CC0 표기 — 내용 참고). 원격 SHA-256 검증 76/76 완료.
+
+### Animal Pack Remastered
+![Animal Pack Remastered 미리보기](previews/animal-pack-remastered.png)
+- 파일: `animal-pack-remastered.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/animal-pack-remastered
+- 내용: PNG 249개·SVG 8개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로; 구버전의 리마스터 버전, 동명 PNG 픽셀 및 파일 구성 차이 확인
+
+### Background Elements Remastered
+![Background Elements Remastered 미리보기](previews/background-elements-remastered.png)
+- 파일: `background-elements-remastered.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/background-elements-remastered
+- 내용: PNG 162개·SVG 2개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로; 구버전의 리마스터 버전, 동명 PNG 픽셀 및 파일 구성 차이 확인
+
+### Block Pack
+![Block Pack 미리보기](previews/block-pack.png)
+- 파일: `block-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/block-pack
+- 내용: PNG 206개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Board Game Icons
+![Board Game Icons 미리보기](previews/board-game-icons.png)
+- 파일: `board-game-icons.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/board-game-icons
+- 내용: PNG 513개·SVG 256개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Board Game Info
+![Board Game Info 미리보기](previews/board-game-info.png)
+- 파일: `board-game-info.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/board-game-info
+- 내용: PNG 577개·SVG 288개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Cursor Pack
+![Cursor Pack 미리보기](previews/cursor-pack.png)
+- 파일: `cursor-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/cursor-pack
+- 내용: PNG 729개·SVG 364개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Cursor Pixel Pack
+![Cursor Pixel Pack 미리보기](previews/cursor-pixel-pack.png)
+- 파일: `cursor-pixel-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/cursor-pixel-pack
+- 내용: PNG 223개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Desert Shooter Pack
+![Desert Shooter Pack 미리보기](previews/desert-shooter-pack.png)
+- 파일: `desert-shooter-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/desert-shooter-pack
+- 내용: PNG 517개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Development Essentials
+![Development Essentials 미리보기](previews/development-essentials.png)
+- 파일: `development-essentials.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/development-essentials
+- 내용: PNG 19개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Domino Pack
+![Domino Pack 미리보기](previews/domino-pack.png)
+- 파일: `domino-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/domino-pack
+- 내용: PNG 151개·SVG 145개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Fantasy UI Borders
+![Fantasy UI Borders 미리보기](previews/fantasy-ui-borders.png)
+- 파일: `fantasy-ui-borders.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/fantasy-ui-borders
+- 내용: PNG 282개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Flag Pack
+![Flag Pack 미리보기](previews/flag-pack.png)
+- 파일: `flag-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/flag-pack
+- 내용: PNG 465개·SVG 232개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Googly Eyes
+![Googly Eyes 미리보기](previews/googly-eyes.png)
+- 파일: `googly-eyes.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/googly-eyes
+- 내용: PNG 9개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Holiday Extras
+![Holiday Extras 미리보기](previews/holiday-extras.png)
+- 파일: `holiday-extras.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/holiday-extras
+- 내용: PNG 257개·SVG 5개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Input Prompts
+![Input Prompts 미리보기](previews/input-prompts.png)
+- 파일: `input-prompts.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/input-prompts
+- 내용: PNG 3056개·SVG 1504개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Input Prompts Pixel
+![Input Prompts Pixel 미리보기](previews/input-prompts-pixel.png)
+- 파일: `input-prompts-pixel.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/input-prompts-pixel
+- 내용: PNG 819개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Input Prompts Pixel 1-Bit
+![Input Prompts Pixel 1-Bit 미리보기](previews/input-prompts-pixel-1-bit.png)
+- 파일: `input-prompts-pixel-1-bit.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/input-prompts-pixel-1-bit
+- 내용: PNG 1637개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Isometric Miniature Bases
+![Isometric Miniature Bases 미리보기](previews/isometric-miniature-bases.png)
+- 파일: `isometric-miniature-bases.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-miniature-bases
+- 내용: PNG 323개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Isometric Miniature Dungeon
+![Isometric Miniature Dungeon 미리보기](previews/isometric-miniature-dungeon.png)
+- 파일: `isometric-miniature-dungeon.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-miniature-dungeon
+- 내용: PNG 747개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Isometric Miniature Farm
+![Isometric Miniature Farm 미리보기](previews/isometric-miniature-farm.png)
+- 파일: `isometric-miniature-farm.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-miniature-farm
+- 내용: PNG 459개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Isometric Miniature Library
+![Isometric Miniature Library 미리보기](previews/isometric-miniature-library.png)
+- 파일: `isometric-miniature-library.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-miniature-library
+- 내용: PNG 291개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Isometric Miniature Prototype
+![Isometric Miniature Prototype 미리보기](previews/isometric-miniature-prototype.png)
+- 파일: `isometric-miniature-prototype.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-miniature-prototype
+- 내용: PNG 651개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Isometric Roads
+![Isometric Roads 미리보기](previews/isometric-roads.png)
+- 파일: `isometric-roads.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-roads
+- 내용: PNG 96개·JPG 1개·SVG 1개; zip 내부 readme.txt(구식 permissive 문구) + 공식 페이지 CC0 표기; 원본 바이트 그대로
+
+### Isometric Roads Water
+![Isometric Roads Water 미리보기](previews/isometric-roads-water.png)
+- 파일: `isometric-roads-water.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-roads-water
+- 내용: PNG 42개·JPG 1개·SVG 1개; zip 내부 readme.txt(구식 permissive 문구) + 공식 페이지 CC0 표기; 원본 바이트 그대로
+
+### Light Masks
+![Light Masks 미리보기](previews/light-masks.png)
+- 파일: `light-masks.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/light-masks
+- 내용: PNG 457개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Minimap Pack
+![Minimap Pack 미리보기](previews/minimap-pack.png)
+- 파일: `minimap-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/minimap-pack
+- 내용: PNG 164개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Mobile Controls
+![Mobile Controls 미리보기](previews/mobile-controls.png)
+- 파일: `mobile-controls.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/mobile-controls
+- 내용: PNG 948개·SVG 462개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Monochrome Pirates
+![Monochrome Pirates 미리보기](previews/monochrome-pirates.png)
+- 파일: `monochrome-pirates.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/monochrome-pirates
+- 내용: PNG 417개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Monochrome RPG
+![Monochrome RPG 미리보기](previews/monochrome-rpg.png)
+- 파일: `monochrome-rpg.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/monochrome-rpg
+- 내용: PNG 427개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Monster Builder Pack
+![Monster Builder Pack 미리보기](previews/monster-builder-pack.png)
+- 파일: `monster-builder-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/monster-builder-pack
+- 내용: PNG 360개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### New Platformer Pack
+![New Platformer Pack 미리보기](previews/new-platformer-pack.png)
+- 파일: `new-platformer-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/new-platformer-pack
+- 내용: PNG 879개·SVG 433개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pattern Pack
+![Pattern Pack 미리보기](previews/pattern-pack.png)
+- 파일: `pattern-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pattern-pack
+- 내용: PNG 171개·SVG 84개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pattern Pack Extra
+![Pattern Pack Extra 미리보기](previews/pattern-pack-extra.png)
+- 파일: `pattern-pack-extra.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pattern-pack-extra
+- 내용: PNG 171개·SVG 84개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pattern Pack Lines
+![Pattern Pack Lines 미리보기](previews/pattern-pack-lines.png)
+- 파일: `pattern-pack-lines.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pattern-pack-lines
+- 내용: PNG 125개·SVG 60개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pattern Pack Pixel
+![Pattern Pack Pixel 미리보기](previews/pattern-pack-pixel.png)
+- 파일: `pattern-pack-pixel.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pattern-pack-pixel
+- 내용: PNG 133개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pico-8 City
+![Pico-8 City 미리보기](previews/pico-8-city.png)
+- 파일: `pico-8-city.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pico-8-city
+- 내용: PNG 364개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pico-8 Platformer
+![Pico-8 Platformer 미리보기](previews/pico-8-platformer.png)
+- 파일: `pico-8-platformer.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pico-8-platformer
+- 내용: PNG 306개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pixel Line Platformer
+![Pixel Line Platformer 미리보기](previews/pixel-line-platformer.png)
+- 파일: `pixel-line-platformer.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pixel-line-platformer
+- 내용: PNG 64개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pixel Platformer
+![Pixel Platformer 미리보기](previews/pixel-platformer.png)
+- 파일: `pixel-platformer.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pixel-platformer
+- 내용: PNG 240개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pixel Platformer Blocks
+![Pixel Platformer Blocks 미리보기](previews/pixel-platformer-blocks.png)
+- 파일: `pixel-platformer-blocks.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pixel-platformer-blocks
+- 내용: PNG 334개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pixel Platformer Farm Expansion
+![Pixel Platformer Farm Expansion 미리보기](previews/pixel-platformer-farm-expansion.png)
+- 파일: `pixel-platformer-farm-expansion.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pixel-platformer-farm-expansion
+- 내용: PNG 116개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pixel Platformer Food Expansion
+![Pixel Platformer Food Expansion 미리보기](previews/pixel-platformer-food-expansion.png)
+- 파일: `pixel-platformer-food-expansion.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pixel-platformer-food-expansion
+- 내용: PNG 116개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pixel Platformer Industrial Expansion
+![Pixel Platformer Industrial Expansion 미리보기](previews/pixel-platformer-industrial-expansion.png)
+- 파일: `pixel-platformer-industrial-expansion.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pixel-platformer-industrial-expansion
+- 내용: PNG 116개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Pixel Shmup
+![Pixel Shmup 미리보기](previews/pixel-shmup.png)
+- 파일: `pixel-shmup.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pixel-shmup
+- 내용: PNG 150개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Planets
+![Planets 미리보기](previews/planets.png)
+- 파일: `planets.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/planets
+- 내용: PNG 54개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Platformer Art Extended Enemies
+![Platformer Art Extended Enemies 미리보기](previews/platformer-art-extended-enemies.png)
+- 파일: `platformer-art-extended-enemies.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-art-extended-enemies
+- 내용: PNG 174개·SVG 2개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Platformer Pack Remastered
+![Platformer Pack Remastered 미리보기](previews/platformer-pack-remastered.png)
+- 파일: `platformer-pack-remastered.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-pack-remastered
+- 내용: PNG 430개·SVG 5개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Playing Cards Pack
+![Playing Cards Pack 미리보기](previews/playing-cards-pack.png)
+- 파일: `playing-cards-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/playing-cards-pack
+- 내용: PNG 285개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Retro Textures Fantasy
+![Retro Textures Fantasy 미리보기](previews/retro-textures-fantasy.png)
+- 파일: `retro-textures-fantasy.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/retro-textures-fantasy
+- 내용: PNG 119개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Roguelike Characters
+![Roguelike Characters 미리보기](previews/roguelike-characters.png)
+- 파일: `roguelike-characters.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/roguelike-characters
+- 내용: PNG 4개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Rolling Ball Assets
+![Rolling Ball Assets 미리보기](previews/rolling-ball-assets.png)
+- 파일: `rolling-ball-assets.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/rolling-ball-assets
+- 내용: PNG 122개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### RPG Base
+![RPG Base 미리보기](previews/rpg-base.png)
+- 파일: `rpg-base.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/rpg-base
+- 내용: PNG 233개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Scribble Dungeons
+![Scribble Dungeons 미리보기](previews/scribble-dungeons.png)
+- 파일: `scribble-dungeons.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/scribble-dungeons
+- 내용: PNG 276개·SVG 2개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Scribble Platformer Expansion
+![Scribble Platformer Expansion 미리보기](previews/scribble-platformer-expansion.png)
+- 파일: `scribble-platformer-expansion.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/scribble-platformer-expansion
+- 내용: PNG 140개·SVG 68개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Shape Characters
+![Shape Characters 미리보기](previews/shape-characters.png)
+- 파일: `shape-characters.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/shape-characters
+- 내용: PNG 212개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Simple Space
+![Simple Space 미리보기](previews/simple-space.png)
+- 파일: `simple-space.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/simple-space
+- 내용: PNG 102개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Sketch Desert
+![Sketch Desert 미리보기](previews/sketch-desert.png)
+- 파일: `sketch-desert.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/sketch-desert
+- 내용: PNG 246개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Sketch Town
+![Sketch Town 미리보기](previews/sketch-town.png)
+- 파일: `sketch-town.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/sketch-town
+- 내용: PNG 350개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Sketch Town Expansion
+![Sketch Town Expansion 미리보기](previews/sketch-town-expansion.png)
+- 파일: `sketch-town-expansion.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/sketch-town-expansion
+- 내용: PNG 238개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Skyboxes
+![Skyboxes 미리보기](previews/skyboxes.png)
+- 파일: `skyboxes.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/skyboxes
+- 내용: PNG 8개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Skyboxes Space
+![Skyboxes Space 미리보기](previews/skyboxes-space.png)
+- 파일: `skyboxes-space.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/skyboxes-space
+- 내용: PNG 8개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Space Shooter Remastered
+![Space Shooter Remastered 미리보기](previews/space-shooter-remastered.png)
+- 파일: `space-shooter-remastered.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/space-shooter-remastered
+- 내용: PNG 301개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Splat Pack
+![Splat Pack 미리보기](previews/splat-pack.png)
+- 파일: `splat-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/splat-pack
+- 내용: PNG 73개·SVG 37개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Tiny Battle
+![Tiny Battle 미리보기](previews/tiny-battle.png)
+- 파일: `tiny-battle.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tiny-battle
+- 내용: PNG 202개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Tiny City
+![Tiny City 미리보기](previews/tiny-city.png)
+- 파일: `tiny-city.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tiny-city
+- 내용: PNG 136개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Tiny Dungeon
+![Tiny Dungeon 미리보기](previews/tiny-dungeon.png)
+- 파일: `tiny-dungeon.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tiny-dungeon
+- 내용: PNG 136개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Tiny Factory
+![Tiny Factory 미리보기](previews/tiny-factory.png)
+- 파일: `tiny-factory.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tiny-factory
+- 내용: PNG 136개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Tiny Farm
+![Tiny Farm 미리보기](previews/tiny-farm.png)
+- 파일: `tiny-farm.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tiny-farm
+- 내용: PNG 136개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Tiny Ski
+![Tiny Ski 미리보기](previews/tiny-ski.png)
+- 파일: `tiny-ski.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tiny-ski
+- 내용: PNG 136개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Tiny Town
+![Tiny Town 미리보기](previews/tiny-town.png)
+- 파일: `tiny-town.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tiny-town
+- 내용: PNG 136개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Top-down Tanks Remastered
+![Top-down Tanks Remastered 미리보기](previews/top-down-tanks-remastered.png)
+- 파일: `top-down-tanks-remastered.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/top-down-tanks-remastered
+- 내용: PNG 382개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로; 구버전의 리마스터 버전, 동명 PNG 픽셀 및 파일 구성 차이 확인
+
+### UI Pack (RPG Expansion)
+![UI Pack (RPG Expansion) 미리보기](previews/ui-pack-rpg-expansion.png)
+- 파일: `ui-pack-rpg-expansion.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/ui-pack-rpg-expansion
+- 내용: PNG 90개·SVG 1개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### UI Pack - Adventure
+![UI Pack - Adventure 미리보기](previews/ui-pack-adventure.png)
+- 파일: `ui-pack-adventure.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/ui-pack-adventure
+- 내용: PNG 260개·SVG 128개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### UI Pack - Pixel Adventure
+![UI Pack - Pixel Adventure 미리보기](previews/ui-pack-pixel-adventure.png)
+- 파일: `ui-pack-pixel-adventure.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/ui-pack-pixel-adventure
+- 내용: PNG 514개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### UI Pack - Sci-Fi
+![UI Pack - Sci-Fi 미리보기](previews/ui-pack-sci-fi.png)
+- 파일: `ui-pack-sci-fi.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/ui-pack-sci-fi
+- 내용: PNG 742개·SVG 370개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+
+### Yellow Paint Pack
+![Yellow Paint Pack 미리보기](previews/yellow-paint-pack.png)
+- 파일: `yellow-paint-pack.zip` — 릴리스 v8.11 첨부, 단일
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/yellow-paint-pack
+- 내용: PNG 27개·SVG 13개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
