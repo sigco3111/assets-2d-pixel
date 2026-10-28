@@ -489,3 +489,42 @@
 ![Two Dungeon Wall Tilesets 미리보기](previews/two-dungeon-wall-tilesets.jpg)
 - 파일: `two-dungeon-wall-tilesets.zip` — 릴리스 v6.4 첨부, 단일
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/two-dungeon-wall-tilesets
+
+## 2026-10-28 추가 팩 10차 (릴리스 v6.5)
+
+모두 rubberduck (OpenGameArt) CC0 2D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`).
+
+### Extension for DawnBlocker Ortho
+![Extension for DawnBlocker Ortho 미리보기](previews/extension-for-dawnblocker-ortho.jpg)
+- 파일: `extension-for-dawnblocker-ortho.zip` — 릴리스 v6.5 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/extension-for-dawnblocker-ortho
+
+### Extension for Sci-fi Platformer Tiles (32x32)
+![Extension for Sci-fi Platformer Tiles (32x32) 미리보기](previews/extension-for-sci-fi-platformer-tiles-32x32.jpg)
+- 파일: `extension-for-sci-fi-platformer-tiles-32x32.zip` — 릴리스 v6.5 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/extension-for-sci-fi-platformer-tiles-32x32
+
+### Magic Flame
+![Magic Flame 미리보기](previews/magic-flame.jpg)
+- 파일: `magic-flame.zip` — 릴리스 v6.5 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/magic-flame
+
+### More Isometric Parts
+![More Isometric Parts 미리보기](previews/more-isometric-parts.jpg)
+- 파일: `more-isometric-parts.zip` — 릴리스 v6.5 첨부, 21.7MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/more-isometric-parts
+
+### RPG Icon Base Pack
+![RPG Icon Base Pack 미리보기](previews/rpg-icon-base-pack.jpg)
+- 파일: `rpg-icon-base-pack.zip` — 릴리스 v6.5 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-icon-base-pack
+
+### Sparkling Fireball Effect
+![Sparkling Fireball Effect 미리보기](previews/sparkling-fireball-effect.jpg)
+- 파일: `sparkling-fireball-effect.zip` — 릴리스 v6.5 첨부, 35.6MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/sparkling-fireball-effect
+
+### Platformer-Tileset-Template
+![Platformer-Tileset-Template 미리보기](previews/platformer-tileset-template.jpg)
+- 파일: `platformer-tileset-template.zip` — 릴리스 v6.5 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-tileset-template
