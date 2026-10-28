@@ -445,3 +445,47 @@
 ![Isometric Trees 미리보기](previews/isometric-trees-1.jpg)
 - 파일: `isometric-trees-1.zip` — 릴리스 v6.3 첨부, 27.5MB plain split 2조각
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-trees-1
+
+## 2026-10-28 추가 팩 9차 (릴리스 v6.4)
+
+모두 rubberduck (OpenGameArt) CC0 2D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`).
+
+### Alien-Planet-Platformer-Tileset
+![Alien-Planet-Platformer-Tileset 미리보기](previews/alien-planet-platformer-tileset.jpg)
+- 파일: `alien-planet-platformer-tileset.zip` — 릴리스 v6.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/alien-planet-platformer-tileset
+
+### Another Background made from Glitch-Assets
+![Another Background made from Glitch-Assets 미리보기](previews/another-background-made-from-glitch-assets.jpg)
+- 파일: `another-background-made-from-glitch-assets.zip` — 릴리스 v6.4 첨부, 20.8MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/another-background-made-from-glitch-assets
+
+### Background from Glitch-Assets
+![Background from Glitch-Assets 미리보기](previews/background-from-glitch-assets.jpg)
+- 파일: `background-from-glitch-assets.zip` — 릴리스 v6.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/background-from-glitch-assets
+
+### Factory Tileset
+![Factory Tileset 미리보기](previews/factory-tileset.jpg)
+- 파일: `factory-tileset.zip` — 릴리스 v6.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/factory-tileset
+
+### Modern City Extension
+![Modern City Extension 미리보기](previews/modern-city-extension.jpg)
+- 파일: `modern-city-extension.zip` — 릴리스 v6.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/modern-city-extension
+
+### Pixel Art Castle Tileset
+![Pixel Art Castle Tileset 미리보기](previews/pixel-art-castle-tileset.jpg)
+- 파일: `pixel-art-castle-tileset.zip` — 릴리스 v6.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-art-castle-tileset
+
+### Simple Glitch-Tileset
+![Simple Glitch-Tileset 미리보기](previews/simple-glitch-tileset.jpg)
+- 파일: `simple-glitch-tileset.zip` — 릴리스 v6.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-glitch-tileset
+
+### Two Dungeon Wall Tilesets
+![Two Dungeon Wall Tilesets 미리보기](previews/two-dungeon-wall-tilesets.jpg)
+- 파일: `two-dungeon-wall-tilesets.zip` — 릴리스 v6.4 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/two-dungeon-wall-tilesets
