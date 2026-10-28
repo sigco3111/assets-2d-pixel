@@ -312,3 +312,48 @@
 - 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-essentials-kit
 - 3D 저장소에서 재분류(2026-10-28): 모델 파일 없는 이미지 전용 팩. 대응 모델은 assets-3d-lowpoly의 Sci-Fi Essentials Kit에 있습니다. assets-3d-lowpoly v6.0 릴리스에도 동일 바이트 사본이 남아 있습니다.
 - 분할 zip은 모두 받은 뒤 같은 폴더에서 `zip -s 0 sci-fi-essentials-kit-textures.zip --out sci-fi-essentials-kit-textures-full.zip`으로 합친 뒤 압축 해제(Windows는 7-Zip으로 .zip을 바로 열면 됩니다).
+
+
+## 2026-10-28 추가 팩 6차 (릴리스 v6.1)
+
+모두 rubberduck (OpenGameArt) CC0 2D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`).
+
+### 10 free isometric graphics from 3D Models
+![10 free isometric graphics 미리보기](previews/10-free-isometric-graphics-from-3d-models.jpg)
+- 파일: `10-free-isometric-graphics-from-3d-models.zip` — 릴리스 v6.1 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/10-free-isometric-graphics-from-3d-models
+
+### 100 glitch icons
+![100 glitch icons 미리보기](previews/100-glitch-icons.jpg)
+- 파일: `100-glitch-icons.zip` — 릴리스 v6.1 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/100-glitch-icons
+
+### 25 special effects rendered with blender
+![25 special effects 미리보기](previews/25-special-effects-rendered-with-blender.jpg)
+- 파일: `25-special-effects-rendered-with-blender.zip` — 릴리스 v6.1 첨부, 24.7MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/25-special-effects-rendered-with-blender
+
+### 40 game backgrounds #1 - painted style and photorealistic
+![40 game backgrounds 미리보기](previews/40-game-backgrounds-1-painted-style-and-photorealistic.jpg)
+- 파일: `40-game-backgrounds-1-painted-style-and-photorealistic.zip` — 릴리스 v6.1 첨부, 49.6MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/40-game-backgrounds-1-painted-style-and-photorealistic
+
+### 5x special effects - 2D
+![5x special effects 미리보기](previews/5x-special-effects-2d.jpg)
+- 파일: `5x-special-effects-2d.zip` — 릴리스 v6.1 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/5x-special-effects-2d
+
+### animated fountain (isometric)
+![animated fountain 미리보기](previews/animated-fountain-isometric.jpg)
+- 파일: `animated-fountain-isometric.zip` — 릴리스 v6.1 첨부, 19.8MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-fountain-isometric
+
+### blender colored gui theme
+![blender colored gui theme 미리보기](previews/blender-colored-gui-theme.jpg)
+- 파일: `blender-colored-gui-theme.zip` — 릴리스 v6.1 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/blender-colored-gui-theme
+
+### Colony Sim Extended Version
+![Colony Sim Extended Version 미리보기](previews/colony-sim-extended-version.jpg)
+- 파일: `colony-sim-extended-version.zip` (원본 3개 아카이브 병합) — 릴리스 v6.1 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/colony-sim-extended-version
