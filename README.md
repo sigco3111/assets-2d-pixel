@@ -306,3 +306,9 @@
 ![Voxel Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/voxel-pack.png)
 - 파일: [릴리스 v5.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/voxel-pack.zip) (PNG 197개: 복셀풍 타일·캐릭터·아이템 스프라이트시트)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/voxel-pack
+### Sci-Fi Essentials Kit - 4K Textures
+![Sci-Fi Essentials Kit 미리보기](https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly/main/previews/sci-fi-essentials-kit.png)
+- 파일: [릴리스 v6.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v6.0/sci-fi-essentials-kit-textures.zip) (4K PBR 텍스처 PNG 36개: BaseColor/Emissive/Normal/ORM) — 11MB 분할 7조각(.z01~.z06 + .zip)
+- 제작: Quaternius / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-essentials-kit
+- 3D 저장소에서 재분류(2026-10-28): 모델 파일 없는 이미지 전용 팩. 대응 모델은 assets-3d-lowpoly의 Sci-Fi Essentials Kit에 있습니다. assets-3d-lowpoly v6.0 릴리스에도 동일 바이트 사본이 남아 있습니다.
+- 분할 zip은 모두 받은 뒤 같은 폴더에서 `zip -s 0 sci-fi-essentials-kit-textures.zip --out sci-fi-essentials-kit-textures-full.zip`으로 합친 뒤 압축 해제(Windows는 7-Zip으로 .zip을 바로 열면 됩니다).
