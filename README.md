@@ -357,3 +357,47 @@
 ![Colony Sim Extended Version 미리보기](previews/colony-sim-extended-version.jpg)
 - 파일: `colony-sim-extended-version.zip` (원본 3개 아카이브 병합) — 릴리스 v6.1 첨부, 단일
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/colony-sim-extended-version
+
+## 2026-10-28 추가 팩 7차 (릴리스 v6.2)
+
+모두 rubberduck (OpenGameArt) CC0 2D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`).
+
+### Customizable Character Pack
+![Customizable Character Pack 미리보기](previews/customizable-character-pack.jpg)
+- 파일: `customizable-character-pack.zip` — 릴리스 v6.2 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/customizable-character-pack
+
+### Dungeon Tileset with Walls and Floors
+![Dungeon Tileset 미리보기](previews/dungeon-tileset-with-walls-and-floors.jpg)
+- 파일: `dungeon-tileset-with-walls-and-floors.zip` — 릴리스 v6.2 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/dungeon-tileset-with-walls-and-floors
+
+### Free Isometric Cave-Extras
+![Free Isometric Cave-Extras 미리보기](previews/free-isometric-cave-extras.jpg)
+- 파일: `free-isometric-cave-extras.zip` — 릴리스 v6.2 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-isometric-cave-extras
+
+### Free Isometric Plants-Pack
+![Free Isometric Plants-Pack 미리보기](previews/free-isometric-plants-pack.jpg)
+- 파일: `free-isometric-plants-pack.zip` — 릴리스 v6.2 첨부, 24.5MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-isometric-plants-pack
+
+### Free Isometric Ruins
+![Free Isometric Ruins 미리보기](previews/free-isometric-ruins.jpg)
+- 파일: `free-isometric-ruins.zip` — 릴리스 v6.2 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-isometric-ruins
+
+### Grassland Tileset
+![Grassland Tileset 미리보기](previews/grassland-tileset-1.jpg)
+- 파일: `grassland-tileset-1.zip` — 릴리스 v6.2 첨부, 61.7MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/grassland-tileset-1
+
+### Isometric Crystals
+![Isometric Crystals 미리보기](previews/isometric-crystals.jpg)
+- 파일: `isometric-crystals.zip` — 릴리스 v6.2 첨부, 45.4MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-crystals
+
+### Isometric Ground Tiles
+![Isometric Ground Tiles 미리보기](previews/isometric-ground-tiles.jpg)
+- 파일: `isometric-ground-tiles.zip` — 릴리스 v6.2 첨부, 162MB plain split 11조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-ground-tiles
