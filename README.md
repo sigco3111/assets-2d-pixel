@@ -401,3 +401,47 @@
 ![Isometric Ground Tiles 미리보기](previews/isometric-ground-tiles.jpg)
 - 파일: `isometric-ground-tiles.zip` — 릴리스 v6.2 첨부, 162MB plain split 11조각
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-ground-tiles
+
+## 2026-10-28 추가 팩 8차 (릴리스 v6.3)
+
+모두 rubberduck (OpenGameArt) CC0 2D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`).
+
+### Isometric Log Cabins
+![Isometric Log Cabins 미리보기](previews/isometric-log-cabins.jpg)
+- 파일: `isometric-log-cabins.zip` — 릴리스 v6.3 첨부, 41.3MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-log-cabins
+
+### Isometric Medieval Buildings
+![Isometric Medieval Buildings 미리보기](previews/isometric-medieval-buildings.jpg)
+- 파일: `isometric-medieval-buildings.zip` — 릴리스 v6.3 첨부, 102.2MB plain split 7조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-medieval-buildings
+
+### Isometric Medieval Buildings #2
+![Isometric Medieval Buildings #2 미리보기](previews/isometric-medieval-buildings-2.jpg)
+- 파일: `isometric-medieval-buildings-2.zip` — 릴리스 v6.3 첨부, 170.5MB plain split 11조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-medieval-buildings-2
+
+### Isometric Medieval Props
+![Isometric Medieval Props 미리보기](previews/isometric-medieval-props.jpg)
+- 파일: `isometric-medieval-props.zip` — 릴리스 v6.3 첨부, 92.4MB plain split 6조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-medieval-props
+
+### Isometric Mug and Torch Pack (Flare)
+![Isometric Mug and Torch Pack (Flare) 미리보기](previews/isometric-mug-and-torch-pack-flare.jpg)
+- 파일: `isometric-mug-and-torch-pack-flare.zip` — 릴리스 v6.3 첨부, 20.3MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-mug-and-torch-pack-flare
+
+### Isometric Props and Tents
+![Isometric Props and Tents 미리보기](previews/isometric-props-and-tents.jpg)
+- 파일: `isometric-props-and-tents.zip` — 릴리스 v6.3 첨부, 56.5MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-props-and-tents
+
+### Isometric Spikes
+![Isometric Spikes 미리보기](previews/isometric-spikes.jpg)
+- 파일: `isometric-spikes.zip` — 릴리스 v6.3 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-spikes
+
+### Isometric Trees
+![Isometric Trees 미리보기](previews/isometric-trees-1.jpg)
+- 파일: `isometric-trees-1.zip` — 릴리스 v6.3 첨부, 27.5MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-trees-1
