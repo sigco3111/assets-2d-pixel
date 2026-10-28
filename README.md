@@ -1,6 +1,6 @@
 # assets-2d-pixel
 
-2D 픽셀 스프라이트와 타일셋. RPG·로그라이크·플랫포머·타워디펜스·슈팅에 바로 쓸 수 있는 CC0 팩.
+2D 픽셀 스프라이트·타일셋·텍스처. RPG·로그라이크·플랫포머·타워디펜스·슈팅에 바로 쓸 수 있는 CC0·CC-BY 팩. CC-BY 팩은 사용 시 저작자 표기 필요 (각 팩 LICENSE-SOURCE.txt에 원본 저작자·정확한 CC 버전·출처·변경 내역 기록).
 
 ## 수록 팩
 
@@ -815,3 +815,24 @@
 ![weird alien textures 미리보기](previews/weird-alien-textures.jpg)
 - 파일: `weird-alien-textures.zip` — 릴리스 v6.8 첨부, 21.6MB plain split 2조각
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/weird-alien-textures
+## 2026-10-29 추가 팩 14차 (릴리스 v6.9)
+
+rubberduck (OpenGameArt) 2D 팩 3개. CC-BY 2건은 사용 시 저작자 표기가 필요합니다. 각 팩의 LICENSE-SOURCE.txt(수집자 작성)에 원본 저작자·정확한 CC 버전·출처·변경 내역과 원본 아카이브/파일 SHA-256이 기록되어 있습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`).
+
+### seamless industrial textures
+![seamless industrial textures 미리보기](previews/seamless-industrial-textures.jpg)
+- 파일: `seamless-industrial-textures.zip` — 릴리스 v6.9 첨부, 52.2MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC-BY 3.0 (귀속: rubberduck; 원본 ideasman42/Campbell Barton 텍스처 라이브러리) / 원본: https://opengameart.org/content/seamless-industrial-textures
+- 내용: 심리스 인더스트리얼/메탈 텍스처 50+종, 노멀맵·스펙맵 대부분 포함, 약 1024px. 이 중 28개 파일은 assets-3d-lowpoly의 Industrial Extension Pack 2 - factory halls에도 바이트 동일하게 포함(원저작자가 동일 텍스처 사용)
+
+### gemmed items
+![gemmed items 미리보기](previews/gemmed-items.jpg)
+- 파일: `gemmed-items.zip` — 릴리스 v6.9 첨부, 단일
+- 제작: rubberduck / 라이선스: CC-BY 4.0 (귀속: rubberduck; 열쇠 모델 Clint Bellanger, 디자인 Justin Nichol; 다이아몬드 Clint Bellanger) / 원본: https://opengameart.org/content/gemmed-items
+- 내용: 보석 4종·반지 4종·열쇠 4종·지팡이 4종 렌더 아이콘, 4해상도(256/128/64/32) × 글로우 유무 128 PNG. 소스 모델 gemmed_items_source.blend 동봉(source/)
+
+### fantasy weapon concepts
+![fantasy weapon concepts 미리보기](previews/fantasy-weapon-concepts.jpg)
+- 파일: `fantasy-weapon-concepts.zip` — 릴리스 v6.9 첨부, 단일
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-weapon-concepts
+- 내용: 판타지 무기 콘셉트 아트 7종(매지컬 스태프 3, 배틀액스, 목제 스태프, 검, 시미터)
