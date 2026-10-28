@@ -547,3 +547,271 @@
 ![Updated Grassland Tileset (Stylized) 미리보기](previews/updated-grassland-tileset-stylized.jpg)
 - 파일: `updated-grassland-tileset-stylized.zip` — 릴리스 v6.6 첨부, 123.2MB plain split 8조각
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/updated-grassland-tileset-stylized
+
+## 2026-10-28 추가 팩 12차 (릴리스 v6.7)
+
+모두 rubberduck (OpenGameArt) CC0 텍스처 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`).
+
+### 20 Textures for Metal-Texture-Creation-Sets
+![20 Textures for Metal-Texture-Creation-Sets 미리보기](previews/20-textures-for-metal-texture-creation-sets.jpg)
+- 파일: `20-textures-for-metal-texture-creation-sets.zip` — 릴리스 v6.7 첨부, 35.6MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/20-textures-for-metal-texture-creation-sets
+
+### 2K handpainted style textures
+![2K handpainted style textures 미리보기](previews/2k-handpainted-style-textures.jpg)
+- 파일: `2k-handpainted-style-textures.zip` — 릴리스 v6.7 첨부, 31.2MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/2k-handpainted-style-textures
+
+### 40 free Metal textures from MTC-Sets
+![40 free Metal textures from MTC-Sets 미리보기](previews/40-free-metal-textures-from-mtc-sets.jpg)
+- 파일: `40-free-metal-textures-from-mtc-sets.zip` — 릴리스 v6.7 첨부, 45.4MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/40-free-metal-textures-from-mtc-sets
+
+### 50 2k metal textures
+![50 2k metal textures 미리보기](previews/50-2k-metal-textures.jpg)
+- 파일: `50-2k-metal-textures.zip` — 릴리스 v6.7 첨부, 102.1MB plain split 7조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/50-2k-metal-textures
+
+### 50 free textures
+![50 free textures 미리보기](previews/50-free-textures.jpg)
+- 파일: `50-free-textures.zip` — 릴리스 v6.7 첨부, 111.0MB plain split 8조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/50-free-textures
+
+### 50 free textures-2
+![50 free textures-2 미리보기](previews/50-free-textures-2.jpg)
+- 파일: `50-free-textures-2.zip` — 릴리스 v6.7 첨부, 40.0MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/50-free-textures-2
+
+### 50 free textures-3
+![50 free textures-3 미리보기](previews/50-free-textures-3.jpg)
+- 파일: `50-free-textures-3.zip` — 릴리스 v6.7 첨부, 39.6MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/50-free-textures-3
+
+### 50 free textures-4 + normalmaps
+![50 free textures-4 + normalmaps 미리보기](previews/50-free-textures-4-normalmaps.jpg)
+- 파일: `50-free-textures-4-normalmaps.zip` — 릴리스 v6.7 첨부, 42.7MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/50-free-textures-4-normalmaps
+
+### 50 free textures 5 - with normalmaps
+![50 free textures 5 - with normalmaps 미리보기](previews/50-free-textures-5-with-normalmaps.jpg)
+- 파일: `50-free-textures-5-with-normalmaps.zip` — 릴리스 v6.7 첨부, 48.6MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/50-free-textures-5-with-normalmaps
+
+### 60 CC0 Vegetation textures
+![60 CC0 Vegetation textures 미리보기](previews/60-cc0-vegetation-textures.jpg)
+- 파일: `60-cc0-vegetation-textures.zip` — 릴리스 v6.7 첨부, 49.2MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/60-cc0-vegetation-textures
+
+### 8 handpainted style textures
+![8 handpainted style textures 미리보기](previews/8-handpainted-style-textures.jpg)
+- 파일: `8-handpainted-style-textures.zip` — 릴리스 v6.7 첨부, 22.6MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/8-handpainted-style-textures
+
+### 8 handpainted style textures #2
+![8 handpainted style textures #2 미리보기](previews/8-handpainted-style-textures-2.jpg)
+- 파일: `8-handpainted-style-textures-2.zip` — 릴리스 v6.7 첨부, 24.4MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/8-handpainted-style-textures-2
+
+### Big Plant/Fruit/Food Tex-Res pack (over 100 plants)
+![Big Plant/Fruit/Food Tex-Res pack (over 100 plants) 미리보기](previews/big-plantfruitfood-tex-res-pack-over-100-plants.jpg)
+- 파일: `big-plantfruitfood-tex-res-pack-over-100-plants.zip` — 릴리스 v6.7 첨부, 100.3MB plain split 7조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/big-plantfruitfood-tex-res-pack-over-100-plants
+
+### cc0 texture resources 1 - metal
+![cc0 texture resources 1 - metal 미리보기](previews/cc0-texture-resources-1-metal.jpg)
+- 파일: `cc0-texture-resources-1-metal.zip` — 릴리스 v6.7 첨부, 167.9MB plain split 12조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-texture-resources-1-metal
+
+### cc0 texture resources 2 - nature
+![cc0 texture resources 2 - nature 미리보기](previews/cc0-texture-resources-2-nature.jpg)
+- 파일: `cc0-texture-resources-2-nature.zip` — 릴리스 v6.7 첨부, 109.6MB plain split 8조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-texture-resources-2-nature
+
+### cc0 texture resources 3 - wood
+![cc0 texture resources 3 - wood 미리보기](previews/cc0-texture-resources-3-wood.jpg)
+- 파일: `cc0-texture-resources-3-wood.zip` — 릴리스 v6.7 첨부, 86.0MB plain split 6조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-texture-resources-3-wood
+
+### cc0 texture resources 4 - textile
+![cc0 texture resources 4 - textile 미리보기](previews/cc0-texture-resources-4-textile.jpg)
+- 파일: `cc0-texture-resources-4-textile.zip` — 릴리스 v6.7 첨부, 106.8MB plain split 8조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-texture-resources-4-textile
+
+### cc0 texture resources 5 - pipes and tubes
+![cc0 texture resources 5 - pipes and tubes 미리보기](previews/cc0-texture-resources-5-pipes-and-tubes.jpg)
+- 파일: `cc0-texture-resources-5-pipes-and-tubes.zip` — 릴리스 v6.7 첨부, 60.3MB plain split 5조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-texture-resources-5-pipes-and-tubes
+
+### cc0 texture resources 6 - bricks and patterns
+![cc0 texture resources 6 - bricks and patterns 미리보기](previews/cc0-texture-resources-6-bricks-and-patterns.jpg)
+- 파일: `cc0-texture-resources-6-bricks-and-patterns.zip` — 릴리스 v6.7 첨부, 128.1MB plain split 9조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-texture-resources-6-bricks-and-patterns
+
+### Details for damaged and dirty textures
+![Details for damaged and dirty textures 미리보기](previews/details-for-damaged-and-dirty-textures.jpg)
+- 파일: `details-for-damaged-and-dirty-textures.zip` — 릴리스 v6.7 첨부, 4.7MB
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/details-for-damaged-and-dirty-textures
+
+### Details for Metal-texture-creation-sets
+![Details for Metal-texture-creation-sets 미리보기](previews/details-for-metal-texture-creation-sets.jpg)
+- 파일: `details-for-metal-texture-creation-sets.zip` — 릴리스 v6.7 첨부, 5.3MB
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/details-for-metal-texture-creation-sets
+
+### Free Metal-Texture-Creation-Set 01
+![Free Metal-Texture-Creation-Set 01 미리보기](previews/free-metal-texture-creation-set-01.jpg)
+- 파일: `free-metal-texture-creation-set-01.zip` — 릴리스 v6.7 첨부, 16.0MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-01
+
+### Free Metal-Texture-Creation-Set 02
+![Free Metal-Texture-Creation-Set 02 미리보기](previews/free-metal-texture-creation-set-02.jpg)
+- 파일: `free-metal-texture-creation-set-02.zip` — 릴리스 v6.7 첨부, 13.2MB
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-02
+
+### Free Metal-Texture-Creation-Set 03
+![Free Metal-Texture-Creation-Set 03 미리보기](previews/free-metal-texture-creation-set-03.jpg)
+- 파일: `free-metal-texture-creation-set-03.zip` — 릴리스 v6.7 첨부, 20.5MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-03
+
+### Free Metal-Texture-Creation-Set 04
+![Free Metal-Texture-Creation-Set 04 미리보기](previews/free-metal-texture-creation-set-04.jpg)
+- 파일: `free-metal-texture-creation-set-04.zip` — 릴리스 v6.7 첨부, 17.8MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-04
+
+### Free Metal-Texture-Creation-Set 05
+![Free Metal-Texture-Creation-Set 05 미리보기](previews/free-metal-texture-creation-set-05.jpg)
+- 파일: `free-metal-texture-creation-set-05.zip` — 릴리스 v6.7 첨부, 21.0MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-05
+
+## 2026-10-28 추가 팩 13차 (릴리스 v6.8)
+
+모두 rubberduck (OpenGameArt) CC0 텍스처 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`). parts-from-set1-to-10은 이름상 metal-texture-creation-set-01~10 관련이나 바이트 해시 기준 중복 파일 0건으로 별도 수록.
+
+### Free Metal-Texture-Creation-Set 06
+![Free Metal-Texture-Creation-Set 06 미리보기](previews/free-metal-texture-creation-set-06.jpg)
+- 파일: `free-metal-texture-creation-set-06.zip` — 릴리스 v6.8 첨부, 45.6MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-06
+
+### Free Metal-Texture-Creation-Set 07
+![Free Metal-Texture-Creation-Set 07 미리보기](previews/free-metal-texture-creation-set-07.jpg)
+- 파일: `free-metal-texture-creation-set-07.zip` — 릴리스 v6.8 첨부, 5.1MB
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-07
+
+### Free Metal-Texture-Creation-Set 08
+![Free Metal-Texture-Creation-Set 08 미리보기](previews/free-metal-texture-creation-set-08.jpg)
+- 파일: `free-metal-texture-creation-set-08.zip` — 릴리스 v6.8 첨부, 41.0MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-08
+
+### Free Metal-Texture-Creation-Set 09
+![Free Metal-Texture-Creation-Set 09 미리보기](previews/free-metal-texture-creation-set-09.jpg)
+- 파일: `free-metal-texture-creation-set-09.zip` — 릴리스 v6.8 첨부, 45.5MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-09
+
+### Free Metal-Texture-Creation-Set 10
+![Free Metal-Texture-Creation-Set 10 미리보기](previews/free-metal-texture-creation-set-10.jpg)
+- 파일: `free-metal-texture-creation-set-10.zip` — 릴리스 v6.8 첨부, 10.7MB
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-metal-texture-creation-set-10
+
+### Free texture resource pack: metal and other
+![Free texture resource pack: metal and other 미리보기](previews/free-texture-resource-pack-metal-and-other.jpg)
+- 파일: `free-texture-resource-pack-metal-and-other.zip` — 릴리스 v6.8 첨부, 294.0MB plain split 20조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-texture-resource-pack-metal-and-other
+
+### Free texture resource pack: metal, nature, wood and structures
+![Free texture resource pack: metal, nature, wood and structures 미리보기](previews/free-texture-resource-pack-metal-nature-wood-and-structures.jpg)
+- 파일: `free-texture-resource-pack-metal-nature-wood-and-structures.zip` — 릴리스 v6.8 첨부, 238.5MB plain split 16조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-texture-resource-pack-metal-nature-wood-and-structures
+
+### Free texture resource pack: moss, rock, patterns and misc
+![Free texture resource pack: moss, rock, patterns and misc 미리보기](previews/free-texture-resource-pack-moss-rock-patterns-and-misc.jpg)
+- 파일: `free-texture-resource-pack-moss-rock-patterns-and-misc.zip` — 릴리스 v6.8 첨부, 160.6MB plain split 11조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-texture-resource-pack-moss-rock-patterns-and-misc
+
+### Free texture resource pack: nature, patterns, various other
+![Free texture resource pack: nature, patterns, various other 미리보기](previews/free-texture-resource-pack-nature-patterns-various-other.jpg)
+- 파일: `free-texture-resource-pack-nature-patterns-various-other.zip` — 릴리스 v6.8 첨부, 304.3MB plain split 21조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-texture-resource-pack-nature-patterns-various-other
+
+### Free texture resource pack: walls, windows, doors and textile
+![Free texture resource pack: walls, windows, doors and textile 미리보기](previews/free-texture-resource-pack-walls-windows-doors-and-textile.jpg)
+- 파일: `free-texture-resource-pack-walls-windows-doors-and-textile.zip` — 릴리스 v6.8 첨부, 87.4MB plain split 6조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-texture-resource-pack-walls-windows-doors-and-textile
+
+### Free texture resource pack: wood, structure, walls and textile
+![Free texture resource pack: wood, structure, walls and textile 미리보기](previews/free-texture-resource-pack-wood-structure-walls-and-textile.jpg)
+- 파일: `free-texture-resource-pack-wood-structure-walls-and-textile.zip` — 릴리스 v6.8 첨부, 318.9MB plain split 22조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/free-texture-resource-pack-wood-structure-walls-and-textile
+
+### handpainted brick texture pack
+![handpainted brick texture pack 미리보기](previews/handpainted-brick-texture-pack.jpg)
+- 파일: `handpainted-brick-texture-pack.zip` — 릴리스 v6.8 첨부, 24.5MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/handpainted-brick-texture-pack
+
+### handpainted grass texture pack
+![handpainted grass texture pack 미리보기](previews/handpainted-grass-texture-pack.jpg)
+- 파일: `handpainted-grass-texture-pack.zip` — 릴리스 v6.8 첨부, 19.7MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/handpainted-grass-texture-pack
+
+### handpainted rock texture
+![handpainted rock texture 미리보기](previews/handpainted-rock-texture.jpg)
+- 파일: `handpainted-rock-texture.zip` — 릴리스 v6.8 첨부, 38.8MB plain split 3조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/handpainted-rock-texture
+
+### handpainted rock textures
+![handpainted rock textures 미리보기](previews/handpainted-rock-textures.jpg)
+- 파일: `handpainted-rock-textures.zip` — 릴리스 v6.8 첨부, 61.8MB plain split 5조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/handpainted-rock-textures
+
+### high-res texture pack 1
+![high-res texture pack 1 미리보기](previews/high-res-texture-pack-1.jpg)
+- 파일: `high-res-texture-pack-1.zip` — 릴리스 v6.8 첨부, 288.8MB plain split 20조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/high-res-texture-pack-1
+
+### high-res texture pack 2
+![high-res texture pack 2 미리보기](previews/high-res-texture-pack-2.jpg)
+- 파일: `high-res-texture-pack-2.zip` — 릴리스 v6.8 첨부, 298.3MB plain split 20조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/high-res-texture-pack-2
+
+### high-res tree textures
+![high-res tree textures 미리보기](previews/high-res-tree-textures.jpg)
+- 파일: `high-res-tree-textures.zip` — 릴리스 v6.8 첨부, 59.1MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/high-res-tree-textures
+
+### Huge Texture-Resource-Pack - Part 1
+![Huge Texture-Resource-Pack - Part 1 미리보기](previews/huge-texture-resource-pack-part-1.jpg)
+- 파일: `huge-texture-resource-pack-part-1.zip` — 릴리스 v6.8 첨부, 356.3MB plain split 24조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/huge-texture-resource-pack-part-1
+
+### Huge Texture-Resource-Pack - Part 2
+![Huge Texture-Resource-Pack - Part 2 미리보기](previews/huge-texture-resource-pack-part-2.jpg)
+- 파일: `huge-texture-resource-pack-part-2.zip` — 릴리스 v6.8 첨부, 322.5MB plain split 22조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/huge-texture-resource-pack-part-2
+
+### Huge Texture-Resource-Pack - Part 3
+![Huge Texture-Resource-Pack - Part 3 미리보기](previews/huge-texture-resource-pack-part-3.jpg)
+- 파일: `huge-texture-resource-pack-part-3.zip` — 릴리스 v6.8 첨부, 242.4MB plain split 17조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/huge-texture-resource-pack-part-3
+
+### Huge Texture-Resource-Pack - Part 4
+![Huge Texture-Resource-Pack - Part 4 미리보기](previews/huge-texture-resource-pack-part-4.jpg)
+- 파일: `huge-texture-resource-pack-part-4.zip` — 릴리스 v6.8 첨부, 227.0MB plain split 16조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/huge-texture-resource-pack-part-4
+
+### Metal-Texture-Creation-Extension-Set
+![Metal-Texture-Creation-Extension-Set 미리보기](previews/metal-texture-creation-extension-set.jpg)
+- 파일: `metal-texture-creation-extension-set.zip` — 릴리스 v6.8 첨부, 28.1MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/metal-texture-creation-extension-set
+
+### Parts from set1 to 10
+![Parts from set1 to 10 미리보기](previews/parts-from-set1-to-10.jpg)
+- 파일: `parts-from-set1-to-10.zip` — 릴리스 v6.8 첨부, 59.7MB plain split 4조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/parts-from-set1-to-10
+
+### Sci-Fi interface textures
+![Sci-Fi interface textures 미리보기](previews/sci-fi-interface-textures.jpg)
+- 파일: `sci-fi-interface-textures.zip` — 릴리스 v6.8 첨부, 109.9MB plain split 8조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-interface-textures
+
+### weird alien textures
+![weird alien textures 미리보기](previews/weird-alien-textures.jpg)
+- 파일: `weird-alien-textures.zip` — 릴리스 v6.8 첨부, 21.6MB plain split 2조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/weird-alien-textures
