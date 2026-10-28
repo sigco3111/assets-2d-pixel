@@ -528,3 +528,22 @@
 ![Platformer-Tileset-Template 미리보기](previews/platformer-tileset-template.jpg)
 - 파일: `platformer-tileset-template.zip` — 릴리스 v6.5 첨부, 단일
 - 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-tileset-template
+
+## 2026-10-28 추가 팩 11차 (릴리스 v6.6)
+
+모두 rubberduck (OpenGameArt) CC0 2D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`). Stylized Grassland Tileset과 Updated Grassland Tileset (Stylized)은 이름상 버전 관계지만 실제 파일 내용 중복이 없음을 해시 대조로 확인한 별개 팩입니다.
+
+### Stylized Grassland Tileset
+![Stylized Grassland Tileset 미리보기](previews/stylized-grassland-tileset.jpg)
+- 파일: `stylized-grassland-tileset.zip` — 릴리스 v6.6 첨부, 178.8MB plain split 12조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/stylized-grassland-tileset
+
+### Teleporter Effect
+![Teleporter Effect 미리보기](previews/teleporter-effect.jpg)
+- 파일: `teleporter-effect.zip` — 릴리스 v6.6 첨부, 135.0MB plain split 9조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/teleporter-effect
+
+### Updated Grassland Tileset (Stylized)
+![Updated Grassland Tileset (Stylized) 미리보기](previews/updated-grassland-tileset-stylized.jpg)
+- 파일: `updated-grassland-tileset-stylized.zip` — 릴리스 v6.6 첨부, 123.2MB plain split 8조각
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/updated-grassland-tileset-stylized
