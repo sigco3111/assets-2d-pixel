@@ -274,3 +274,35 @@
 ![Tower Defense 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/tower-defense.png)
 - 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/tower-defense.zip) (1.5M, 파일 249개)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tower-defense
+
+## 2026-10-28 분류 정정 (릴리스 v5.0)
+
+3D 저장소에 잘못 들어가 있던 2D 스프라이트·타일 6팩과 이미지 텍스처 1팩을 옮겼습니다. 팩 안에 3D 모델 파일(GLB·OBJ·FBX 등)이 없는 것을 확인했습니다. 파일은 원본과 동일합니다(SHA-256 대조).
+### Brick Pack
+![Brick Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/brick-pack.png)
+- 파일: [릴리스 v5.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/brick-pack.zip) (PNG 109개: 색상별 벽돌 스프라이트와 스프라이트시트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/brick-pack
+### Modular Characters
+![Modular Characters 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/modular-characters.png)
+- 파일: [릴리스 v5.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/modular-characters.zip) (PNG 437개: 얼굴·옷·신발 등 조합형 캐릭터 파츠와 스프라이트시트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/modular-characters
+### Prototype Textures
+![Prototype Textures 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/prototype-textures.png)
+- 파일: [릴리스 v5.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/prototype-textures.zip) (PNG 80개: 1024x1024 그리드 프로토타입 텍스처 (3D 모델 없음))
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/prototype-textures
+### Racing Pack
+![Racing Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/racing-pack.png)
+- 파일: [릴리스 v5.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/racing-pack.zip) (PNG 429개: 탑다운 레이싱 도로 타일·차량·오브젝트와 스프라이트시트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/racing-pack
+### Robot Pack
+![Robot Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/robot-pack.png)
+- 파일: [릴리스 v5.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/robot-pack.zip) (PNG 56개: 측면·탑뷰 로봇 스프라이트와 스프라이트시트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/robot-pack
+### Toon Characters
+![Toon Characters 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/toon-characters.png)
+- 파일: [릴리스 v5.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/toon-characters.zip) (PNG 677개: 캐릭터별 포즈·애니메이션 프레임과 타일시트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/toon-characters
+### Voxel Pack
+![Voxel Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/voxel-pack.png)
+- 파일: [릴리스 v5.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v5.0/voxel-pack.zip) (PNG 197개: 복셀풍 타일·캐릭터·아이템 스프라이트시트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/voxel-pack
