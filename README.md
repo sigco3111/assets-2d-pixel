@@ -1329,3 +1329,31 @@ OpenGameArt 클래식 CC-BY 2D 팩. 전부 원본 라이선스 파일 미동봉 
 - 파일: `lpc-style-farm-animals.zip` — 릴리스 v8.15 첨부, 단일
 - 제작: daneeklu / 라이선스: CC-BY 3.0 (원본 페이지에 GPL 2.0 병기, CC-BY 3.0 선택) / 원본: https://opengameart.org/content/lpc-style-farm-animals
 - 내용: 동물 스프라이트시트 14종; 수집자 재포장(내용 바이트 동일)
+
+## v8.16 — OGA CC-BY 2D 팩 4종 (2026-10-29)
+
+OpenGameArt CC-BY 2D 팩 추가분. 전부 원본 라이선스 파일 미동봉 → 수집자 작성 LICENSE-SOURCE.txt 동봉(제작자·CC 버전·출처 URL·원본 SHA-256 명기). 게임 사용 시 각 팩의 제작자 표기 필요(CC-BY).
+
+### Dungeon Tileset by calciumtrice
+![Dungeon Tileset 미리보기](previews/dungeon-tileset-calciumtrice.png)
+- 파일: `dungeon-tileset-calciumtrice.zip` — 릴리스 v8.16 첨부, 단일
+- 제작: calciumtrice / 라이선스: CC-BY 3.0 / 원본: https://opengameart.org/content/dungeon-tileset-1
+- 내용: 원본 zip(dungeon tileset by calciumtrice.zip) + 추가 타일·몬스터 PNG 6종
+
+### Sewer tileset
+![Sewer tileset 미리보기](previews/sewer-tileset.png)
+- 파일: `sewer-tileset.zip` — 릴리스 v8.16 첨부, 단일
+- 제작: beast / 라이선스: CC-BY 3.0 (원본 페이지에 GPL 2.0 병기, CC-BY 3.0 선택) / 원본: https://opengameart.org/content/sewer-tileset
+- 내용: sewer_0·map_1 수록(sewer_1은 sewer_0과 바이트 동일하여 제외)
+
+### Moderna Graphical Interface
+![Moderna Graphical Interface 미리보기](previews/moderna-graphical-interface.png)
+- 파일: `moderna-graphical-interface.zip` — 릴리스 v8.16 첨부, 단일
+- 제작: jorge-avila / 라이선스: CC-BY 3.0 / 원본: https://opengameart.org/content/moderna-graphical-interface
+- 내용: UI PNG 6종(인벤토리·미션·스펠·아이콘·커서) + PSD 소스 포함
+
+### Tiny 16: Basic
+![Tiny 16: Basic 미리보기](previews/tiny-16-basic.png)
+- 파일: `tiny-16-basic.zip` — 릴리스 v8.16 첨부, 단일
+- 제작: Sharm / 라이선스: CC-BY 4.0 (원본 페이지에 CC-BY 3.0·OGA-BY 3.0 병기, CC-BY 4.0 선택) / 원본: https://opengameart.org/content/tiny-16-basic
+- 내용: Tiny16 원본 10파일(타일·캐릭터·폰트); 원본 페이지의 Tiny32 항목은 별개 프로젝트로 제외
