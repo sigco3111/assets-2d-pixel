@@ -16,7 +16,7 @@
 
 ### Tower Defense (Top-Down)
 ![Tower Defense (Top-Down) 미리보기](previews/tower-defense-top-down.png)
-- 파일: `tower-defense-top-down.zip` (PNG 603개: 타일·지형·타워·유닛·UI + SVG 원본)
+- 파일: [릴리스 v1.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v1.0/tower-defense-top-down.zip) (3.3MB, GitHub 웹 제한으로 릴리스로 배포) (PNG 603개: 타일·지형·타워·유닛·UI + SVG 원본)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tower-defense-top-down
 
 ### Alien UFO Pack
