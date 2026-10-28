@@ -60,3 +60,98 @@
 ![Smoke Particles 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/smoke-particles.png)
 - 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/smoke-particles.zip) (13MB, PNG 79개: 연기 이펙트)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/smoke-particles
+
+## 2026-10-28 추가 팩 (릴리스 v3.0)
+
+### Top-down Shooter
+![Top-down Shooter 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/top-down-shooter.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/top-down-shooter.zip) (2.8MB, 파일 602개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/top-down-shooter
+### Roguelike/RPG Pack
+![Roguelike/RPG Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/roguelike-rpg-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/roguelike-rpg-pack.zip) (0.7MB, 타일시트·맵)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/roguelike-rpg-pack
+### Roguelike Caves & Dungeons
+![Roguelike Caves & Dungeons 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/roguelike-caves-dungeons.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/roguelike-caves-dungeons.zip) (0.2MB, 스프라이트시트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/roguelike-caves-dungeons
+### Roguelike Indoors
+![Roguelike Indoors 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/roguelike-indoors.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/roguelike-indoors.zip) (0.2MB, 타일시트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/roguelike-indoors
+### Jumper Pack
+![Jumper Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/jumper-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/jumper-pack.zip) (1.5MB, 파일 133개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/jumper-pack
+### Platformer Art Pixel
+![Platformer Art Pixel 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/platformer-art-pixel.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/platformer-art-pixel.zip) (0.3MB, 파일 908개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-art-pixel
+### Sokoban
+![Sokoban 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/sokoban.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/sokoban.zip) (1.6MB, 파일 216개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/sokoban
+### Puzzle Pack 2
+![Puzzle Pack 2 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/puzzle-pack-2.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/puzzle-pack-2.zip) (3.9MB, 파일 861개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/puzzle-pack-2
+### Physics Assets
+![Physics Assets 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/physics-assets.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/physics-assets.zip) (2.6MB, 파일 369개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/physics-assets
+### Board Game Pack
+![Board Game Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/boardgame-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/boardgame-pack.zip) (2.2MB, 파일 583개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/boardgame-pack
+### Hexagon Pack
+![Hexagon Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/hexagon-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/hexagon-pack.zip) (4.4MB, 파일 330개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/hexagon-pack
+### Map Pack
+![Map Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/map-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/map-pack.zip) (2.3MB, 파일 198개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/map-pack
+### Tappy Plane
+![Tappy Plane 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/tappy-plane.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/tappy-plane.zip) (1MB, 파일 90개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tappy-plane
+### Abstract Platformer
+![Abstract Platformer 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/abstract-platformer.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/abstract-platformer.zip) (2.5MB, 파일 401개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/abstract-platformer
+### Fish Pack
+![Fish Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/fish-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/fish-pack.zip) (1.4MB, 파일 263개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/fish-pack
+### Shooting Gallery
+![Shooting Gallery 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/shooting-gallery.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/shooting-gallery.zip) (0.8MB, 파일 124개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/shooting-gallery
+### Letter Tiles
+![Letter Tiles 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/letter-tiles.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/letter-tiles.zip) (15.5MB, 파일 240개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/letter-tiles
+### Space Shooter Extension
+![Space Shooter Extension 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/space-shooter-extension.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/space-shooter-extension.zip) (2.8MB, 파일 566개; 확장팩(기본 Space Shooter Redux 미포함·공식 페이지 폐지로 기본팩 미수록))
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/space-shooter-extension
+### Pirate Pack
+![Pirate Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/pirate-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/pirate-pack.zip) (2.6MB, 파일 411개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pirate-pack
+### Medieval RTS
+![Medieval RTS 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/medieval-rts.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/medieval-rts.zip) (1.8MB, 파일 270개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/medieval-rts
+### Sports Pack
+![Sports Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/sports-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/sports-pack.zip) (1.3MB, 파일 238개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/sports-pack
+### Foliage Sprites
+![Foliage Sprites 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/foliage-sprites.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/foliage-sprites.zip) (2.4MB, 파일 107개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/foliage-sprites
+### Platformer Characters
+![Platformer Characters 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/platformer-characters.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/platformer-characters.zip) (1.4MB, 파일 178개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-characters
