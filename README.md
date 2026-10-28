@@ -37,3 +37,26 @@
 - 파일 바이트는 Kenney 공식 미러 github.com/ETdoFresh/kenney.nl 에서 확보했으며, 공식 사이트 원본과 바이트 대조는 하지 않았습니다.
 
 전체 인덱스와 장르 태그: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog)
+
+## 2026-10-28 추가 팩 (릴리스 v2.0)
+
+### Background Elements
+![Background Elements 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/background-elements.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/background-elements.zip) (1MB, PNG 125개: 스크롤 배경 레이어)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/background-elements
+### Roguelike Modern City
+![Roguelike Modern City 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/roguelike-modern-city.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/roguelike-modern-city.zip) (0.5MB, 현대 도시 로그라이크 타일셋)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/roguelike-modern-city
+### Animal Pack
+![Animal Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/animal-pack.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/animal-pack.zip) (2.5MB, PNG 89개: 동물 캐릭터 스프라이트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/animal-pack
+### Particle Pack
+![Particle Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/particle-pack.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/particle-pack.zip) (15MB, PNG 193개: 불·연기·폭발 파티클)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/particle-pack
+### Smoke Particles
+![Smoke Particles 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/smoke-particles.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v2.0/smoke-particles.zip) (13MB, PNG 79개: 연기 이펙트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/smoke-particles
