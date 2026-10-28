@@ -1357,3 +1357,19 @@ OpenGameArt CC-BY 2D 팩 추가분. 전부 원본 라이선스 파일 미동봉 
 - 파일: `tiny-16-basic.zip` — 릴리스 v8.16 첨부, 단일
 - 제작: Sharm / 라이선스: CC-BY 4.0 (원본 페이지에 CC-BY 3.0·OGA-BY 3.0 병기, CC-BY 4.0 선택) / 원본: https://opengameart.org/content/tiny-16-basic
 - 내용: Tiny16 원본 10파일(타일·캐릭터·폰트); 원본 페이지의 Tiny32 항목은 별개 프로젝트로 제외
+
+## v8.17 — OGA CC-BY 2D 팩 2종 (2026-10-29)
+
+OpenGameArt CC-BY 2D 팩 추가분. 전부 원본 라이선스 파일 미동봉 → 수집자 작성 LICENSE-SOURCE.txt 동봉(제작자·CC 버전·출처 URL·원본 zip SHA-256 명기). 게임 사용 시 각 팩의 제작자 표기 필요(CC-BY).
+
+### Roguelike Tiles (large collection)
+![Roguelike Tiles 미리보기](previews/roguelike-tiles-large-collection.png)
+- 파일: `roguelike-tiles-large-collection.zip` — 릴리스 v8.17 첨부, 단일
+- 제작: bart / 라이선스: CC-BY 3.0 / 원본: https://opengameart.org/content/roguelike-tiles-large-collection
+- 내용: AngbandTk·DO(Items/SysPics/Terrain/Monsters/More)·Silmar·Work 원본 zip 8종 내장
+
+### Animated Top Down Survivor Player
+![Survivor Player 미리보기](previews/animated-top-down-survivor-player.png)
+- 파일: `animated-top-down-survivor-player.zip` — 릴리스 v8.17 첨부, 단일
+- 제작: rileygombart / 라이선스: CC-BY 3.0 / 원본: https://opengameart.org/content/animated-top-down-survivor-player
+- 내용: Top_Down_Survivor_2 + Survivor Spine 원본 zip 2종 + 스탠딩 PNG 4종(shotgun/rifle/knife/flashlight)
