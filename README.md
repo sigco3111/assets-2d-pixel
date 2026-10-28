@@ -155,3 +155,122 @@
 ![Platformer Characters 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/platformer-characters.png)
 - 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/platformer-characters.zip) (1.4MB, 파일 178개)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-characters
+
+## 2026-10-28 추가 팩 (릴리스 v4.0)
+
+### 1-Bit Pack
+![1-Bit Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/1-bit-pack.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/1-bit-pack.zip) (684K, 파일 24개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/1-bit-pack
+### Foliage Pack
+![Foliage Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/foliage-pack.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/foliage-pack.zip) (2.2M, 파일 238개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/foliage-pack
+### Hexagon Buildings
+![Hexagon Buildings 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/hexagon-buildings.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/hexagon-buildings.zip) (344K, 파일 94개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/hexagon-buildings
+### Hexagon Tiles
+![Hexagon Tiles 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/hexagon-tiles.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/hexagon-tiles.zip) (540K, 파일 113개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/hexagon-tiles
+### Isometric Blocks
+![Isometric Blocks 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-blocks.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-blocks.zip) (7.0M, 파일 163개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-blocks
+### Isometric Tiles Buildings
+![Isometric Tiles Buildings 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-tiles-buildings.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-tiles-buildings.zip) (1.7M, 파일 138개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-tiles-buildings
+### Isometric Tiles City
+![Isometric Tiles City 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-tiles-city.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-tiles-city.zip) (972K, 파일 150개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-tiles-city
+### Isometric Tiles Landscape
+![Isometric Tiles Landscape 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-tiles-landscape.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-tiles-landscape.zip) (1.1M, 파일 136개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-tiles-landscape
+### Isometric Tiles Vehicles
+![Isometric Tiles Vehicles 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-tiles-vehicles.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/isometric-tiles-vehicles.zip) (2.2M, 파일 605개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/isometric-tiles-vehicles
+### Pixel Vehicle Pack
+![Pixel Vehicle Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/pixel-vehicle-pack.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/pixel-vehicle-pack.zip) (64K, 파일 92개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pixel-vehicle-pack
+### Platformer Art Buildings
+![Platformer Art Buildings 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-buildings.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-buildings.zip) (412K, 파일 106개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-art-buildings
+### Platformer Art Candy
+![Platformer Art Candy 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-candy.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-candy.zip) (580K, 파일 103개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-art-candy
+### Platformer Art Deluxe
+![Platformer Art Deluxe 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-deluxe.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-deluxe.zip) (6.4M, 파일 1055개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-art-deluxe
+### Platformer Art Extended Tileset
+![Platformer Art Extended Tileset 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-extended-tileset.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-extended-tileset.zip) (1012K, 파일 411개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-art-extended-tileset
+### Platformer Art Mushrooms
+![Platformer Art Mushrooms 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-mushrooms.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-mushrooms.zip) (420K, 파일 62개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-art-mushrooms
+### Platformer Art Requests
+![Platformer Art Requests 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-requests.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-requests.zip) (488K, 파일 106개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-art-requests
+### Platformer Art Winter
+![Platformer Art Winter 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-winter.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-art-winter.zip) (500K, 파일 104개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-art-winter
+### Platformer Bricks
+![Platformer Bricks 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-bricks.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-bricks.zip) (240K, 파일 163개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-bricks
+### Platformer Pack Industrial
+![Platformer Pack Industrial 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-pack-industrial.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-pack-industrial.zip) (1.5M, 파일 246개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-pack-industrial
+### Platformer Pack Medieval
+![Platformer Pack Medieval 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-pack-medieval.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/platformer-pack-medieval.zip) (1.8M, 파일 285개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/platformer-pack-medieval
+### Puzzle Pack 1
+![Puzzle Pack 1 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/puzzle-pack-1.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/puzzle-pack-1.zip) (564K, 파일 85개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/puzzle-pack-1
+### Road Textures
+![Road Textures 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/road-textures.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/road-textures.zip) (508K, 파일 288개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/road-textures
+### RPG Urban Pack
+![RPG Urban Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/rpg-urban-pack.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/rpg-urban-pack.zip) (308K, 파일 497개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/rpg-urban-pack
+### Sci-fi RTS
+![Sci-fi RTS 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/sci-fi-rts.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/sci-fi-rts.zip) (2.0M, 파일 279개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/sci-fi-rts
+### Scribble Platformer
+![Scribble Platformer 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/scribble-platformer.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/scribble-platformer.zip) (916K, 파일 226개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/scribble-platformer
+### Simplified Platformer Pack
+![Simplified Platformer Pack 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/simplified-platformer-pack.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/simplified-platformer-pack.zip) (676K, 파일 107개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/simplified-platformer-pack
+### Tanks
+![Tanks 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/tanks.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/tanks.zip) (1.1M, 파일 191개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tanks
+### Top-down Tanks
+![Top-down Tanks 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/top-down-tanks.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/top-down-tanks.zip) (356K, 파일 101개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/top-down-tanks
+### Tower Defense
+![Tower Defense 미리보기](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/tower-defense.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/tower-defense.zip) (1.5M, 파일 249개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tower-defense
