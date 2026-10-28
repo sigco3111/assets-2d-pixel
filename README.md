@@ -531,7 +531,7 @@
 
 ## 2026-10-28 추가 팩 11차 (릴리스 v6.6)
 
-모두 rubberduck (OpenGameArt) CC0 2D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`). Stylized Grassland Tileset과 Updated Grassland Tileset (Stylized)은 이름상 버전 관계지만 실제 파일 내용 중복이 없음을 해시 대조로 확인한 별개 팩입니다.
+모두 rubberduck (OpenGameArt) CC0 2D 팩. 원본 배포본에 라이선스 파일이 없어 수집자 작성 LICENSE-SOURCE.txt를 동봉했습니다. 분할 팩 재결합: `cat <팩명>.zip.part* > <팩명>.zip` (Windows: `copy /b part01+part02+... <팩명>.zip`). Stylized Grassland Tileset과 Updated Grassland Tileset (Stylized)은 이름상 버전 관계로 보이며, 바이트 해시 기준 중복 파일은 0건입니다(재인코딩된 동일 그림 가능성까지는 배제하지 않음).
 
 ### Stylized Grassland Tileset
 ![Stylized Grassland Tileset 미리보기](previews/stylized-grassland-tileset.jpg)
