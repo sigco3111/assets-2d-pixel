@@ -1296,3 +1296,36 @@ Kenney 공식 사이트 전수 대조로 수집한 신규 2D·텍스처 팩 76�
 - 파일: `yellow-paint-pack.zip` — 릴리스 v8.11 첨부, 단일
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/yellow-paint-pack
 - 내용: PNG 27개·SVG 13개; zip에 원본 License.txt(CC0) 포함; 원본 바이트 그대로
+## v8.15 — OGA CC-BY 2D 팩 5종 (2026-10-29)
+
+OpenGameArt 클래식 CC-BY 2D 팩. 전부 원본 라이선스 파일 미동봉 → 수집자 작성 LICENSE-SOURCE.txt 동봉(제작자·CC 버전·출처 URL·원본 SHA-256 명기). 게임 사용 시 각 팩의 제작자 표기 필요(CC-BY).
+
+### Fantasy Icon Pack by Ravenmore
+![Fantasy Icon Pack 미리보기](previews/fantasy-icon-pack-ravenmore.png)
+- 파일: `fantasy-icon-pack-ravenmore.zip` — 릴리스 v8.15 첨부, 단일
+- 제작: ravenmore / 라이선스: CC-BY 3.0 / 원본: https://opengameart.org/content/fantasy-icon-pack-by-ravenmore-0
+- 내용: 아이콘 126파일 원본 zip 내장
+
+### Bosses and monsters spritesheets (Ars Notoria)
+![Ars Notoria 미리보기](previews/bosses-and-monsters-ars-notoria.png)
+- 파일: `bosses-and-monsters-spritesheets-ars-notoria.zip` — 릴리스 v8.15 첨부, 단일
+- 제작: balmer / 라이선스: CC-BY 3.0 / 원본: https://opengameart.org/content/bosses-and-monsters-spritesheets-ars-notoria
+- 내용: 보스·몬스터 스프라이트시트 13파일 원본 zip 내장
+
+### Cave tileset
+![Cave tileset 미리보기](previews/cave-tileset.png)
+- 파일: `cave-tileset.zip` — 릴리스 v8.15 첨부, 단일
+- 제작: beast / 라이선스: CC-BY 3.0 (원본 페이지에 GPL 2.0 병기, CC-BY 3.0 선택) / 원본: https://opengameart.org/content/cave-tileset-0
+- 내용: 타일셋 PNG + 예시 맵; 수집자 재포장(내용 바이트 동일)
+
+### Hyptosis tiles and sprites
+![Hyptosis 미리보기](previews/hyptosis-tiles-and-sprites.png)
+- 파일: `hyptosis-tiles-and-sprites.zip` — 릴리스 v8.15 첨부, 단일
+- 제작: Hyptosis / 라이선스: CC-BY 3.0 / 원본: https://opengameart.org/content/lots-of-free-2d-tiles-and-sprites-by-hyptosis
+- 내용: 타일·스프라이트 PNG 6종; 수집자 재포장(내용 바이트 동일)
+
+### LPC style farm animals
+![LPC farm animals 미리보기](previews/lpc-style-farm-animals.png)
+- 파일: `lpc-style-farm-animals.zip` — 릴리스 v8.15 첨부, 단일
+- 제작: daneeklu / 라이선스: CC-BY 3.0 (원본 페이지에 GPL 2.0 병기, CC-BY 3.0 선택) / 원본: https://opengameart.org/content/lpc-style-farm-animals
+- 내용: 동물 스프라이트시트 14종; 수집자 재포장(내용 바이트 동일)
