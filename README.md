@@ -1,6 +1,6 @@
 # assets-2d-pixel
 
-2D 픽셀 스프라이트와 타일셋. RPG·로그라이크·플랫포머에 바로 쓸 수 있는 CC0 팩.
+2D 픽셀 스프라이트와 타일셋. RPG·로그라이크·플랫포머·타워디펜스·슈팅에 바로 쓸 수 있는 CC0 팩.
 
 ## 수록 팩
 
@@ -13,6 +13,16 @@
 ![1-Bit Platformer 미리보기](previews/1bitplatformerpack.png)
 - 파일: `1bitplatformerpack.zip` (PNG 806개: 타일·캐릭터·적·UI)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/1-bit-platformer-pack
+
+### Tower Defense (Top-Down)
+![Tower Defense (Top-Down) 미리보기](previews/tower-defense-top-down.png)
+- 파일: `tower-defense-top-down.zip` (PNG 603개: 타일·지형·타워·유닛·UI + SVG 원본)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/tower-defense-top-down
+
+### Alien UFO Pack
+![Alien UFO Pack 미리보기](previews/alien-ufo-pack.png)
+- 파일: `alien-ufo-pack.zip` (PNG 50개: UFO·빔·폭발 이펙트 + 스프라이트시트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/alien-ufo-pack
 
 ## 사용 방법
 
