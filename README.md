@@ -1373,3 +1373,223 @@ OpenGameArt CC-BY 2D 팩 추가분. 전부 원본 라이선스 파일 미동봉 
 - 파일: `animated-top-down-survivor-player.zip` — 릴리스 v8.17 첨부, 단일
 - 제작: rileygombart / 라이선스: CC-BY 3.0 / 원본: https://opengameart.org/content/animated-top-down-survivor-player
 - 내용: Top_Down_Survivor_2 + Survivor Spine 원본 zip 2종 + 스탠딩 PNG 4종(shotgun/rifle/knife/flashlight)
+
+## v8.18 — ansimuz CC0 2D 팩 36종 (2026-10-30)
+
+OpenGameArt 수집 ansimuz(Luis Zuno) 2D 팩. 전부 OGA 페이지 CC0 표기 확인. 36종 모두 원본 `public-license.txt` 동봉(재배포 허용 명시).
+
+### Dancing Girl Sprites
+![Dancing Girl Sprites 미리보기](previews/dancing-girl-sprites.png)
+- 파일: `dancing-girl-sprites.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/dancing-girl-sprites
+- 내용: 파일 58개 (.png 45개, .ase 6개, .gif 6개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Fort of Illusion
+![Fort of Illusion 미리보기](previews/fort-of-illusion.png)
+- 파일: `fort-of-illusion.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/fort-of-illusion
+- 내용: 파일 14개 (.png 12개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Gothicvania Bridge Expansion Pack 1
+![Gothicvania Bridge Expansion Pack 1 미리보기](previews/gothicvania-bridge-expansion-pack-1.png)
+- 파일: `gothicvania-bridge-expansion-pack-1.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/gothicvania-bridge-expansion-pack-1
+- 내용: 파일 6개 (.png 4개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### GothicVania - Church Pack
+![GothicVania - Church Pack 미리보기](previews/gothicvania-church-pack.png)
+- 파일: `gothicvania-church-pack.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/gothicvania-church-pack
+- 내용: 파일 137개 (.png 101개, .gif 20개, .json 7개, .ase 6개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Gothicvania Junk Wasteland Environment
+![Gothicvania Junk Wasteland Environment 미리보기](previews/gothicvania-junk-wasteland-environment.png)
+- 파일: `gothicvania-junk-wasteland-environment.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/gothicvania-junk-wasteland-environment
+- 내용: 파일 7개 (.png 5개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Gothicvania Magic Pack 9
+![Gothicvania Magic Pack 9 미리보기](previews/gothicvania-magic-pack-9.png)
+- 파일: `gothicvania-magic-pack-9.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/gothicvania-magic-pack-9
+- 내용: 파일 59개 (.png 50개, .ase 4개, .gif 4개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Gothicvania Rocky Pass Environment
+![Gothicvania Rocky Pass Environment 미리보기](previews/gothicvania-rocky-pass-environment.png)
+- 파일: `gothicvania-rocky-pass-environment.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/gothicvania-rocky-pass-environment
+- 내용: 파일 12개 (.png 10개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Gotthicvania Swamp
+![Gotthicvania Swamp 미리보기](previews/gotthicvania-swamp.png)
+- 파일: `gotthicvania-swamp.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/gotthicvania-swamp
+- 내용: 파일 78개 (.png 63개, .ase 6개, .gif 6개, .psd 2개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Legend of Faune
+![Legend of Faune 미리보기](previews/legend-of-faune.png)
+- 파일: `legend-of-faune.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/legend-of-faune
+- 내용: 파일 125개 (.png 92개, .psd 26개, .gif 6개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Magical Road Pixel Art Environment
+![Magical Road Pixel Art Environment 미리보기](previews/magical-road-pixel-art-environment.png)
+- 파일: `magical-road-pixel-art-environment.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/magical-road-pixel-art-environment
+- 내용: 파일 8개 (.png 6개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Mega Bot Assets Pack
+![Mega Bot Assets Pack 미리보기](previews/mega-bot-assets-pack.png)
+- 파일: `mega-bot-assets-pack.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/mega-bot-assets-pack
+- 내용: 파일 24개 (.png 19개, .ase 4개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### MegaBot Areas Pack 1
+![MegaBot Areas Pack 1 미리보기](previews/megabot-areas-pack-1.png)
+- 파일: `megabot-areas-pack-1.z01`, `megabot-areas-pack-1.z02`, `megabot-areas-pack-1.zip` — 릴리스 v8.18 첨부, 3분할 (zip -s 15MB, 순서대로 이어붙이면 원본 zip)
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/megabot-areas-pack-1
+- 내용: 파일 46개 (.png 29개, .ase 7개, .mp3 3개, .wav 3개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 3분할
+
+### Phantasy Dungeon Entrance
+![Phantasy Dungeon Entrance 미리보기](previews/phantasy-dungeon-entrance.png)
+- 파일: `phantasy-dungeon-entrance.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/phantasy-dungeon-entrance
+- 내용: 파일 4개 (.png 2개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Phantasy Tiny RPG Mobs Pack 2
+![Phantasy Tiny RPG Mobs Pack 2 미리보기](previews/phantasy-tiny-rpg-mobs-pack-2.png)
+- 파일: `phantasy-tiny-rpg-mobs-pack-2.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/phantasy-tiny-rpg-mobs-pack-2
+- 내용: 파일 11개 (.png 10개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Sideview Sci-Fi - Patreon Collection
+![Sideview Sci-Fi - Patreon Collection 미리보기](previews/sideview-sci-fi-patreon-collection.png)
+- 파일: `sideview-sci-fi-patreon-collection.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/sideview-sci-fi-patreon-collection
+- 내용: 파일 187개 (.png 125개, .psd 31개, .gif 27개, .ase 2개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Stomper Platform Assets
+![Stomper Platform Assets 미리보기](previews/stomper-platform-assets.png)
+- 파일: `stomper-platform-assets.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/stomper-platform-assets
+- 내용: 파일 134개 (.png 98개, .ase 13개, .wav 9개, .aseprite 8개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Streets of Fight
+![Streets of Fight 미리보기](previews/streets-of-fight.png)
+- 파일: `streets-of-fight.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/streets-of-fight
+- 내용: 파일 98개 (.png 81개, .gif 13개, .ase 3개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### SunnyLand Expansion Pack: Trees
+![SunnyLand Expansion Pack: Trees 미리보기](previews/sunnyland-expansion-pack-trees.png)
+- 파일: `sunnyland-expansion-pack-trees.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/sunnyland-expansion-pack-trees
+- 내용: 파일 8개 (.png 6개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### SunnyLand Forest of Illusion
+![SunnyLand Forest of Illusion 미리보기](previews/sunnyland-forest-of-illusion.png)
+- 파일: `sunnyland-forest-of-illusion.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/sunnyland-forest-of-illusion
+- 내용: 파일 7개 (.png 5개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### SunnyLand Tall Forest Environment
+![SunnyLand Tall Forest Environment 미리보기](previews/sunnyland-tall-forest-environment.png)
+- 파일: `sunnyland-tall-forest-environment.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/sunnyland-tall-forest-environment
+- 내용: 파일 11개 (.png 9개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Tiny RPG Mountain Tileset
+![Tiny RPG Mountain Tileset 미리보기](previews/tiny-rpg-mountain-tileset.png)
+- 파일: `tiny-rpg-mountain-tileset.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/tiny-rpg-mountain-tileset
+- 내용: 파일 6개 (.png 4개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### TinyRpg Stranger Forest Pack
+![TinyRpg Stranger Forest Pack 미리보기](previews/tinyrpg-stranger-forest-pack.png)
+- 파일: `tinyrpg-stranger-forest-pack.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/tinyrpg-stranger-forest-pack
+- 내용: 파일 41개 (.png 40개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Top Down Adventure Assets
+![Top Down Adventure Assets 미리보기](previews/top-down-adventure-assets.png)
+- 파일: `top-down-adventure-assets.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/top-down-adventure-assets
+- 내용: 파일 155개 (.png 143개, .ogg 6개, .wav 5개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped Character Pro
+![Warped Character Pro 미리보기](previews/warped-character-pro.png)
+- 파일: `warped-character-pro.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-character-pro
+- 내용: 파일 10개 (.png 8개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped City 2
+![Warped City 2 미리보기](previews/warped-city-2.png)
+- 파일: `warped-city-2.z01`, `warped-city-2.zip` — 릴리스 v8.18 첨부, 2분할 (zip -s 15MB, 순서대로 이어붙이면 원본 zip)
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-city-2
+- 내용: 파일 118개 (.png 91개, .ase 12개, .gif 8개, .ogg 2개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 2분할
+
+### Warped Fast Ship
+![Warped Fast Ship 미리보기](previews/warped-fast-ship.png)
+- 파일: `warped-fast-ship.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-fast-ship
+- 내용: 파일 13개 (.png 7개, .gif 3개, .ase 2개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped Miami Synth
+![Warped Miami Synth 미리보기](previews/warped-miami-synth.png)
+- 파일: `warped-miami-synth.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-miami-synth
+- 내용: 파일 18개 (.png 15개, .ase 2개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped Ocean View
+![Warped Ocean View 미리보기](previews/warped-ocean-view.png)
+- 파일: `warped-ocean-view.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-ocean-view
+- 내용: 파일 29개 (.png 27개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped Sci-Fi Lab
+![Warped Sci-Fi Lab 미리보기](previews/warped-sci-fi-lab.png)
+- 파일: `warped-sci-fi-lab.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-sci-fi-lab
+- 내용: 파일 10개 (.png 8개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped Shooting Fx
+![Warped Shooting Fx 미리보기](previews/warped-shooting-fx.png)
+- 파일: `warped-shooting-fx.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-shooting-fx
+- 내용: 파일 101개 (.png 67개, .gif 18개, .aseprite 12개, .wav 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped Space Shooter
+![Warped Space Shooter 미리보기](previews/warped-space-shooter.png)
+- 파일: `warped-space-shooter.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-space-shooter
+- 내용: 파일 47개 (.png 29개, .ase 7개, .wav 5개, .mp3 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped: Super Grotto Escape Pack
+![Warped: Super Grotto Escape Pack 미리보기](previews/warped-super-grotto-escape-pack.png)
+- 파일: `warped-super-grotto-escape-pack.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-super-grotto-escape-pack
+- 내용: 파일 14개 (.png 9개, .ase 1개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped Top-Down Tech Lab
+![Warped Top-Down Tech Lab 미리보기](previews/warped-top-down-tech-lab.png)
+- 파일: `warped-top-down-tech-lab.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-top-down-tech-lab
+- 내용: 파일 5개 (.png 3개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped Top-Down Tech Lab 2
+![Warped Top-Down Tech Lab 2 미리보기](previews/warped-top-down-tech-lab-2.png)
+- 파일: `warped-top-down-tech-lab-2.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-top-down-tech-lab-2
+- 내용: 파일 5개 (.png 3개, .txt 1개, .ase 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
+
+### Warped Vehicles
+![Warped Vehicles 미리보기](previews/warped-vehicles.png)
+- 파일: `warped-vehicles.z01`, `warped-vehicles.zip` — 릴리스 v8.18 첨부, 2분할 (zip -s 15MB, 순서대로 이어붙이면 원본 zip)
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-vehicles
+- 내용: 파일 37개 (.png 24개, .gif 6개, .ase 3개, .txt 1개); 원본 public-license.txt 동봉(재배포 허용 명시); >15MB → 2분할
+
+### Warped Zone 202
+![Warped Zone 202 미리보기](previews/warped-zone-202.png)
+- 파일: `warped-zone-202.zip` — 릴리스 v8.18 첨부, 단일
+- 제작: ansimuz / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-zone-202
+- 내용: 파일 9개 (.png 5개, .txt 1개, .aseprite 1개); 원본 public-license.txt 동봉(재배포 허용 명시)
