@@ -544,6 +544,56 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//bulkhead-walls-hangar.zip) (102KB, png 7개 · txt 1개)
 - 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/bulkhead-walls-hangar
 
+### Urban Landscape
+![Urban Landscape 미리보기](previews/urban-landscape.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//urban-landscape.zip) (70KB, png 4개 · txt 1개)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/urban-landscape
+
+### Medals
+![Medals 미리보기](previews/medals-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//medals-2.zip) (258KB, png 32개 · txt 1개)
+- 제작: cemkalyoncu / 라이선스: CC0 / 원본: https://opengameart.org/content/medals-2
+
+### Dawn of the Gods
+![Dawn of the Gods 미리보기](previews/dawn-of-the-gods.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//dawn-of-the-gods.zip) (165KB, png 3개)
+- 제작: vk / 라이선스: CC0 / 원본: https://opengameart.org/content/dawn-of-the-gods
+
+### Super Seasonal Platformer Tiles
+![Super Seasonal Platformer Tiles 미리보기](previews/super-seasonal-platformer-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//super-seasonal-platformer-tiles.zip) (70KB, png 2개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/super-seasonal-platformer-tiles
+
+### Platformer Art: More animations and enemies
+![Platformer Art: More animations and enemies 미리보기](previews/platformer-art-more-animations-and-enemies.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platformer-art-more-animations-and-enemies.zip) (1.4MB, png 176개 · svg 2개 · txt 1개)
+- 제작: Arsonide / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-art-more-animations-and-enemies
+
+### Space Backgrounds
+![Space Backgrounds 미리보기](previews/space-backgrounds-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//space-backgrounds-3.zip) (14.6MB, png 4개 · jpg 4개)
+- 제작: Duion2 / 라이선스: CC0 / 원본: https://opengameart.org/content/space-backgrounds-3
+
+### Cute characters, monsters, and game assets
+![Cute characters, monsters, and game assets 미리보기](previews/cute-characters-monsters-and-game-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//cute-characters-monsters-and-game-assets.zip) (15.4MB, png 5개)
+- 제작: Acorn / 라이선스: CC0 / 원본: https://opengameart.org/content/cute-characters-monsters-and-game-assets
+
+### Fantasy Book
+![Fantasy Book 미리보기](previews/fantasy-book.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//fantasy-book.zip) (1.3MB, png 1개)
+- 제작: Charlie / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-book
+
+### Zombies & Skeletons
+![Zombies & Skeletons 미리보기](previews/zombies-skeletons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//zombies-skeletons.zip) (16KB, png 2개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/zombies-skeletons
+
+### 64 16x16 food sprites
+![64 16x16 food sprites 미리보기](previews/64-16x16-food-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//64-16x16-food-sprites.zip) (45KB, png 2개)
+- 제작: mold / 라이선스: CC0 / 원본: https://opengameart.org/content/64-16x16-food-sprites
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
