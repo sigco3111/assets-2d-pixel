@@ -739,6 +739,46 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//warped-caves-pixel-art-pack.zip) (5.9MB, png 120개 · json 3개 · ogg 2개 · txt 1개 · mp3 1개)
 - 제작: surt / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-caves-pixel-art-pack
 
+### Forest Tiles
+![Forest Tiles 미리보기](previews/forest-tiles-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//forest-tiles-0.zip) (2.6MB, png 2개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/forest-tiles-0
+
+### Outside tileset
+![Outside tileset 미리보기](previews/outside-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//outside-tileset.zip) (71KB, png 3개)
+- 제작: cbritez / 라이선스: CC0 / 원본: https://opengameart.org/content/outside-tileset
+
+### Modified 32x32 Treasure chest
+![Modified 32x32 Treasure chest 미리보기](previews/modified-32x32-treasure-chest.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//modified-32x32-treasure-chest.zip) (3KB, png 1개 · jpg 1개)
+- 제작: HaelDB / 라이선스: CC0 / 원본: https://opengameart.org/content/modified-32x32-treasure-chest
+
+### Several scrolling backgrounds and layerable "runners"
+![Several scrolling backgrounds and layerable "runners" 미리보기](previews/several-scrolling-backgrounds-and-layerable-runners.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//several-scrolling-backgrounds-and-layerable-runners.zip) (488KB, png 58개)
+- 제작: CruzR / 라이선스: CC0 / 원본: https://opengameart.org/content/several-scrolling-backgrounds-and-layerable-runners
+
+### Match 3
+![Match 3 미리보기](previews/match-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//match-3.zip) (59KB, png 5개)
+- 제작: Sharm / 라이선스: CC0 / 원본: https://opengameart.org/content/match-3
+
+### MV Platformer Skeleton
+![MV Platformer Skeleton 미리보기](previews/mv-platformer-skeleton.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//mv-platformer-skeleton.zip) (23KB, png 3개)
+- 제작: PixelRyan / 라이선스: CC0 / 원본: https://opengameart.org/content/mv-platformer-skeleton
+
+### Gameboy Platformer Art
+![Gameboy Platformer Art 미리보기](previews/gameboy-platformer-art.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//gameboy-platformer-art.zip) (557KB, png 29개)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/gameboy-platformer-art
+
+### Dark Fantasy item sprites
+![Dark Fantasy item sprites 미리보기](previews/dark-fantasy-item-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//dark-fantasy-item-sprites.zip) (54KB, png 2개)
+- 제작: manwesulimo2004 / 라이선스: CC0 / 원본: https://opengameart.org/content/dark-fantasy-item-sprites
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
