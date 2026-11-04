@@ -779,6 +779,51 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//dark-fantasy-item-sprites.zip) (54KB, png 2개)
 - 제작: manwesulimo2004 / 라이선스: CC0 / 원본: https://opengameart.org/content/dark-fantasy-item-sprites
 
+### Free Platformer Game Tileset
+![Free Platformer Game Tileset 미리보기](previews/free-platformer-game-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//free-platformer-game-tileset.zip) (9.2MB, png 33개 · jpg 3개 · svg 2개)
+- 제작: Aetherna / 라이선스: CC0 / 원본: https://opengameart.org/content/free-platformer-game-tileset
+
+### Animated Top Down Zombie
+![Animated Top Down Zombie 미리보기](previews/animated-top-down-zombie.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//animated-top-down-zombie.zip) (2.2MB, png 44개)
+- 제작: simkis / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-top-down-zombie
+
+### Warped City
+![Warped City 미리보기](previews/warped-city.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//warped-city.zip) (4.5MB, png 138개 · ogg 4개 · json 2개 · txt 1개 · wav 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-city
+
+### Loveable Rogue
+![Loveable Rogue 미리보기](previews/loveable-rogue.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//loveable-rogue.zip) (38KB, png 3개)
+- 제작: mfburn / 라이선스: CC0 / 원본: https://opengameart.org/content/loveable-rogue
+
+### CaverNES
+![CaverNES 미리보기](previews/cavernes.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//cavernes.zip) (26KB, png 2개)
+- 제작: dannorder / 라이선스: CC0 / 원본: https://opengameart.org/content/cavernes
+
+### Animations - Blood, Hit and Both :D
+![Animations - Blood, Hit and Both :D 미리보기](previews/animations-blood-hit-and-both-d.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//animations-blood-hit-and-both-d.zip) (2.0MB, png 4개)
+- 제작: AntumDeluge / 라이선스: CC0 / 원본: https://opengameart.org/content/animations-blood-hit-and-both-d
+
+### 2D Spell Effects
+![2D Spell Effects 미리보기](previews/2d-spell-effects.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//2d-spell-effects.zip) (3.1MB, png 231개 · txt 1개)
+- 제작: InanZen / 라이선스: CC0 / 원본: https://opengameart.org/content/2d-spell-effects
+
+### Topdown Shooter
+![Topdown Shooter 미리보기](previews/topdown-shooter.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//topdown-shooter.zip) (3.0MB, png 589개 · svg 2개 · txt 1개)
+- 제작: call me / 라이선스: CC0 / 원본: https://opengameart.org/content/topdown-shooter
+
+### Unfinished dungeon tileset
+![Unfinished dungeon tileset 미리보기](previews/unfinished-dungeon-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//unfinished-dungeon-tileset.zip) (30KB, png 2개)
+- 제작: pbondoer / 라이선스: CC0 / 원본: https://opengameart.org/content/unfinished-dungeon-tileset
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
