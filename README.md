@@ -319,6 +319,56 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//db32-cave-tileset.zip) (32KB, png 3개)
 - 제작: Sam / 라이선스: CC0 / 원본: https://opengameart.org/content/db32-cave-tileset
 
+### City Mega Pack
+![City Mega Pack 미리보기](previews/city-mega-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//city-mega-pack.zip) (258KB, png 3개)
+- 제작: greenfield / 라이선스: CC0 / 원본: https://opengameart.org/content/city-mega-pack
+
+### Underwater Diving Pack
+![Underwater Diving Pack 미리보기](previews/underwater-diving-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//underwater-diving-pack.zip) (8.3MB, png 42개 · txt 4개 · ogg 2개 · mp3 1개)
+- 제작: surt / 라이선스: CC0 / 원본: https://opengameart.org/content/underwater-diving-pack
+
+### Ruined City Background
+![Ruined City Background 미리보기](previews/ruined-city-background.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//ruined-city-background.zip) (194KB, png 5개)
+- 제작: SquareFox / 라이선스: CC0 / 원본: https://opengameart.org/content/ruined-city-background
+
+### Roguelike Modern City pack
+![Roguelike Modern City pack 미리보기](previews/roguelike-modern-city-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//roguelike-modern-city-pack.zip) (940KB, png 6개 · txt 2개)
+- 제작: LittleSadNerd / 라이선스: CC0 / 원본: https://opengameart.org/content/roguelike-modern-city-pack
+
+### Abandonauts 8x8 tile assets
+![Abandonauts 8x8 tile assets 미리보기](previews/abandonauts-8x8-tile-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//abandonauts-8x8-tile-assets.zip) (47KB, png 31개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/abandonauts-8x8-tile-assets
+
+### Pixel land 1.5
+![Pixel land 1.5 미리보기](previews/pixel-land-15.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//pixel-land-15.zip) (54KB, png 2개)
+- 제작: smonos / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-land-15
+
+### Outdoor 32x32 tileset
+![Outdoor 32x32 tileset 미리보기](previews/outdoor-32x32-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//outdoor-32x32-tileset.zip) (128KB, png 3개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/outdoor-32x32-tileset
+
+### Hexagon Tiles
+![Hexagon Tiles 미리보기](previews/hexagon-tiles-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//hexagon-tiles-0.zip) (851KB, png 103개 · txt 1개 · svg 1개)
+- 제작: Danimal / 라이선스: CC0 / 원본: https://opengameart.org/content/hexagon-tiles-0
+
+### Puzzle game art
+![Puzzle game art 미리보기](previews/puzzle-game-art.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//puzzle-game-art.zip) (725KB, png 78개 · jpg 3개 · svg 1개 · txt 1개)
+- 제작: cemkalyoncu / 라이선스: CC0 / 원본: https://opengameart.org/content/puzzle-game-art
+
+### Square Block Textures
+![Square Block Textures 미리보기](previews/square-block-textures.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//square-block-textures.zip) (36KB, png 3개)
+- 제작: DarkUranium / 라이선스: CC0 / 원본: https://opengameart.org/content/square-block-textures
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
