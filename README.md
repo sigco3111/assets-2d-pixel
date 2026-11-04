@@ -874,6 +874,56 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//rpg-character-sprites.zip) (3KB, png 2개)
 - 제작: SpiderDave / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-character-sprites
 
+### Free Top Down Car Sprites by Unlucky Studio
+![Free Top Down Car Sprites by Unlucky Studio 미리보기](previews/free-top-down-car-sprites-by-unlucky-studio.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//free-top-down-car-sprites-by-unlucky-studio.zip) (547KB, png 15개 · jpg 2개 · txt 1개)
+- 제작: headsickshawn / 라이선스: CC0 / 원본: https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio
+
+### Smoke Aura
+![Smoke Aura 미리보기](previews/smoke-aura.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//smoke-aura.zip) (5.6MB, png 95개 · blend 1개)
+- 제작: tehwave / 라이선스: CC0 / 원본: https://opengameart.org/content/smoke-aura
+
+### SunnyLand - Forest
+![SunnyLand - Forest 미리보기](previews/sunnyland-forest.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//sunnyland-forest.zip) (5.0MB, png 123개 · mp3 7개 · ogg 7개 · wav 6개 · json 3개)
+- 제작: BizmasterStudios / 라이선스: CC0 / 원본: https://opengameart.org/content/sunnyland-forest
+
+### Gun Construction Kit
+![Gun Construction Kit 미리보기](previews/gun-construction-kit.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//gun-construction-kit.zip) (459KB, jpg 5개 · svg 4개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/gun-construction-kit
+
+### Home Objects
+![Home Objects 미리보기](previews/home-objects.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//home-objects.zip) (18KB, png 4개)
+- 제작: Curt / 라이선스: CC0 / 원본: https://opengameart.org/content/home-objects
+
+### Ninja Girl - Free Sprite
+![Ninja Girl - Free Sprite 미리보기](previews/ninja-girl-free-sprite.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//ninja-girl-free-sprite.zip) (10.3MB, png 91개 · jpg 1개)
+- 제작: psychogirl4life / 라이선스: CC0 / 원본: https://opengameart.org/content/ninja-girl-free-sprite
+
+### Platform tileset nature
+![Platform tileset nature 미리보기](previews/platform-tileset-nature.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platform-tileset-nature.zip) (443KB, png 133개)
+- 제작: moonshades / 라이선스: CC0 / 원본: https://opengameart.org/content/platform-tileset-nature
+
+### Old Pages/Flip with sound
+![Old Pages/Flip with sound 미리보기](previews/old-pagesflip-with-sound.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//old-pagesflip-with-sound.zip) (3.7MB, ogg 1개 · png 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/old-pagesflip-with-sound
+
+### Japanese buildings - isometric strategy game mockup
+![Japanese buildings - isometric strategy game mockup 미리보기](previews/japanese-buildings-isometric-strategy-game-mockup.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//japanese-buildings-isometric-strategy-game-mockup.zip) (18KB, png 1개)
+- 제작: undesired / 라이선스: CC0 / 원본: https://opengameart.org/content/japanese-buildings-isometric-strategy-game-mockup
+
+### Lemcraft
+![Lemcraft 미리보기](previews/lemcraft.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//lemcraft.zip) (336KB, png 44개 · jpg 1개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/lemcraft
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
