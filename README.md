@@ -419,6 +419,46 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//fumiko-complete-charset.zip) (139KB, png 3개)
 - 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/fumiko-complete-charset
 
+### More NES-like Tiles
+![More NES-like Tiles 미리보기](previews/more-nes-like-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//more-nes-like-tiles.zip) (111KB, png 3개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/more-nes-like-tiles
+
+### Particle Pack (80+ sprites)
+![Particle Pack (80+ sprites) 미리보기](previews/particle-pack-80-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//particle-pack-80-sprites.zip) (9.9MB, png 98개 · txt 1개)
+- 제작: Prime_8 / 라이선스: CC0 / 원본: https://opengameart.org/content/particle-pack-80-sprites
+
+### Sunny Land 2D Pixel Art Pack
+![Sunny Land 2D Pixel Art Pack 미리보기](previews/sunny-land-2d-pixel-art-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//sunny-land-2d-pixel-art-pack.zip) (7.1MB, png 109개 · json 3개 · ogg 2개 · txt 1개 · mp3 1개)
+- 제작: aleksander / 라이선스: CC0 / 원본: https://opengameart.org/content/sunny-land-2d-pixel-art-pack
+
+### Space Background
+![Space Background 미리보기](previews/space-background-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//space-background-3.zip) (196KB, png 5개 · txt 1개)
+- 제작: Boogle / 라이선스: CC0 / 원본: https://opengameart.org/content/space-background-3
+
+### Platformer Art: Pixel edition
+![Platformer Art: Pixel edition 미리보기](previews/platformer-art-pixel-edition.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platformer-art-pixel-edition.zip) (72KB, png 5개 · txt 1개)
+- 제작: cdoty / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-art-pixel-edition
+
+### Platformer sprites
+![Platformer sprites 미리보기](previews/platformer-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platformer-sprites.zip) (7.4MB, png 42개 · ogg 12개 · svg 6개 · blend 3개)
+- 제작: cemkalyoncu / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-sprites
+
+### Items and elements
+![Items and elements 미리보기](previews/items-and-elements.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//items-and-elements.zip) (6KB, png 2개)
+- 제작: balmut / 라이선스: CC0 / 원본: https://opengameart.org/content/items-and-elements
+
+### Smoke particle assets
+![Smoke particle assets 미리보기](previews/smoke-particle-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//smoke-particle-assets.zip) (13.6MB, png 81개 · txt 1개)
+- 제작: RaoulWB / 라이선스: CC0 / 원본: https://opengameart.org/content/smoke-particle-assets
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
