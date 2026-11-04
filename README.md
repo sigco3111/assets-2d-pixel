@@ -924,6 +924,46 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//lemcraft.zip) (336KB, png 44개 · jpg 1개)
 - 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/lemcraft
 
+### Simple NES-like Village Tiles
+![Simple NES-like Village Tiles 미리보기](previews/simple-nes-like-village-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//simple-nes-like-village-tiles.zip) (38KB, png 3개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-nes-like-village-tiles
+
+### 2D Planets
+![2D Planets 미리보기](previews/2d-planets-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//2d-planets-0.zip) (45.7MB, png 25개)
+- 제작: sionronin / 라이선스: CC0 / 원본: https://opengameart.org/content/2d-planets-0
+
+### NESmup
+![NESmup 미리보기](previews/nesmup.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//nesmup.zip) (18KB, png 2개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/nesmup
+
+### Medals
+![Medals 미리보기](previews/medals-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//medals-3.zip) (94KB, png 3개)
+- 제작: Alucard / 라이선스: CC0 / 원본: https://opengameart.org/content/medals-3
+
+### Mr. Necromancer Man [Animated]
+![Mr. Necromancer Man [Animated] 미리보기](previews/mr-necromancer-man-animated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//mr-necromancer-man-animated.zip) (9KB, png 2개)
+- 제작: TheWzzard / 라이선스: CC0 / 원본: https://opengameart.org/content/mr-necromancer-man-animated
+
+### Shining coin Shining Health Shining Power Up Sprite Sheets
+![Shining coin Shining Health Shining Power Up Sprite Sheets 미리보기](previews/shining-coin-shining-health-shining-power-up-sprite-sheets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//shining-coin-shining-health-shining-power-up-sprite-sheets.zip) (1.8MB, png 29개)
+- 제작: bevouliin.com / 라이선스: CC0 / 원본: https://opengameart.org/content/shining-coin-shining-health-shining-power-up-sprite-sheets
+
+### Pixel city
+![Pixel city 미리보기](previews/pixel-city.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//pixel-city.zip) (50KB, png 2개)
+- 제작: VividReality / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-city
+
+### RogueDB32
+![RogueDB32 미리보기](previews/roguedb32.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//roguedb32.zip) (44KB, png 4개)
+- 제작: PreciousRoy / 라이선스: CC0 / 원본: https://opengameart.org/content/roguedb32
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
