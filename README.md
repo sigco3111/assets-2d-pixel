@@ -1094,6 +1094,41 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//cavern-tile-set.zip) (152KB, png 4개 · jpg 2개 · txt 1개)
 - 제작: AR / 라이선스: CC0 / 원본: https://opengameart.org/content/cavern-tile-set
 
+### Horror Tile Set
+![Horror Tile Set 미리보기](previews/horror-tile-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//horror-tile-set.zip) (68KB, png 2개 · txt 1개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/horror-tile-set
+
+### DawnBlocker
+![DawnBlocker 미리보기](previews/dawnblocker.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//dawnblocker.zip) (343KB, png 3개)
+- 제작: Mumu / 라이선스: CC0 / 원본: https://opengameart.org/content/dawnblocker
+
+### Cosmic Time - Magic Effect
+![Cosmic Time - Magic Effect 미리보기](previews/cosmic-time-magic-effect.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//cosmic-time-magic-effect.zip) (640KB, png 27개)
+- 제작: Perfect Morty / 라이선스: CC0 / 원본: https://opengameart.org/content/cosmic-time-magic-effect
+
+### Another NES-like Village
+![Another NES-like Village 미리보기](previews/another-nes-like-village.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//another-nes-like-village.zip) (19KB, png 2개)
+- 제작: protomank / 라이선스: CC0 / 원본: https://opengameart.org/content/another-nes-like-village
+
+### Fantasy Tiles
+![Fantasy Tiles 미리보기](previews/fantasy-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//fantasy-tiles.zip) (15KB, png 2개)
+- 제작: prozi / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-tiles
+
+### 16*16 Ship Collection
+![16*16 Ship Collection 미리보기](previews/1616-ship-collection.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//1616-ship-collection.zip) (70KB, png 3개)
+- 제작: refreshgames / 라이선스: CC0 / 원본: https://opengameart.org/content/1616-ship-collection
+
+### Isometric Landscape
+![Isometric Landscape 미리보기](previews/isometric-landscape.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//isometric-landscape.zip) (1.3MB, png 131개 · txt 1개)
+- 제작: Shmoji / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-landscape
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
