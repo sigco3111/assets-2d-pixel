@@ -189,6 +189,71 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//magic-cliffs-environment.zip) (583KB, png 8개 · txt 1개)
 - 제작: DezrasDragons / 라이선스: CC0 / 원본: https://opengameart.org/content/magic-cliffs-environment
 
+### 16x16 RPG items
+![16x16 RPG items 미리보기](previews/16x16-rpg-items.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//16x16-rpg-items.zip) (25KB, png 1개 · jpg 1개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/16x16-rpg-items
+
+### Sci-fi platform tiles
+![Sci-fi platform tiles 미리보기](previews/sci-fi-platform-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//sci-fi-platform-tiles.zip) (600KB, png 3개 · jpg 1개)
+- 제작: rubberduck / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-platform-tiles
+
+### Superpowers assets various 2d
+![Superpowers assets various 2d 미리보기](previews/superpowers-assets-various-2d.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//superpowers-assets-various-2d.zip) (4.0MB, png 792개 · txt 4개)
+- 제작: ToDaDev / 라이선스: CC0 / 원본: https://opengameart.org/content/superpowers-assets-various-2d
+
+### Simple broad-purpose tileset
+![Simple broad-purpose tileset 미리보기](previews/simple-broad-purpose-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//simple-broad-purpose-tileset.zip) (66KB, png 3개)
+- 제작: cdoty / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-broad-purpose-tileset
+
+### Sci-fi Interior tiles
+![Sci-fi Interior tiles 미리보기](previews/sci-fi-interior-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//sci-fi-interior-tiles.zip) (39KB, png 4개)
+- 제작: MDK / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-interior-tiles
+
+### 2D Shooter Effects (Alpha version)
+![2D Shooter Effects (Alpha version) 미리보기](previews/2d-shooter-effects-alpha-version.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//2d-shooter-effects-alpha-version.zip) (1.6MB, png 2개)
+- 제작: dilock / 라이선스: CC0 / 원본: https://opengameart.org/content/2d-shooter-effects-alpha-version
+
+### Arcade Platformer Assets
+![Arcade Platformer Assets 미리보기](previews/arcade-platformer-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//arcade-platformer-assets.zip) (19KB, png 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/arcade-platformer-assets
+
+### Cat sprites
+![Cat sprites 미리보기](previews/cat-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//cat-sprites.zip) (21KB, )
+- 제작: Mihail121 / 라이선스: CC0 / 원본: https://opengameart.org/content/cat-sprites
+
+### Town Tiles
+![Town Tiles 미리보기](previews/town-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//town-tiles.zip) (5KB, png 2개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/town-tiles
+
+### Modular Ships
+![Modular Ships 미리보기](previews/modular-ships.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//modular-ships.zip) (28KB, png 3개)
+- 제작: Firefly in the Dusk / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-ships
+
+### old frogatto tile art
+![old frogatto tile art 미리보기](previews/old-frogatto-tile-art.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//old-frogatto-tile-art.zip) (43KB, png 2개)
+- 제작: mirex / 라이선스: CC0 / 원본: https://opengameart.org/content/old-frogatto-tile-art
+
+### Animated Explosions
+![Animated Explosions 미리보기](previews/animated-explosions.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//animated-explosions.zip) (78KB, png 6개 · txt 1개)
+- 제작: Nikita_Sadkov / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-explosions
+
+### RPG Town Pixel Art Assets
+![RPG Town Pixel Art Assets 미리보기](previews/rpg-town-pixel-art-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//rpg-town-pixel-art-assets.zip) (305KB, png 8개 · txt 1개)
+- 제작: Reemax / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-town-pixel-art-assets
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
