@@ -644,6 +644,56 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//glitch-ilmenskie-undergroundcave-terrain-svg.zip) (6.7MB, svg 408개 · jpg 2개 · png 1개)
 - 제작: Moviemake / 라이선스: CC0 / 원본: https://opengameart.org/content/glitch-ilmenskie-undergroundcave-terrain-svg
 
+### Classical Temple Tiles
+![Classical Temple Tiles 미리보기](previews/classical-temple-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//classical-temple-tiles.zip) (42KB, png 2개)
+- 제작: CruzR / 라이선스: CC0 / 원본: https://opengameart.org/content/classical-temple-tiles
+
+### Breakout set
+![Breakout set 미리보기](previews/breakout-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//breakout-set.zip) (141KB, png 7개)
+- 제작: surt / 라이선스: CC0 / 원본: https://opengameart.org/content/breakout-set
+
+### Bat (32x32)
+![Bat (32x32) 미리보기](previews/bat-32x32.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//bat-32x32.zip) (3KB, )
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/bat-32x32
+
+### Generic Platformer Tileset (16x16) + Background
+![Generic Platformer Tileset (16x16) + Background 미리보기](previews/generic-platformer-tileset-16x16-background.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//generic-platformer-tileset-16x16-background.zip) (20KB, png 4개)
+- 제작: smoke_th / 라이선스: CC0 / 원본: https://opengameart.org/content/generic-platformer-tileset-16x16-background
+
+### top-down RPG mockup scene
+![top-down RPG mockup scene 미리보기](previews/top-down-rpg-mockup-scene.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//top-down-rpg-mockup-scene.zip) (491KB, png 14개)
+- 제작: kicknbrit / 라이선스: CC0 / 원본: https://opengameart.org/content/top-down-rpg-mockup-scene
+
+### 2D Explosion Animations #2
+![2D Explosion Animations #2 미리보기](previews/2d-explosion-animations-2-frame-by-frame.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//2d-explosion-animations-2-frame-by-frame.zip) (19.4MB, png 9개)
+- 제작: Razzved4ik / 라이선스: CC0 / 원본: https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame
+
+### Unfinished user interfaces
+![Unfinished user interfaces 미리보기](previews/unfinished-user-interfaces.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//unfinished-user-interfaces.zip) (25KB, png 1개)
+- 제작: absinthe / 라이선스: CC0 / 원본: https://opengameart.org/content/unfinished-user-interfaces
+
+### Pixel world hex tileset
+![Pixel world hex tileset 미리보기](previews/pixel-world-hex-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//pixel-world-hex-tileset.zip) (132KB, png 4개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-world-hex-tileset
+
+### simple map tiles
+![simple map tiles 미리보기](previews/simple-map-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//simple-map-tiles.zip) (7.6MB, png 6개)
+- 제작: Chestera / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-map-tiles
+
+### Isometric Buildings #1
+![Isometric Buildings #1 미리보기](previews/isometric-buildings-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//isometric-buildings-1.zip) (2.0MB, png 134개 · txt 1개)
+- 제작: Supergeek / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-buildings-1
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
