@@ -824,6 +824,56 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//unfinished-dungeon-tileset.zip) (30KB, png 2개)
 - 제작: pbondoer / 라이선스: CC0 / 원본: https://opengameart.org/content/unfinished-dungeon-tileset
 
+### Gum Bot sprites
+![Gum Bot sprites 미리보기](previews/gum-bot-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//gum-bot-sprites.zip) (5KB, png 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/gum-bot-sprites
+
+### Simple NES-like Platformer Tiles
+![Simple NES-like Platformer Tiles 미리보기](previews/simple-nes-like-platformer-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//simple-nes-like-platformer-tiles.zip) (133KB, png 3개)
+- 제작: Buch / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-nes-like-platformer-tiles
+
+### Platformer Art: Request Pack
+![Platformer Art: Request Pack 미리보기](previews/platformer-art-request-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platformer-art-request-pack.zip) (709KB, png 103개 · txt 1개 · svg 1개)
+- 제작: russpuppy / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-art-request-pack
+
+### Zombie and Skeleton 32x48
+![Zombie and Skeleton 32x48 미리보기](previews/zombie-and-skeleton-32x48.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//zombie-and-skeleton-32x48.zip) (35KB, png 2개)
+- 제작: Redshrike / 라이선스: CC0 / 원본: https://opengameart.org/content/zombie-and-skeleton-32x48
+
+### DarkNES
+![DarkNES 미리보기](previews/darknes.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//darknes.zip) (28KB, png 2개)
+- 제작: cdoty / 라이선스: CC0 / 원본: https://opengameart.org/content/darknes
+
+### 24x32 bases
+![24x32 bases 미리보기](previews/24x32-bases.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//24x32-bases.zip) (16KB, png 4개)
+- 제작: AntumDeluge / 라이선스: CC0 / 원본: https://opengameart.org/content/24x32-bases
+
+### Isometric road tiles
+![Isometric road tiles 미리보기](previews/isometric-road-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//isometric-road-tiles.zip) (935KB, png 69개 · jpg 2개 · svg 1개 · txt 1개)
+- 제작: yd / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-road-tiles
+
+### Haunted Forest Trees
+![Haunted Forest Trees 미리보기](previews/haunted-forest-trees.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//haunted-forest-trees.zip) (13KB, png 2개)
+- 제작: cemkalyoncu / 라이선스: CC0 / 원본: https://opengameart.org/content/haunted-forest-trees
+
+### Roguelike Indoor pack
+![Roguelike Indoor pack 미리보기](previews/roguelike-indoor-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//roguelike-indoor-pack.zip) (380KB, png 6개 · txt 2개)
+- 제작: Riyan010699 / 라이선스: CC0 / 원본: https://opengameart.org/content/roguelike-indoor-pack
+
+### RPG character sprites
+![RPG character sprites 미리보기](previews/rpg-character-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//rpg-character-sprites.zip) (3KB, png 2개)
+- 제작: SpiderDave / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-character-sprites
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
