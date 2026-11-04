@@ -694,6 +694,51 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//isometric-buildings-1.zip) (2.0MB, png 134개 · txt 1개)
 - 제작: Supergeek / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-buildings-1
 
+### Oil painting landscapes
+![Oil painting landscapes 미리보기](previews/oil-painting-landscapes.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//oil-painting-landscapes.zip) (2.9MB, png 4개)
+- 제작: Pompei2 / 라이선스: CC0 / 원본: https://opengameart.org/content/oil-painting-landscapes
+
+### Boxes and crates - svg and pngs
+![Boxes and crates - svg and pngs 미리보기](previews/boxes-and-crates-svg-and-pngs.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//boxes-and-crates-svg-and-pngs.zip) (126KB, png 11개 · svg 1개)
+- 제작: Delirius / 라이선스: CC0 / 원본: https://opengameart.org/content/boxes-and-crates-svg-and-pngs
+
+### Space Ship Shooter Pixel Art Assets
+![Space Ship Shooter Pixel Art Assets 미리보기](previews/space-ship-shooter-pixel-art-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//space-ship-shooter-pixel-art-assets.zip) (168KB, png 12개 · txt 1개)
+- 제작: NiceVibe / 라이선스: CC0 / 원본: https://opengameart.org/content/space-ship-shooter-pixel-art-assets
+
+### Mnimap
+![Mnimap 미리보기](previews/mnimap.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//mnimap.zip) (3.6MB, png 1개)
+- 제작: Buch / 라이선스: CC0 / 원본: https://opengameart.org/content/mnimap
+
+### Blowhard Chronicles
+![Blowhard Chronicles 미리보기](previews/blowhard-chronicles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//blowhard-chronicles.zip) (4KB, png 2개)
+- 제작: Sharm / 라이선스: CC0 / 원본: https://opengameart.org/content/blowhard-chronicles
+
+### Space Shooter Extension (250+)
+![Space Shooter Extension (250+) 미리보기](previews/space-shooter-extension-250.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//space-shooter-extension-250.zip) (3.3MB, png 563개 · txt 1개 · svg 1개)
+- 제작: KASTLE Knight / 라이선스: CC0 / 원본: https://opengameart.org/content/space-shooter-extension-250
+
+### Platformer Baddies
+![Platformer Baddies 미리보기](previews/platformer-baddies.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platformer-baddies.zip) (4KB, png 2개)
+- 제작: surt / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-baddies
+
+### Isometric road tiles (Nova)
+![Isometric road tiles (Nova) 미리보기](previews/isometric-road-tiles-nova.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//isometric-road-tiles-nova.zip) (979KB, png 96개 · jpg 2개 · svg 1개 · txt 1개)
+- 제작: Jattenalle / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-road-tiles-nova
+
+### Warped Caves Pixel Art Pack
+![Warped Caves Pixel Art Pack 미리보기](previews/warped-caves-pixel-art-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//warped-caves-pixel-art-pack.zip) (5.9MB, png 120개 · json 3개 · ogg 2개 · txt 1개 · mp3 1개)
+- 제작: surt / 라이선스: CC0 / 원본: https://opengameart.org/content/warped-caves-pixel-art-pack
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
