@@ -594,6 +594,56 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//64-16x16-food-sprites.zip) (45KB, png 2개)
 - 제작: mold / 라이선스: CC0 / 원본: https://opengameart.org/content/64-16x16-food-sprites
 
+### Animated particle effects #1
+![Animated particle effects #1 미리보기](previews/animated-particle-effects-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//animated-particle-effects-1.zip) (16.1MB, png 14개 · jpg 1개)
+- 제작: yd / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-particle-effects-1
+
+### Gameboy Tileset
+![Gameboy Tileset 미리보기](previews/gameboy-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//gameboy-tileset.zip) (56KB, png 2개)
+- 제작: SdiviHall / 라이선스: CC0 / 원본: https://opengameart.org/content/gameboy-tileset
+
+### Sci-fi platformer tileset
+![Sci-fi platformer tileset 미리보기](previews/sci-fi-platformer-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//sci-fi-platformer-tileset.zip) (132KB, png 7개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-platformer-tileset
+
+### Superpowers assets characters
+![Superpowers assets characters 미리보기](previews/superpowers-assets-characters.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//superpowers-assets-characters.zip) (4.3MB, png 279개 · txt 4개 · jpg 1개 · aseprite 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/superpowers-assets-characters
+
+### RPG pack: base set
+![RPG pack: base set 미리보기](previews/rpg-pack-base-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//rpg-pack-base-set.zip) (1.9MB, png 235개 · txt 1개 · svg 1개)
+- 제작: TangZero / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-pack-base-set
+
+### Treasure chests, 32x32 and 16x16
+![Treasure chests, 32x32 and 16x16 미리보기](previews/treasure-chests-32x32-and-16x16.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//treasure-chests-32x32-and-16x16.zip) (32KB, png 5개)
+- 제작: Gaurav / 라이선스: CC0 / 원본: https://opengameart.org/content/treasure-chests-32x32-and-16x16
+
+### explosion
+![explosion 미리보기](previews/explosion.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//explosion.zip) (256KB, jpg 4개 · png 2개)
+- 제작: Charlie / 라이선스: CC0 / 원본: https://opengameart.org/content/explosion
+
+### Roguelike Character pack
+![Roguelike Character pack 미리보기](previews/roguelike-character-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//roguelike-character-pack.zip) (233KB, png 6개 · txt 2개)
+- 제작: Sogomn / 라이선스: CC0 / 원본: https://opengameart.org/content/roguelike-character-pack
+
+### candy pack 1
+![candy pack 1 미리보기](previews/candy-pack-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//candy-pack-1.zip) (5.0MB, png 341개 · svg 1개)
+- 제작: Jan125 / 라이선스: CC0 / 원본: https://opengameart.org/content/candy-pack-1
+
+### Glitch Ilmenskie underground/cave terrain (SVG)
+![Glitch Ilmenskie underground/cave terrain (SVG) 미리보기](previews/glitch-ilmenskie-undergroundcave-terrain-svg.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//glitch-ilmenskie-undergroundcave-terrain-svg.zip) (6.7MB, svg 408개 · jpg 2개 · png 1개)
+- 제작: Moviemake / 라이선스: CC0 / 원본: https://opengameart.org/content/glitch-ilmenskie-undergroundcave-terrain-svg
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
