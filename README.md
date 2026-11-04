@@ -124,6 +124,71 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//tileable-grass-textures-set-1.zip) (6.9MB, png 9개)
 - 제작: Drummyfish / 라이선스: CC0 / 원본: https://opengameart.org/content/tileable-grass-textures-set-1
 
+### Industrial Parallax Background
+![Industrial Parallax Background 미리보기](previews/industrial-parallax-background.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//industrial-parallax-background.zip) (534KB, png 4개 · txt 1개)
+- 제작: LunaVR / 라이선스: CC0 / 원본: https://opengameart.org/content/industrial-parallax-background
+
+### Flare Item Variation (60x60 Only)
+![Flare Item Variation (60x60 Only) 미리보기](previews/flare-item-variation-60x60-only.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//flare-item-variation-60x60-only.zip) (1.6MB, png 10개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/flare-item-variation-60x60-only
+
+### Blowhard 2: Blow Harder
+![Blowhard 2: Blow Harder 미리보기](previews/blowhard-2-blow-harder.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//blowhard-2-blow-harder.zip) (220KB, png 6개)
+- 제작: cdoty / 라이선스: CC0 / 원본: https://opengameart.org/content/blowhard-2-blow-harder
+
+### Trees & Bushes
+![Trees & Bushes 미리보기](previews/trees-bushes.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//trees-bushes.zip) (167KB, png 2개 · txt 1개)
+- 제작: Arachnibot / 라이선스: CC0 / 원본: https://opengameart.org/content/trees-bushes
+
+### Colony sim assets
+![Colony sim assets 미리보기](previews/colony-sim-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//colony-sim-assets.zip) (100KB, png 5개)
+- 제작: Julius / 라이선스: CC0 / 원본: https://opengameart.org/content/colony-sim-assets
+
+### Space Shooter Redux
+![Space Shooter Redux 미리보기](previews/space-shooter-redux.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//space-shooter-redux.zip) (1.4MB, png 303개 · ogg 7개 · txt 1개 · svg 1개)
+- 제작: Moviemake / 라이선스: CC0 / 원본: https://opengameart.org/content/space-shooter-redux
+
+### 190+ Pixel Art Assets (Sci-fi & Forest)
+![190+ Pixel Art Assets (Sci-fi & Forest) 미리보기](previews/190-pixel-art-assets-sci-fi-forest.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//190-pixel-art-assets-sci-fi-forest.zip) (9.3MB, png 194개)
+- 제작: vlandemart / 라이선스: CC0 / 원본: https://opengameart.org/content/190-pixel-art-assets-sci-fi-forest
+
+### FREE Keyboard and controllers prompts pack
+![FREE Keyboard and controllers prompts pack 미리보기](previews/free-keyboard-and-controllers-prompts-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//free-keyboard-and-controllers-prompts-pack.zip) (4.8MB, png 583개 · txt 1개)
+- 제작: zerohero / 라이선스: CC0 / 원본: https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack
+
+### Seasonal Platformer Tiles
+![Seasonal Platformer Tiles 미리보기](previews/seasonal-platformer-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//seasonal-platformer-tiles.zip) (23KB, png 2개)
+- 제작: Demetrius / 라이선스: CC0 / 원본: https://opengameart.org/content/seasonal-platformer-tiles
+
+### HD multi-layer Parallex background samples of Glitch game assets.
+![HD multi-layer Parallex background samples of Glitch game assets. 미리보기](previews/hd-multi-layer-parallex-background-samples-of-glitch-game-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//hd-multi-layer-parallex-background-samples-of-glitch-game-assets.zip) (44.5MB, png 66개 · jpg 10개)
+- 제작: Saltflower / 라이선스: CC0 / 원본: https://opengameart.org/content/hd-multi-layer-parallex-background-samples-of-glitch-game-assets
+
+### Orthographic outdoor tiles
+![Orthographic outdoor tiles 미리보기](previews/orthographic-outdoor-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//orthographic-outdoor-tiles.zip) (62KB, png 3개)
+- 제작: russpuppy / 라이선스: CC0 / 원본: https://opengameart.org/content/orthographic-outdoor-tiles
+
+### Country Side Platform Tiles
+![Country Side Platform Tiles 미리보기](previews/country-side-platform-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//country-side-platform-tiles.zip) (132KB, png 6개 · txt 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/country-side-platform-tiles
+
+### Magic Cliffs Environment
+![Magic Cliffs Environment 미리보기](previews/magic-cliffs-environment.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//magic-cliffs-environment.zip) (583KB, png 8개 · txt 1개)
+- 제작: DezrasDragons / 라이선스: CC0 / 원본: https://opengameart.org/content/magic-cliffs-environment
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
