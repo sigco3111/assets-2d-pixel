@@ -459,6 +459,46 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//smoke-particle-assets.zip) (13.6MB, png 81개 · txt 1개)
 - 제작: RaoulWB / 라이선스: CC0 / 원본: https://opengameart.org/content/smoke-particle-assets
 
+### Hero spritesheets (Ars Notoria)
+![Hero spritesheets (Ars Notoria) 미리보기](previews/hero-spritesheets-ars-notoria.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//hero-spritesheets-ars-notoria.zip) (202KB, png 164개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/hero-spritesheets-ars-notoria
+
+### Flowers
+![Flowers 미리보기](previews/flowers.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//flowers.zip) (13KB, png 3개)
+- 제작: withthelove / 라이선스: CC0 / 원본: https://opengameart.org/content/flowers
+
+### Free Pixel Effects Pack
+![Free Pixel Effects Pack 미리보기](previews/free-pixel-effects-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//free-pixel-effects-pack.zip) (2.8MB, png 22개 · txt 1개)
+- 제작: ChoclateGod / 라이선스: CC0 / 원본: https://opengameart.org/content/free-pixel-effects-pack
+
+### Superpowers assets background elements
+![Superpowers assets background elements 미리보기](previews/superpowers-assets-background-elements.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//superpowers-assets-background-elements.zip) (4.4MB, png 291개 · blend 5개 · txt 2개)
+- 제작: -Shade- / 라이선스: CC0 / 원본: https://opengameart.org/content/superpowers-assets-background-elements
+
+### Classic hero and baddies pack
+![Classic hero and baddies pack 미리보기](previews/classic-hero-and-baddies-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//classic-hero-and-baddies-pack.zip) (10KB, png 2개)
+- 제작: salty-piggy / 라이선스: CC0 / 원본: https://opengameart.org/content/classic-hero-and-baddies-pack
+
+### GothicVania Cemetery Pack
+![GothicVania Cemetery Pack 미리보기](previews/gothicvania-cemetery-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//gothicvania-cemetery-pack.zip) (3.6MB, png 98개 · ogg 6개 · json 3개 · txt 1개)
+- 제작: withthelove / 라이선스: CC0 / 원본: https://opengameart.org/content/gothicvania-cemetery-pack
+
+### Seamless HD landscape in parts
+![Seamless HD landscape in parts 미리보기](previews/seamless-hd-landscape-in-parts.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//seamless-hd-landscape-in-parts.zip) (1.1MB, png 9개)
+- 제작: aleksander / 라이선스: CC0 / 원본: https://opengameart.org/content/seamless-hd-landscape-in-parts
+
+### Weapon Slash - Effect
+![Weapon Slash - Effect 미리보기](previews/weapon-slash-effect.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//weapon-slash-effect.zip) (2.7MB, png 129개)
+- 제작: knik1985 / 라이선스: CC0 / 원본: https://opengameart.org/content/weapon-slash-effect
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
