@@ -24,6 +24,106 @@
 - 파일: `alien-ufo-pack.zip` (PNG 50개: UFO·빔·폭발 이펙트 + 스프라이트시트)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/alien-ufo-pack
 
+### Zelda-like tilesets and sprites
+![Zelda-like tilesets and sprites 미리보기](previews/zelda-like-tilesets-and-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//zelda-like-tilesets-and-sprites.zip) (368KB, png 11개)
+- 제작: SdiviHall / 라이선스: CC0 / 원본: https://opengameart.org/content/zelda-like-tilesets-and-sprites
+
+### A platformer in the forest
+![A platformer in the forest 미리보기](previews/a-platformer-in-the-forest.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//a-platformer-in-the-forest.zip) (72KB, png 8개)
+- 제작: Jerom / 라이선스: CC0 / 원본: https://opengameart.org/content/a-platformer-in-the-forest
+
+### Dungeon Crawl 32x32 tiles
+![Dungeon Crawl 32x32 tiles 미리보기](previews/dungeon-crawl-32x32-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//dungeon-crawl-32x32-tiles.zip) (16.3MB, png 9074개 · txt 9개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/dungeon-crawl-32x32-tiles
+
+### Dungeon tileset
+![Dungeon tileset 미리보기](previews/dungeon-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//dungeon-tileset.zip) (57KB, png 3개)
+- 제작: FuzzyWuzzie / 라이선스: CC0 / 원본: https://opengameart.org/content/dungeon-tileset
+
+### A blocky dungeon
+![A blocky dungeon 미리보기](previews/a-blocky-dungeon.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//a-blocky-dungeon.zip) (135KB, png 3개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/a-blocky-dungeon
+
+### The Field of the Floating Islands
+![The Field of the Floating Islands 미리보기](previews/the-field-of-the-floating-islands.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//the-field-of-the-floating-islands.zip) (150KB, png 6개)
+- 제작: devurandom / 라이선스: CC0 / 원본: https://opengameart.org/content/the-field-of-the-floating-islands
+
+### Mage City Arcanos
+![Mage City Arcanos 미리보기](previews/mage-city-arcanos.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//mage-city-arcanos.zip) (1.2MB, png 2개)
+- 제작: Myckel / 라이선스: CC0 / 원본: https://opengameart.org/content/mage-city-arcanos
+
+### Platformer Art Complete Pack (often updated)
+![Platformer Art Complete Pack (often updated) 미리보기](previews/platformer-art-complete-pack-often-updated.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platformer-art-complete-pack-often-updated.zip) (7.5MB, png 975개 · svg 10개 · txt 5개 · json 3개)
+- 제작: russpuppy / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-art-complete-pack-often-updated
+
+### Mobile Controls
+![Mobile Controls 미리보기](previews/mobile-controls.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//mobile-controls.zip) (3.2MB, png 950개 · svg 462개 · txt 1개)
+- 제작: Kaemalux / 라이선스: CC0 / 원본: https://opengameart.org/content/mobile-controls
+
+### Platformer Art Deluxe
+![Platformer Art Deluxe 미리보기](previews/platformer-art-deluxe.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platformer-art-deluxe.zip) (3.0MB, png 346개 · txt 5개 · svg 3개 · json 3개)
+- 제작: JustinAnyhowStep / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-art-deluxe
+
+### Mountain at Dusk Background
+![Mountain at Dusk Background 미리보기](previews/mountain-at-dusk-background.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//mountain-at-dusk-background.zip) (176KB, png 5개 · txt 1개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/mountain-at-dusk-background
+
+### castle platformer
+![castle platformer 미리보기](previews/castle-platformer.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//castle-platformer.zip) (76KB, png 9개)
+- 제작: TinyWorlds / 라이선스: CC0 / 원본: https://opengameart.org/content/castle-platformer
+
+### Dungeon Crawl 32x32 tiles supplemental
+![Dungeon Crawl 32x32 tiles supplemental 미리보기](previews/dungeon-crawl-32x32-tiles-supplemental.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//dungeon-crawl-32x32-tiles-supplemental.zip) (18.7MB, png 9050개 · txt 4개 · jpg 1개)
+- 제작: vlzvl / 라이선스: CC0 / 원본: https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental
+
+### Generic Platformer Tiles
+![Generic Platformer Tiles 미리보기](previews/generic-platformer-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//generic-platformer-tiles.zip) (66KB, png 2개)
+- 제작: manwesulimo2004 / 라이선스: CC0 / 원본: https://opengameart.org/content/generic-platformer-tiles
+
+### Lasers and beams
+![Lasers and beams 미리보기](previews/lasers-and-beams.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//lasers-and-beams.zip) (118KB, png 2개)
+- 제작: Napoleon / 라이선스: CC0 / 원본: https://opengameart.org/content/lasers-and-beams
+
+### Forest Background
+![Forest Background 미리보기](previews/forest-background.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//forest-background.zip) (203KB, png 5개 · txt 1개)
+- 제작: Warspawn / 라이선스: CC0 / 원본: https://opengameart.org/content/forest-background
+
+### 100 Seamless Textures
+![100 Seamless Textures 미리보기](previews/100-seamless-textures.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//100-seamless-textures.zip) (15.6MB, jpg 101개)
+- 제작: Grandmaster B / 라이선스: CC0 / 원본: https://opengameart.org/content/100-seamless-textures
+
+### Wall, grass, rock, stone, wood and dirt (480)
+![Wall, grass, rock, stone, wood and dirt (480) 미리보기](previews/wall-grass-rock-stone-wood-and-dirt-480.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//wall-grass-rock-stone-wood-and-dirt-480.zip) (21.3MB, png 45개 · jpg 1개)
+- 제작: lattice / 라이선스: CC0 / 원본: https://opengameart.org/content/wall-grass-rock-stone-wood-and-dirt-480
+
+### paramecij's vegetation base texture pack
+![paramecij's vegetation base texture pack 미리보기](previews/paramecijs-vegetation-base-texture-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//paramecijs-vegetation-base-texture-pack.zip) (27.3MB, png 21개 · jpg 1개)
+- 제작: Atmostatic / 라이선스: CC0 / 원본: https://opengameart.org/content/paramecijs-vegetation-base-texture-pack
+
+### Tileable Grass Textures - Set 1
+![Tileable Grass Textures - Set 1 미리보기](previews/tileable-grass-textures-set-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//tileable-grass-textures-set-1.zip) (6.9MB, png 9개)
+- 제작: Drummyfish / 라이선스: CC0 / 원본: https://opengameart.org/content/tileable-grass-textures-set-1
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
