@@ -964,6 +964,56 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//roguedb32.zip) (44KB, png 4개)
 - 제작: PreciousRoy / 라이선스: CC0 / 원본: https://opengameart.org/content/roguedb32
 
+### Lots of game effects
+![Lots of game effects 미리보기](previews/lots-of-game-effects.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//lots-of-game-effects.zip) (1.8MB, png 5개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/lots-of-game-effects
+
+### Space Scifi Rpg Tiles 48x48
+![Space Scifi Rpg Tiles 48x48 미리보기](previews/space-scifi-rpg-tiles-48x48.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//space-scifi-rpg-tiles-48x48.zip) (833KB, png 2개)
+- 제작: Baŝto / 라이선스: CC0 / 원본: https://opengameart.org/content/space-scifi-rpg-tiles-48x48
+
+### Various Creatures
+![Various Creatures 미리보기](previews/various-creatures.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//various-creatures.zip) (9KB, png 2개)
+- 제작: Boom Shaka / 라이선스: CC0 / 원본: https://opengameart.org/content/various-creatures
+
+### Health Orb 1.1
+![Health Orb 1.1 미리보기](previews/health-orb-11.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//health-orb-11.zip) (1.1MB, png 12개 · jpg 3개)
+- 제작: foz / 라이선스: CC0 / 원본: https://opengameart.org/content/health-orb-11
+
+### Tower Defense
+![Tower Defense 미리보기](previews/tower-defense-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//tower-defense-2.zip) (1.8MB, png 237개 · txt 1개)
+- 제작: Justin Nichol / 라이선스: CC0 / 원본: https://opengameart.org/content/tower-defense-2
+
+### Modular character pack
+![Modular character pack 미리보기](previews/modular-character-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//modular-character-pack.zip) (2.0MB, png 439개 · svg 6개 · txt 1개)
+- 제작: 1001com / 라이선스: CC0 / 원본: https://opengameart.org/content/modular-character-pack
+
+### Farming crops 16x16
+![Farming crops 16x16 미리보기](previews/farming-crops-16x16.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//farming-crops-16x16.zip) (151KB, png 3개 · txt 1개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/farming-crops-16x16
+
+### Pixel village
+![Pixel village 미리보기](previews/pixel-village.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//pixel-village.zip) (39KB, png 2개)
+- 제작: makrohn / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-village
+
+### Pixel Planets
+![Pixel Planets 미리보기](previews/pixel-planets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//pixel-planets.zip) (43KB, png 3개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-planets
+
+### Info-box
+![Info-box 미리보기](previews/info-box.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//info-box.zip) (1.2MB, png 2개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/info-box
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
