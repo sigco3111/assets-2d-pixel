@@ -1014,6 +1014,51 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//info-box.zip) (1.2MB, png 2개)
 - 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/info-box
 
+### Chicken Sprites
+![Chicken Sprites 미리보기](previews/chicken-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//chicken-sprites.zip) (36KB, )
+- 제작: AntumDeluge / 라이선스: CC0 / 원본: https://opengameart.org/content/chicken-sprites
+
+### RPG item set
+![RPG item set 미리보기](previews/rpg-item-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//rpg-item-set.zip) (13KB, png 1개)
+- 제작: Jorge Avila / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-item-set
+
+### Monsterboy in Wonder World mockup assets
+![Monsterboy in Wonder World mockup assets 미리보기](previews/monsterboy-in-wonder-world-mockup-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//monsterboy-in-wonder-world-mockup-assets.zip) (251KB, png 3개)
+- 제작: Redshrike / 라이선스: CC0 / 원본: https://opengameart.org/content/monsterboy-in-wonder-world-mockup-assets
+
+### Medieval RTS (120+)
+![Medieval RTS (120+) 미리보기](previews/medieval-rts-120.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//medieval-rts-120.zip) (2.2MB, png 261개 · txt 2개 · svg 1개)
+- 제작: Denislav / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-rts-120
+
+### Winter Platformer Game Tileset
+![Winter Platformer Game Tileset 미리보기](previews/winter-platformer-game-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//winter-platformer-game-tileset.zip) (5.4MB, png 29개 · jpg 4개 · svg 2개)
+- 제작: Wixo / 라이선스: CC0 / 원본: https://opengameart.org/content/winter-platformer-game-tileset
+
+### Login Box
+![Login Box 미리보기](previews/login-box.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//login-box.zip) (1.1MB, png 2개)
+- 제작: JaidynReiman / 라이선스: CC0 / 원본: https://opengameart.org/content/login-box
+
+### Old Parchment Paper
+![Old Parchment Paper 미리보기](previews/old-parchment-paper.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//old-parchment-paper.zip) (838KB, png 2개 · jpg 1개)
+- 제작: Downdate / 라이선스: CC0 / 원본: https://opengameart.org/content/old-parchment-paper
+
+### 16x16 Tiles
+![16x16 Tiles 미리보기](previews/16x16-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//16x16-tiles.zip) (19KB, png 2개)
+- 제작: Jorge Avila / 라이선스: CC0 / 원본: https://opengameart.org/content/16x16-tiles
+
+### [M13] Cave Tileset
+![[M13] Cave Tileset 미리보기](previews/m13-cave-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//m13-cave-tileset.zip) (265KB, png 5개)
+- 제작: Scrittl / 라이선스: CC0 / 원본: https://opengameart.org/content/m13-cave-tileset
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
