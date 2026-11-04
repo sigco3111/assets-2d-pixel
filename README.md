@@ -254,6 +254,71 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//rpg-town-pixel-art-assets.zip) (305KB, png 8개 · txt 1개)
 - 제작: Reemax / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-town-pixel-art-assets
 
+### Misc. Dark Fantasy Scenery Sprites
+![Misc. Dark Fantasy Scenery Sprites 미리보기](previews/misc-dark-fantasy-scenery-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//misc-dark-fantasy-scenery-sprites.zip) (7KB, png 1개)
+- 제작: Delirius / 라이선스: CC0 / 원본: https://opengameart.org/content/misc-dark-fantasy-scenery-sprites
+
+### Classical Ruin Tiles
+![Classical Ruin Tiles 미리보기](previews/classical-ruin-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//classical-ruin-tiles.zip) (31KB, png 2개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/classical-ruin-tiles
+
+### Platform Pixel Art Assets
+![Platform Pixel Art Assets 미리보기](previews/platform-pixel-art-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platform-pixel-art-assets.zip) (78KB, png 6개 · wav 3개 · txt 1개)
+- 제작: Mophs / 라이선스: CC0 / 원본: https://opengameart.org/content/platform-pixel-art-assets
+
+### Animated particle effects #2
+![Animated particle effects #2 미리보기](previews/animated-particle-effects-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//animated-particle-effects-2.zip) (7.3MB, png 17개 · jpg 1개)
+- 제작: Trollypolly / 라이선스: CC0 / 원본: https://opengameart.org/content/animated-particle-effects-2
+
+### Classic Hero
+![Classic Hero 미리보기](previews/classic-hero.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//classic-hero.zip) (3KB, png 2개)
+- 제작: StormtrooperJon / 라이선스: CC0 / 원본: https://opengameart.org/content/classic-hero
+
+### Gothicvania Town
+![Gothicvania Town 미리보기](previews/gothicvania-town.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//gothicvania-town.zip) (8.9MB, png 131개 · ogg 3개 · json 3개 · txt 2개 · mp3 2개)
+- 제작: HR78 / 라이선스: CC0 / 원본: https://opengameart.org/content/gothicvania-town
+
+### MV Platformer Male (32x64)
+![MV Platformer Male (32x64) 미리보기](previews/mv-platformer-male-32x64.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//mv-platformer-male-32x64.zip) (351KB, png 20개)
+- 제작: Curt / 라이선스: CC0 / 원본: https://opengameart.org/content/mv-platformer-male-32x64
+
+### Bullet Collection 1 (M484)
+![Bullet Collection 1 (M484) 미리보기](previews/bullet-collection-1-m484.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//bullet-collection-1-m484.zip) (28KB, png 3개)
+- 제작: davexunit / 라이선스: CC0 / 원본: https://opengameart.org/content/bullet-collection-1-m484
+
+### Tiny Characters Set
+![Tiny Characters Set 미리보기](previews/tiny-characters-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//tiny-characters-set.zip) (65KB, png 29개)
+- 제작: SdiviHall / 라이선스: CC0 / 원본: https://opengameart.org/content/tiny-characters-set
+
+### Backgrounds
+![Backgrounds 미리보기](previews/backgrounds-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//backgrounds-3.zip) (18.7MB, png 39개)
+- 제작: AntumDeluge / 라이선스: CC0 / 원본: https://opengameart.org/content/backgrounds-3
+
+### Forest Tiles
+![Forest Tiles 미리보기](previews/forest-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//forest-tiles.zip) (6KB, png 2개)
+- 제작: Syrsly / 라이선스: CC0 / 원본: https://opengameart.org/content/forest-tiles
+
+### Winter Birds
+![Winter Birds 미리보기](previews/winter-birds.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//winter-birds.zip) (10KB, png 2개)
+- 제작: KnoblePersona / 라이선스: CC0 / 원본: https://opengameart.org/content/winter-birds
+
+### DB32 Cave tileset
+![DB32 Cave tileset 미리보기](previews/db32-cave-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//db32-cave-tileset.zip) (32KB, png 3개)
+- 제작: Sam / 라이선스: CC0 / 원본: https://opengameart.org/content/db32-cave-tileset
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
