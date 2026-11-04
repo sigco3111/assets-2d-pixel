@@ -499,6 +499,51 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//weapon-slash-effect.zip) (2.7MB, png 129개)
 - 제작: knik1985 / 라이선스: CC0 / 원본: https://opengameart.org/content/weapon-slash-effect
 
+### Happyland tileset
+![Happyland tileset 미리보기](previews/happyland-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//happyland-tileset.zip) (37KB, png 3개)
+- 제작: Eiyeron / 라이선스: CC0 / 원본: https://opengameart.org/content/happyland-tileset
+
+### Omega Team
+![Omega Team 미리보기](previews/omega-team.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//omega-team.zip) (85KB, png 3개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/omega-team
+
+### Simple duotone tileset
+![Simple duotone tileset 미리보기](previews/simple-duotone-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//simple-duotone-tileset.zip) (18KB, png 4개)
+- 제작: Amir027 / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-duotone-tileset
+
+### Platformer Art: Pixel Redux
+![Platformer Art: Pixel Redux 미리보기](previews/platformer-art-pixel-redux.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platformer-art-pixel-redux.zip) (460KB, png 5개 · txt 1개)
+- 제작: Kaemalux / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-art-pixel-redux
+
+### Big Space Gun: Free pixel-art graphics for your game
+![Big Space Gun: Free pixel-art graphics for your game 미리보기](previews/big-space-gun-free-pixel-art-graphics-for-your-game-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//big-space-gun-free-pixel-art-graphics-for-your-game-0.zip) (739KB, png 1개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/big-space-gun-free-pixel-art-graphics-for-your-game-0
+
+### Minimal Industrial Tiles
+![Minimal Industrial Tiles 미리보기](previews/minimal-industrial-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//minimal-industrial-tiles.zip) (17KB, png 3개)
+- 제작: Blarget2 / 라이선스: CC0 / 원본: https://opengameart.org/content/minimal-industrial-tiles
+
+### Free Desert Platformer Tileset
+![Free Desert Platformer Tileset 미리보기](previews/free-desert-platformer-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//free-desert-platformer-tileset.zip) (4.8MB, png 31개 · jpg 4개 · svg 2개)
+- 제작: dannorder / 라이선스: CC0 / 원본: https://opengameart.org/content/free-desert-platformer-tileset
+
+### 64 crosshairs pack
+![64 crosshairs pack 미리보기](previews/64-crosshairs-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//64-crosshairs-pack.zip) (108KB, png 1개 · txt 1개 · jpg 1개)
+- 제작: Vladiedoo / 라이선스: CC0 / 원본: https://opengameart.org/content/64-crosshairs-pack
+
+### Bulkhead Walls Hangar
+![Bulkhead Walls Hangar 미리보기](previews/bulkhead-walls-hangar.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//bulkhead-walls-hangar.zip) (102KB, png 7개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/bulkhead-walls-hangar
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
