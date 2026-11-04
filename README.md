@@ -1059,6 +1059,41 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//m13-cave-tileset.zip) (265KB, png 5개)
 - 제작: Scrittl / 라이선스: CC0 / 원본: https://opengameart.org/content/m13-cave-tileset
 
+### Ninja Adventure - Free Sprite
+![Ninja Adventure - Free Sprite 미리보기](previews/ninja-adventure-free-sprite.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//ninja-adventure-free-sprite.zip) (7.1MB, png 91개 · jpg 1개)
+- 제작: BBG / 라이선스: CC0 / 원본: https://opengameart.org/content/ninja-adventure-free-sprite
+
+### Good Fruits (M484 Games)
+![Good Fruits (M484 Games) 미리보기](previews/good-fruits-m484-games.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//good-fruits-m484-games.zip) (19KB, png 3개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/good-fruits-m484-games
+
+### Water Magic Effect
+![Water Magic Effect 미리보기](previews/water-magic-effect.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//water-magic-effect.zip) (564KB, png 26개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/water-magic-effect
+
+### Dawnblocker Ortho
+![Dawnblocker Ortho 미리보기](previews/dawnblocker-ortho.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//dawnblocker-ortho.zip) (51KB, png 3개)
+- 제작: surt / 라이선스: CC0 / 원본: https://opengameart.org/content/dawnblocker-ortho
+
+### Free Graveyard Platformer Tileset
+![Free Graveyard Platformer Tileset 미리보기](previews/free-graveyard-platformer-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//free-graveyard-platformer-tileset.zip) (3.1MB, png 31개 · jpg 4개 · svg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/free-graveyard-platformer-tileset
+
+### RPG Item/Terrain/Character Sprites -- Ice Insignia
+![RPG Item/Terrain/Character Sprites -- Ice Insignia 미리보기](previews/rpg-itemterraincharacter-sprites-ice-insignia.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//rpg-itemterraincharacter-sprites-ice-insignia.zip) (51KB, png 8개)
+- 제작: DezrasDragons / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-itemterraincharacter-sprites-ice-insignia
+
+### Cavern Tile Set
+![Cavern Tile Set 미리보기](previews/cavern-tile-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//cavern-tile-set.zip) (152KB, png 4개 · jpg 2개 · txt 1개)
+- 제작: AR / 라이선스: CC0 / 원본: https://opengameart.org/content/cavern-tile-set
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
