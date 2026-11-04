@@ -369,6 +369,56 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//square-block-textures.zip) (36KB, png 3개)
 - 제작: DarkUranium / 라이선스: CC0 / 원본: https://opengameart.org/content/square-block-textures
 
+### Explosion Set 1 (M484 Games)
+![Explosion Set 1 (M484 Games) 미리보기](previews/explosion-set-1-m484-games.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//explosion-set-1-m484-games.zip) (29KB, png 3개)
+- 제작: Amon / 라이선스: CC0 / 원본: https://opengameart.org/content/explosion-set-1-m484-games
+
+### Plums
+![Plums 미리보기](previews/plums.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//plums.zip) (30KB, png 3개)
+- 제작: Redshrike / 라이선스: CC0 / 원본: https://opengameart.org/content/plums
+
+### Overworld - Grass Biome
+![Overworld - Grass Biome 미리보기](previews/overworld-grass-biome.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//overworld-grass-biome.zip) (384KB, png 8개 · tmx 2개 · tsx 1개)
+- 제작: Red_Voxel / 라이선스: CC0 / 원본: https://opengameart.org/content/overworld-grass-biome
+
+### Bullet Collection 2 (M484 Games)
+![Bullet Collection 2 (M484 Games) 미리보기](previews/bullet-collection-2-m484-games.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//bullet-collection-2-m484-games.zip) (83KB, png 4개)
+- 제작: mengtest / 라이선스: CC0 / 원본: https://opengameart.org/content/bullet-collection-2-m484-games
+
+### Platformer tiles
+![Platformer tiles 미리보기](previews/platformer-tiles.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//platformer-tiles.zip) (724KB, png 67개 · jpg 2개 · svg 1개 · txt 1개)
+- 제작: fir3st0rm9 / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-tiles
+
+### DENZI's public domain art
+![DENZI's public domain art 미리보기](previews/denzis-public-domain-art.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//denzis-public-domain-art.zip) (4.2MB, png 1379개 · jpg 5개 · txt 2개)
+- 제작: bbulle / 라이선스: CC0 / 원본: https://opengameart.org/content/denzis-public-domain-art
+
+### Spooky Castle Tileset
+![Spooky Castle Tileset 미리보기](previews/spooky-castle-tileset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//spooky-castle-tileset.zip) (97KB, png 6개)
+- 제작: cemkalyoncu / 라이선스: CC0 / 원본: https://opengameart.org/content/spooky-castle-tileset
+
+### explosion animations
+![explosion animations 미리보기](previews/explosion-animations.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//explosion-animations.zip) (17KB, png 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/explosion-animations
+
+### 2D Explosion Animations
+![2D Explosion Animations 미리보기](previews/2d-explosion-animations-frame-by-frame.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//2d-explosion-animations-frame-by-frame.zip) (16.0MB, png 9개)
+- 제작: Lhawika / 라이선스: CC0 / 원본: https://opengameart.org/content/2d-explosion-animations-frame-by-frame
+
+### Fumiko Complete Charset
+![Fumiko Complete Charset 미리보기](previews/fumiko-complete-charset.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//fumiko-complete-charset.zip) (139KB, png 3개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/fumiko-complete-charset
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
