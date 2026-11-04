@@ -1129,6 +1129,56 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//isometric-landscape.zip) (1.3MB, png 131개 · txt 1개)
 - 제작: Shmoji / 라이선스: CC0 / 원본: https://opengameart.org/content/isometric-landscape
 
+### Frogatto & Friends - NPC Pack
+![Frogatto & Friends - NPC Pack 미리보기](previews/frogatto-friends-npc-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//frogatto-friends-npc-pack.zip) (24KB, png 9개)
+- 제작: Andrettin / 라이선스: CC0 / 원본: https://opengameart.org/content/frogatto-friends-npc-pack
+
+### Bushly and Princess Sera
+![Bushly and Princess Sera 미리보기](previews/bushly-and-princess-sera.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//bushly-and-princess-sera.zip) (7KB, png 2개)
+- 제작: aquinn / 라이선스: CC0 / 원본: https://opengameart.org/content/bushly-and-princess-sera
+
+### PlatToon
+![PlatToon 미리보기](previews/plattoon.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//plattoon.zip) (38KB, png 2개)
+- 제작: Sharm / 라이선스: CC0 / 원본: https://opengameart.org/content/plattoon
+
+### Gothicvania Patreon's Collection
+![Gothicvania Patreon's Collection 미리보기](previews/gothicvania-patreons-collection.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//gothicvania-patreons-collection.zip) (3.0MB, png 81개 · jpg 2개 · txt 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/gothicvania-patreons-collection
+
+### MiniWorld Sprites
+![MiniWorld Sprites 미리보기](previews/miniworld-sprites.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//miniworld-sprites.zip) (2.8MB, png 201개)
+- 제작: Ragnar Random / 라이선스: CC0 / 원본: https://opengameart.org/content/miniworld-sprites
+
+### Sci-Fi Object Set
+![Sci-Fi Object Set 미리보기](previews/sci-fi-object-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//sci-fi-object-set.zip) (6KB, png 2개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-object-set
+
+### Western-European Castle (Isometric 2.5D)
+![Western-European Castle (Isometric 2.5D) 미리보기](previews/western-european-castle-isometric-25d.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//western-european-castle-isometric-25d.zip) (772KB, png 2개)
+- 제작: Andrettin / 라이선스: CC0 / 원본: https://opengameart.org/content/western-european-castle-isometric-25d
+
+### Pixel FX Pack
+![Pixel FX Pack 미리보기](previews/pixel-fx-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//pixel-fx-pack.zip) (1.0MB, png 11개)
+- 제작: Boom Shaka / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-fx-pack
+
+### Simple Character Base [16x16]
+![Simple Character Base [16x16] 미리보기](previews/simple-character-base-16x16.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//simple-character-base-16x16.zip) (2KB, png 2개)
+- 제작: AntumDeluge / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-character-base-16x16
+
+### Bevouliin Free Game Sprites - Crocodile Mascot Running and Jumping Boy Game Character
+![Bevouliin Free Game Sprites - Crocodile Mascot Running and Jumping Boy Game Character 미리보기](previews/bevouliin-free-game-sprites-crocodile-mascot-running-and-jumping-boy-game-character.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download//bevouliin-free-game-sprites-crocodile-mascot-running-and-jumping-boy-game-character.zip) (839KB, png 14개 · txt 1개 · jpg 1개)
+- 제작: asepafandi89 / 라이선스: CC0 / 원본: https://opengameart.org/content/bevouliin-free-game-sprites-crocodile-mascot-running-and-jumping-boy-game-character
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
