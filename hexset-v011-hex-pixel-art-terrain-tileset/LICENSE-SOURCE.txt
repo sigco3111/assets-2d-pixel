@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/hexset-v011-hex-pixel-art-terrain-tileset
+Title: Hexset v.01.1 - Hex pixel art terrain tileset
+Author: mbartelsm (OpenGameArt.org)
+License stated on the page: CC0 1.0 Universal (Public Domain Dedication)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Page date: 2019-08-08
+Collected: 2026-11-07
+
+The page license field: CC0. Attribution notice on the page: "Miguel Bartelsman (Corsarius)". The page says "Do with it as you please". The zip has no license file.
+The OpenGameArt page lists this asset's license as CC0. No attribution is required (author credit is optional).
+This file was written by the collector from the page's license statement.
