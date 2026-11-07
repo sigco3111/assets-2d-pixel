@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/toens-medieval-strategy-sprite-pack-v10-16x16
+Title: Toen's Medieval Strategy Sprite Pack v.1.0 (16x16)
+Author: withthelove (OpenGameArt.org)
+License(s) listed on the page: CC-BY 3.0
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2015-07-23
+Collected: 2026-11-07
+
+Chosen license: CC-BY 3.0. OGA 라이선스 항목은 CC-BY 3.0, 제작자 안내문·zip 안 txt는 CC-BY 4.0으로 표기(불일치; 둘 다 CC-BY 허용 범위); zip 안 'License and atribution info.txt' 원본 포함; 파일명은 공백·괄호 제거
+Attribution text (from the page): "This work by Andre Mari Coppola is licensed under a Creative Commons Atribution 4.0 International license. You can use or modify these sprites for any purpose (commercial or noncommercial) provided the source is properly credited as instructed on the "License and attribution info.txt" included in the pack. You must give credit to the author, and provide links to the sources. (OGA attribution notice)"
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
