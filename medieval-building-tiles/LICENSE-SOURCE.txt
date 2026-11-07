@@ -1,0 +1,10 @@
+Source: https://opengameart.org/content/medieval-building-tiles
+Title: Medieval Building Tiles
+Author: Clint Bellanger (OpenGameArt.org submitter)
+License(s) listed on the page: GPL 2.0 / GPL 3.0 / CC-BY-SA 3.0
+License chosen by the collector: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html); full text in LICENSE-GPL-3.0.txt
+Page date: 2010-05-06
+Collected: 2026-11-07
+Page credits: "Roof texture is from the public domain Blender Texture CD. Stone texture is by Sindwiller: http://opengameart.org/content/old-brick-wall". Verified 2026-11-07: Sindwiller's page (Old brick wall) lists GPL 3.0 and CC-BY-SA 3.0, so the stone texture is available under GPL 3.0 as well; the roof texture is public domain. No texture was removed.
+
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
