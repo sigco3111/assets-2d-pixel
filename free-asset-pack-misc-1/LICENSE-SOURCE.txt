@@ -1,0 +1,9 @@
+This file was written by the catalog collector (not an original license file).
+Pack: FREE ASSET PACK - MISC 1
+Author: CamTatz (OGA: CTatz)
+Source page: https://opengameart.org/content/free-asset-pack-misc-1
+License stated on the source page: CC0 1.0 Universal (Public Domain Dedication)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Basis: OpenGameArt page "License(s): CC0"
+Checked: 2026-11-07
+No attribution is required; crediting the author is appreciated.
