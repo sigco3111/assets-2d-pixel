@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/settlers-kit
+Title: Settlers Kit
+Author: Rainbow Design (OpenGameArt.org)
+License(s) listed on the page: CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0
+License chosen by the collector: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html)
+Page date: 2017-01-25
+Collected: 2026-11-07
+
+Chosen license: GPL 3.0. OGA 페이지 라이선스 항목 CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 — GPL이 이 에셋에 명시적으로 제공되어 GPL 3.0 선택(GPL 2.0도 제공됨); qubodup 작품의 파생물(댓글: GPL/CC-BY-SA는 CC-BY로 바꿀 수 없음); 카피레프트: 재배포 시 GPL 조건 준수
+Attribution text (from the page): "Settlers Kit by Rainbow Design, https://opengameart.org/content/settlers-kit, licensed GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html). Derived from qubodup's hex tile submission. The author says attribution is not necessary but appreciates a link to the page."
+This file was written by the collector from the page's license statement; it is not an original license file from the author.

@@ -1,0 +1,7 @@
+Credits for: Settlers Kit
+Author: Rainbow Design
+Source: https://opengameart.org/content/settlers-kit
+License: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html)
+
+Required credit text:
+Settlers Kit by Rainbow Design, https://opengameart.org/content/settlers-kit, licensed GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html). Derived from qubodup's hex tile submission. The author says attribution is not necessary but appreciates a link to the page.
