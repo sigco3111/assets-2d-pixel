@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/opp2017-cave-and-mine-cart
+Title: OPP2017 - Cave and mine cart
+Author: Chasersgaming (OpenGameArt.org)
+License(s) listed on the page: CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0 / CC0
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2018-02-26
+Collected: 2026-11-07
+
+Chosen license: CC0. OGA 페이지는 여러 라이선스를 병기하지만 CC0 포함·설명문에 'public domain' 명시 → CC0 선택; zip 안 guides 폴더의 구 타일은 공공영역 아닐 수 있다는 readme 경고 포함(타일 폴더만 사용 권장)
+Attribution text (from the page): "Not required, but you're welcome to link to OpenPixelProject.com (OGA attribution notice)."
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
