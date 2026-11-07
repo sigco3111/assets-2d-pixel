@@ -1,3 +1,5 @@
+> A8~A10 신규 팩 13개 추가 (현재 총 546팩). 전체 목록·라이선스·귀속: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv)
+
 # assets-2d-pixel
 
 2D 픽셀 스프라이트·타일셋·텍스처. RPG·로그라이크·플랫포머·타워디펜스·슈팅에 바로 쓸 수 있는 CC0·CC-BY 팩. CC-BY 팩은 사용 시 저작자 표기 필요 (각 팩 LICENSE-SOURCE.txt에 원본 저작자·정확한 CC 버전·출처·변경 내역 기록).
