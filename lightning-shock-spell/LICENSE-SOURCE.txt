@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/lightning-shock-spell
+Title: Lightning Shock Spell
+Author: Clint Bellanger (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 only
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2010-01-16
+Collected: 2026-11-08
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution is required. The page gives no attribution text; the collector used the standard CC-BY credit line (see CREDITS.txt).
+Page note: OGA 페이지 설명: "A projectile lightning spell for my RPG. 64x64, 4 frames, 8 directions."
+AI-generated: no.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
