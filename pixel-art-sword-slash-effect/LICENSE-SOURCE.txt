@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/pixel-art-sword-slash-effect
+Title: Pixel art sword slash effect
+Author: tbbk (OpenGameArt.org Author field)
+License(s) listed on the page: CC0
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2025-03-09
+Collected: 2026-11-08
+
+Chosen license: CC0 (sole license listed on the page). No attribution required (public domain dedication).
+Page note: OGA 페이지 설명: "The canvas for each sprite is 64 x 47. Credits appreciated by not needed." (credit is an optional request, not a condition of CC0)
+AI-generated: no.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
