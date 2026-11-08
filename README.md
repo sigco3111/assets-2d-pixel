@@ -1,4 +1,4 @@
-> 현재 총 598팩 (catalog.csv 기준 assets-2d-pixel 저장소 팩 수, 천하삼분 1팩 포함; A8~A13 신규 팩 18개 추가 시점에는 551팩). A24: AlotofImpacts 이펙트 4팩 추가(589팩). A25: AlotofImpacts 5 Frame 14~17of20 이펙트 4팩 추가(594팩). A26: AlotofImpacts 9of20·18~20of20 이펙트 4팩 추가(598팩). 전체 목록·라이선스·귀속: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv)
+> 현재 총 602팩 (catalog.csv 기준 assets-2d-pixel 저장소 팩 수, 천하삼분 1팩 포함; A8~A13 신규 팩 18개 추가 시점에는 551팩). A24: AlotofImpacts 이펙트 4팩 추가(589팩). A25: AlotofImpacts 5 Frame 14~17of20 이펙트 4팩 추가(594팩). A26: AlotofImpacts 9of20·18~20of20 이펙트 4팩 추가(598팩). A27: AlotofImpacts quick-hit/muzzle flash(impacts005-008·009-011·013-015·016-019) 이펙트 4팩 추가(602팩). 전체 목록·라이선스·귀속: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv)
 
 # assets-2d-pixel
 
