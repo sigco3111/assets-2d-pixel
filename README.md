@@ -1,4 +1,4 @@
-> A8~A13 신규 팩 18개 추가 (현재 총 551팩). 전체 목록·라이선스·귀속: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv)
+> 현재 총 589팩 (catalog.csv 기준 2D 팩 수; A8~A13 신규 팩 18개 추가 시점에는 551팩). A24: AlotofImpacts 이펙트 4팩 추가(589팩). 전체 목록·라이선스·귀속: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv)
 
 # assets-2d-pixel
 
