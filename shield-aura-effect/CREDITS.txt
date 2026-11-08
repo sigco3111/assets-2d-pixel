@@ -1,0 +1,8 @@
+Credits for: Shield Aura Effect
+Author: sholev (modified version)
+Original work: Bonsaiheldin - "Shield effect" (https://opengameart.org/content/shield-effect), http://bonsaiheld.org
+Source: https://opengameart.org/content/shield-aura-effect
+License: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+
+Credit text (the page's Copyright/Attribution Notice names "Bonsaiheldin | http://bonsaiheld.org"; the rest is the collector's standard line):
+Bonsaiheldin (http://bonsaiheld.org) - "Shield effect" (https://opengameart.org/content/shield-effect), modified by sholev - "Shield Aura Effect" (https://opengameart.org/content/shield-aura-effect), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)

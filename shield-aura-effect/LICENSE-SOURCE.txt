@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/shield-aura-effect
+Title: Shield Aura Effect
+Author: sholev (OpenGameArt.org Author field); derived from "Shield effect" by Bonsaiheldin (https://opengameart.org/content/shield-effect)
+License(s) listed on the page: CC-BY 3.0 only
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2016-03-21
+Collected: 2026-11-08
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution is required. The page's Copyright/Attribution Notice reads: "Bonsaiheldin | http://bonsaiheld.org" (the original shield effect's author); this pack is a modified version of that work, so both the original author and the modifier are credited (see CREDITS.txt).
+Page note: OGA 페이지 설명: "Original: http://opengameart.org/content/shield-effect I liked Bonsaiheldin's shield effect, but changed it a bit to suit my taste, also added green and white versions."
+AI-generated: no.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
