@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/explosion-sheet
+Title: Explosion Sheet
+Author: StumpyStrust (OpenGameArt.org submitter)
+License(s) listed on the page: CC0
+License chosen by the collector: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2013-03-12
+Collected: 2026-11-08
+
+Chosen license: CC0 (sole license listed on the page). No attribution required (public domain dedication).
+Page note: 페이지 Attribution Instructions: None. 제작 중인 프로그램의 테스트 출력이며 긴 애니메이션 테스트용 긴 시트라는 설명
+AI-generated: no.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
