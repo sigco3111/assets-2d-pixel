@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/magic-sprite-effects-ardentryst
+Title: Magic sprite effects (Ardentryst)
+Author: Elle Trudgett (OpenGameArt.org Author field; submitted by qubodup)
+License(s) listed on the page: CC-BY 3.0 only (https://creativecommons.org/licenses/by/3.0/)
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2012-08-24
+Collected: 2026-11-10
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution is required.
+Page attribution instructions: "Copyright 2008 Elle Trudgett | https://github.com/elle-trudgett - Licensed under CC BY 3.0 https://creativecommons.org/licenses/by/3.0/"
+Page note: "I got clarification via email that by-3.0 is the correct license." and "Downloadable file was replaced 2024-08-29 with updated license information, at which point it had 1096 downloads." The page lists one file, ardentryst-magicspriteeffects_v2.7z (481.6 Kb).
+The archive also contains the author's license file license-ccby3up.txt (Creative Commons Attribution 3.0 legal code); it is kept unchanged inside the zip.
+AI-generated: no (published 2012).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
