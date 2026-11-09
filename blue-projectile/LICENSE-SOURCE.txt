@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/blue-projectile
+Title: Blue projectile
+Author: greengiant67 (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 only (https://creativecommons.org/licenses/by/3.0/)
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2026-09-03
+Collected: 2026-11-10
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution is required. The page does not specify a credit text, so the collector's standard CC-BY credit line is used (see CREDITS.txt).
+Page note: OGA description: "Just something I had to make for my game. Its a blue projectile, you could call it an ice projectile or a water projectile or something, or a circular laser projectile. I've attatched two versions, the animated sheet and then the final frame where it turns blue on collision." Only one file (spirit_flame_sheet.png, 357 bytes) is attached to the page.
+Collection on the page: Super Cartridge World
+AI-generated: not stated on the source page.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
