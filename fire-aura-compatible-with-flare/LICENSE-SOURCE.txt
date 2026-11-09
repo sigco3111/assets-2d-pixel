@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/fire-aura-compatible-with-flare
+Title: Fire Aura (Compatible with FLARE)
+Author: astiar_rpg (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 4.0 only (https://creativecommons.org/licenses/by/4.0/)
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2025-10-09
+Collected: 2026-11-10
+
+Chosen license: CC-BY 4.0 (sole license listed on the page). Attribution is required. The page's Copyright/Attribution Notice reads: "Credit: Astiar — link to this asset or my OGA profile. License: CC-BY 4.0." The collector's credit line is in CREDITS.txt.
+Page note: OGA description: attached spritesheet, each sprite 128x128, 14 sprites in total in a packed spritesheet; made in Blender for the game "Astiar RPG" (FLARE-compatible).
+AI-generated: not stated on the source page.
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
