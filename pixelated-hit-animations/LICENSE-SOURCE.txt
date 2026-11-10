@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/pixelated-hit-animations
+Title: Pixelated Hit Animations
+Author: Unnamed (OpenGameArt.org Author field); attribution notice names Viktor Hahn
+License(s) listed on the page: CC-BY 4.0 only (https://creativecommons.org/licenses/by/4.0/)
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2018-05-05
+Collected: 2026-11-10
+
+Chosen license: CC-BY 4.0 (sole license listed on the page). Attribution is required.
+Page Copyright/Attribution Notice: "This work, made by Viktor Hahn (Viktor.Hahn@web.de), is licensed under the Creative Commons Attribution 4.0 International License. http://creativecommons.org/licenses/by/4.0/"
+The page lists five files (hit01.png ... hit05.png); the collector packed them unchanged into the zip (deflate, byte-identical to the downloads). The files contain no license file of their own.
+AI-generated: no (published 2018).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
