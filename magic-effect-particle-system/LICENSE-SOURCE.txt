@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/magic-effect-particle-system
+Title: Magic Effect Particle System
+Author: HenriqueGibi (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 4.0
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2022-05-26
+Collected: 2026-11-11
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). It is the only license listed on the page.
+Page Copyright/Attribution Notice: "Please, give credits to @henriquegibi. Make your game, sell it a lot, get rich, and send me a free copy of your game after all of that, hahaha"
+Page files: aura_beam.png, dragon_breath.png, fire1.png, fire2.png, fire-geyser.png, poison-split.png, triangle.png, thunder1.png, thunder2.png (17.0 MB total); the collector put them unchanged (byte-identical; server-side name suffixes _0/_1 removed) into one zip (stored without compression).
+AI-generated: no (the page does not mention AI; published 2022).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
