@@ -1,0 +1,7 @@
+Credits for: Electricity Overlay Effect
+Author: AntumDeluge (Jordan Irwin)
+Source: https://opengameart.org/content/electricity-overlay-effect
+License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+Credit text (the page's Copyright/Attribution Notice reads "Jordan Irwin (AntumDeluge)"; the line below is the collector's standard CC-BY line naming the author):
+AntumDeluge (Jordan Irwin) — "Electricity Overlay Effect" (https://opengameart.org/content/electricity-overlay-effect), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)

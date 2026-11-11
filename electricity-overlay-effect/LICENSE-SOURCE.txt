@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/electricity-overlay-effect
+Title: Electricity Overlay Effect
+Author: AntumDeluge (Jordan Irwin) (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 / CC-BY 4.0
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2024-07-09
+Collected: 2026-11-11
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). The page offers several licenses; the collector chose CC-BY 4.0 (other offered: CC-BY 3.0, OGA-BY 3.0, OGA-BY 4.0).
+The page lists 4 file(s): electricity.png, electricity_blue.png, electricity_red.png, electricity_violet.png; the collector put them unchanged (byte-identical, stored without compression) into one zip.
+AI-generated: no (the page does not mention AI; published 2024).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
