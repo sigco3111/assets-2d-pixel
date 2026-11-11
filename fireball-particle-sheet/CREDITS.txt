@@ -1,0 +1,7 @@
+Credits for: Fireball Particle Sheet
+Author: davididev
+Source: https://opengameart.org/content/fireball-particle-sheet
+License: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+
+Credit text (the page's Copyright/Attribution Notice reads "Attribute as Davididev or davididev.com"; the line below is the collector's standard CC-BY line naming the author):
+davididev — "Fireball Particle Sheet" (https://opengameart.org/content/fireball-particle-sheet), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
