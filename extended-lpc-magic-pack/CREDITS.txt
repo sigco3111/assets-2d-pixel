@@ -1,0 +1,10 @@
+Credits for: Extended LPC Magic pack
+Author: Daniel Eddeland (daneeklu)
+Source: https://opengameart.org/content/extended-lpc-magic-pack
+License: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html), full text in LICENSE-GPL-3.0.txt
+Copyleft: redistributions and derivative works must remain under GPL (keep license notice, provide source).
+Credit text specified on the page:
+"Attribute creator as Daniel Eddeland. Please include a link to opengameart.org as well (preferably to the submission for this art package) if you use the art."
+
+Credit line:
+Daniel Eddeland (daneeklu) — "Extended LPC Magic pack" (https://opengameart.org/content/extended-lpc-magic-pack), https://opengameart.org, GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html)

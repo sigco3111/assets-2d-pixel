@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/extended-lpc-magic-pack
+Title: Extended LPC Magic pack
+Author: Daniel Eddeland (OGA: daneeklu)
+License(s) listed on the page: CC-BY-SA 3.0 / GPL 3.0
+License chosen by the collector: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html); full text in LICENSE-GPL-3.0.txt
+Page date: 2012-07-13
+Collected: 2026-11-11
+
+Chosen license: GPL 3.0 (the page also offers CC-BY-SA 3.0; CC-BY-SA alone is not accepted, so GPL 3.0 was selected). Copyleft applies to redistribution and derivative works.
+Page Copyright/Attribution Notice / attribution text: "Attribute creator as Daniel Eddeland. Please include a link to opengameart.org as well (preferably to the submission for this art package) if you use the art." (see CREDITS.txt)
+The page lists magic_pack.zip plus three loose files (snake_right.png, turtleshell_right.png, magic_icons.png). The collector repacked the 31 files of magic_pack.zip unchanged (byte-compared) together with the three extra PNGs (stored under page_extras/) into one deflate zip. The page text says the pack contains updated versions of the author's older magic animations from the LPC submission.
+AI-generated: no (the page does not mention AI; published 2012).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
