@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/pixel-lightning
+Title: Pixel Lightning
+Author: Marco L. (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 4.0 only
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2019-04-01
+Collected: 2026-11-11
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). It is the only license listed on the page.
+The page lists 3 file(s): Lightning.png, Lightning_Yellow.png, Lightning_Cyan.png; the collector put them unchanged (byte-identical, stored without compression) into one zip.
+AI-generated: no (the page does not mention AI; published 2019).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
