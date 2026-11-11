@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/resurrection-spell-sfx
+Title: Resurrection Spell [SFX]
+Author: One Man Army (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2017-01-13
+Collected: 2026-11-11
+
+Chosen license: CC0. No attribution is required. It is the only license listed on the page.
+Page files: corpse.png, prayingMan.png, reviveSpell.png, reviveSpellComplete.png; the collector put them unchanged (byte-identical, stored without compression; server file name corpse_0.png restored to the page name corpse.png) into one zip.
+AI-generated: no (the page does not mention AI; published 2017).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
