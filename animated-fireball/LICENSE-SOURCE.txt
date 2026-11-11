@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/animated-fireball
+Title: Animated Fireball
+Author: cemkalyoncu (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2012-11-24
+Collected: 2026-11-11
+
+Chosen license: CC-BY 3.0. Attribution is required (see CREDITS.txt). It is the only license listed on the page.
+Page Copyright/Attribution Notice: (페이지에 Copyright/Attribution Notice 없음)
+Page files: fireball.7z (5.7 Mb); the collector extracted it and re-packed the original files unmodified (deflate zip, same folder layout).
+AI-generated: no (the page does not mention AI; published 2012).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
