@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/tiny-magic-glyphs
+Title: Tiny Magic Glyphs
+Author: Emcee Flesher (OpenGameArt.org Author field)
+License(s) listed on the page: OGA-BY 3.0 / CC0
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2021-06-21
+Collected: 2026-11-11
+
+Chosen license: CC0. Attribution is not required (optional: Emcee Flesher, opengameart.org). The page offers OGA-BY 3.0 and CC0; the collector chose CC0.
+The page lists 5 file(s): glyph-ideas.png, glyphs-base.png, glyphs-colouring-example.png, glyphs-howto.png, glyphs-outlined-noglow-alpha.png; the collector put them unchanged (byte-identical, stored without compression) into one zip.
+AI-generated: no (the page does not mention AI; published 2021).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
