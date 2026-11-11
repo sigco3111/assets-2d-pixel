@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/explosion-4
+Title: Explosion
+Author: ashishlko11 (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 4.0 / CC-BY 3.0 / GPL 3.0 / GPL 2.0
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Other licenses offered on the page (not chosen): CC-BY 3.0, GPL 3.0, GPL 2.0
+Page date: 2017-09-06
+Collected: 2026-11-11
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). Of the offered licenses (CC-BY 4.0, CC-BY 3.0, GPL 3.0, GPL 2.0) the collector chose CC-BY 4.0; no copyleft applies.
+Page Copyright/Attribution Notice: "Please If U Like My work Don't hesitate and Give me Credit about that. Its help me to Submit my work here. I m Hungry about Name Fame and of course Money Thanks"
+Page files: Explosion.zip (Frames/E0000~E0009.png, Gif/E.gif, Sprite Sheet/Explosion.png); the collector kept the page zip unchanged (byte-identical, only renamed to explosion-ashishlko11.zip).
+AI-generated: no (the page does not mention AI; published 2017).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
