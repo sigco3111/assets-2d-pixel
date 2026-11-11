@@ -1,0 +1,7 @@
+Credits for: Particle Effects
+Author: hc
+Source: https://opengameart.org/content/particle-effects
+License: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+
+Credit text (the page gives none, so this is the collector's standard line):
+hc — "Particle Effects" (https://opengameart.org/content/particle-effects), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); donated by hackcraft.de

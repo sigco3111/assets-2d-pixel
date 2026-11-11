@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/particle-effects
+Title: Particle Effects
+Author: hc (OpenGameArt.org submitter; page credit: Donation by hackcraft.de)
+License(s) listed on the page: CC-BY 3.0 / CC-BY-SA 3.0
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2010-11-01
+Collected: 2026-11-11
+
+Chosen license: CC-BY 3.0 (the page also offers CC-BY-SA 3.0; CC-BY-SA alone is not accepted, so CC-BY 3.0 was selected). Attribution is required.
+The page gives no attribution text; the collector used the standard credit line (see CREDITS.txt).
+The zip was kept byte-identical to the page download (particles_20101102.zip, renamed particle-effects.zip). It contains 40 TGA particles, preview.jpg and a one-line LICENSE file ("CC-BY - Donation by hackcraft.de"). The TGA files are 64x64 32-bit but fully opaque (alpha 255 everywhere) with a black background; a commenter suggests converting black to alpha.
+AI-generated: no (the page does not mention AI; published 2010).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
