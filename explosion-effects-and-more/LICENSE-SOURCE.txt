@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/explosion-effects-and-more
+Title: Explosion effects and more
+Author: Soluna Software (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/) and CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2015-12-28
+Collected: 2026-11-11
+
+Chosen license: CC0, one of the two licenses offered on the page. Attribution is not required.
+Page Copyright/Attribution Notice: "Use this as you like. You do not need to credit me."
+The page lists five files (Explosion03.png, Explosion21.png, Effect95.png, Effect47.png, Aura38.png); the collector packed them unchanged into the zip (deflate, byte-identical to the downloads). The files contain no license file of their own.
+AI-generated: no (the page does not mention AI; published 2015).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
