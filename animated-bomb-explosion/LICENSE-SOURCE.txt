@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/animated-bomb-explosion
+Title: Animated bomb explosion
+Author: Bobjt (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2026-01-23
+Collected: 2026-11-11
+
+Chosen license: CC0. No attribution is required (CC0); crediting is optional.
+Page Copyright/Attribution Notice: None needed; 'bobjt' and ansimuz, if you'd like
+Page files: pirate_bomb_image_sequence.png (20.6 Kb), pirate_bomb_explosion_transparent_bkg-fixed.gif (7.5 Kb); the collector put them unchanged (byte-identical, stored without compression) into one zip (server names had _0/_5 suffixes removed)
+AI-generated: no (the page does not mention AI; published 2026).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
