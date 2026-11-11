@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/lightning-cloud
+Title: Lightning Cloud
+Author: dorkster (OpenGameArt.org)
+License(s) listed on the page: CC-BY 3.0 only
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2012-07-27
+Collected: 2026-11-11
+
+Chosen license: CC-BY 3.0 (sole license listed on the page). Attribution is required.
+The page gives no attribution text; the collector used the standard credit line (see CREDITS.txt).
+The page offers one file, lightning.png (704x128 RGBA). The collector packed it unchanged into an uncompressed zip (byte-compared). The page text only says "Made for the Flare-based Polymorphable".
+AI-generated: no (the page does not mention AI; published 2012).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
