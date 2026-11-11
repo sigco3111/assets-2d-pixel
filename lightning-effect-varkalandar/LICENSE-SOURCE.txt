@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/lightning-effect-0
+Title: Lightning Effect
+Author: Varkalandar / Hansjörg Malthaner (OpenGameArt.org Author field: Varkalandar)
+License(s) listed on the page: CC-BY 4.0, CC-BY 3.0, CC-BY-SA 4.0, CC-BY-SA 3.0, OGA-BY 3.0
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2017-07-07
+Collected: 2026-11-11
+
+Chosen license: CC-BY 4.0, one of five licenses offered on the page (others: CC-BY 3.0, CC-BY-SA 4.0, CC-BY-SA 3.0, OGA-BY 3.0). Attribution is required.
+Page Copyright/Attribution Notice: "For attribution, please state my name, Hansjörg Malthaner, and link here: http://opengameart.org/users/varkalandar" (see CREDITS.txt).
+The page lists four files (lightning_extract_2_halo.png 710x333, lightning_extract_2_radial_x1.png / x2 / x3 each 2000x2000 RGBA); the collector packed them unchanged into the zip (deflate, byte-identical to the downloads; the server added a _0 suffix to the file names, removed in the zip). The files contain no license file of their own.
+AI-generated: no (the page does not mention AI; published 2017).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
