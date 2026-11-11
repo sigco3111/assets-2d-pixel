@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/pixel-art-spells
+Title: Pixel Art Spells
+Author: DevWizard (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2024-03-21
+Collected: 2026-11-11
+
+Chosen license: CC0 (sole license listed on the page). Attribution is not required (the author appreciates credit as DevWizard but does not require it).
+The page lists one file, pixelart_spells.zip (43 files: 22 PNG in 'PNG Files/' and 21 Aseprite .ase in 'Asprite Files/'); the collector kept it unchanged (byte-identical, file name changed to pixel-art-spells.zip). The zip contains no license file of its own.
+AI-generated: no (the page does not mention AI; published 2024).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
