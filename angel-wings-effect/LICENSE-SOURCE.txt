@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/angel-wings-effect
+Title: Angel Wings Effect
+Author: Cethiel (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only (https://creativecommons.org/publicdomain/zero/1.0/)
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2018-10-12
+Collected: 2026-11-11
+
+Chosen license: CC0 (sole license listed on the page). Attribution is not required (optional: Cethiel, opengameart.org).
+The page lists one file, Wings_Effect.zip (49 entries: 7 colour folders 0-6 with 5 PNG frames each, plus Preview.png); the collector kept it unchanged (byte-identical, file name changed to angel-wings-effect.zip). The zip contains no license file of its own.
+AI-generated: no (the page does not mention AI; published 2018).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
