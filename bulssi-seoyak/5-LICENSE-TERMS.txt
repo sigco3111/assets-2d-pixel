@@ -1,0 +1,19 @@
+불씨의 서약 아트 에셋 이용 조건 (원작자 허락 원문 + 부기)
+
+원작: 「불씨의 서약」 — 리드어세상 YouTube 「AI로 만든 게임, 부업이 될까」(영상16)
+원본 배포 페이지: https://readasesang-lab.vercel.app/v16/
+원본 소스 묶음 README(README_먼저읽기.md) 「5. 쓴 것과 조건」 원문:
+
+- 사람 모델과 동작: Quaternius의 공개 모델(CC0). 주소는 design/game-design.json의 assetCredits에 있습니다.
+- 3D 엔진: three.js(MIT).
+- 글자: Hahmlet(SIL Open Font License 1.1). presentation/licenses/에 원문이 있습니다.
+- 그림(표지, 인물, 몬스터 원화): AI로 생성했습니다.
+- 음악: Google Flow Music으로 만든 AI 음악입니다. 다시 배포하거나 돈을 받는 곳에 쓰기 전에 그 서비스의 이용 조건을 직접 확인하세요.
+- 이 소스(코드, 이름, 이야기, 그림)는 자유롭게 고쳐 쓰셔도 됩니다. 그대로 다시 올려 파는 것만 하지 말아 주세요.
+
+부기 (에셋 저장소 수록자 정리, 2026-11-12):
+- 이 팩에는 위 허락이 미치는 "그림"(AI 생성 원화·아이콘 webp/png)만 수록했습니다.
+- 음악·효과음은 재배포 허용 근거가 확인되지 않아 수록하지 않았습니다.
+- 사람 3D 모델은 Quaternius CC0 원본 팩이 이 라이브러리에 이미 있어(assets-3d-lowpoly의 Universal Base Characters / Universal Animation Library 1·2 / Modular Character Outfits - Fantasy) 중복 수록하지 않았습니다.
+- 말·사슴·늑대 모델은 원본 소스의 크레딧에 출처가 없어 권리 미확인으로 제외했습니다.
+- 조건 요약: 수정·사용 자유. 그대로 다시 올려 파는 행위 금지. 귀속 표기 의무 없음(원작자 표기 권장: 리드어세상).
