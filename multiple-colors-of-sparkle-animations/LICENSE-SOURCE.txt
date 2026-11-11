@@ -1,0 +1,12 @@
+Source: https://opengameart.org/content/multiple-colors-of-sparkle-animations
+Title: Multiple Colors of Sparkle Animations
+Author: VWolfdog (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2014-10-20
+Collected: 2026-11-11
+
+Chosen license: CC0. Attribution is not required (the author appreciates credit but does not require it). It is the only license listed on the page.
+The page lists one file, Sparkles.zip (350 PNG files: 10 colors x 35 frames, 128x128); the collector kept it unchanged (byte-identical, file name changed to multiple-colors-of-sparkle-animations.zip). The zip contains no license file of its own. The page states in its Copyright/Attribution Notice: "These animations are public domain, meaning you can do whatever you please with them, attribution is not required, but is appreciated."
+AI-generated: no (the page does not mention AI; published 2014).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
