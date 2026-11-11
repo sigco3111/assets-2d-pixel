@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/thunder-sprite
+Title: Thunder sprite
+Author: Gutima15 (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 4.0 only
+License chosen by the collector: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Page date: 2020-11-13
+Collected: 2026-11-11
+
+Chosen license: CC-BY 4.0. Attribution is required (see CREDITS.txt). It is the only license listed on the page.
+Page Copyright/Attribution Notice: "This is an on creation, if you want to mention me in your games it would be nicely. Even if you can sent me a link to play it, i'll be happy."
+Page files: thunder.png; the collector put it unchanged (byte-identical, stored without compression; server file name thunder_0.png restored to the page name thunder.png) into one zip.
+AI-generated: no (the page does not mention AI; published 2020).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
