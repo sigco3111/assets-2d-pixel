@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/pixel-art-explosion-animation
+Title: Pixel Art Explosion Animation
+Author: 9KeyStudio (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 (single)
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2017-06-04
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional (the page asks for credit: "If you use this please credit"). Page Copyright/Attribution Notice: (none on the page).
+Page files: Explosion Large.png, Explosion Medium.png (20.1 Kb + 18.8 Kb); the collector kept the file(s) unmodified (the two PNGs were bundled byte-for-byte into an uncompressed zip because the page offers no zip).
+Pack zip SHA-256: c196fcabe93da3f0e3d3f5f808c50331e2656c512388b89f3e5ffd1b9a34bcac
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
