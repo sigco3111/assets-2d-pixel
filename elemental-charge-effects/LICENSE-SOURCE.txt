@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/elemental-charge-effects
+Title: Elemental Charge Effects
+Author: Kelvin Shadewing (OpenGameArt.org submitter)
+License(s) listed on the page: GPL 3.0 / CC-BY-SA 4.0
+License chosen by the collector: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html); full text in LICENSE-GPL-3.0.txt
+Page date: 2024-12-15
+Collected: 2026-11-12
+
+Chosen license: GPL 3.0 (the page also offers CC-BY-SA 4.0; CC-BY-SA alone is not accepted, so GPL 3.0 was selected). Copyleft applies to redistribution and derivative works. Page Copyright/Attribution Notice: "Kelvin Shadewing".
+Page files: charge-effects.zip (14.4 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 6890e348289daeeaaf9d71ddd376776d36687998cf46669dee889250562f9b9e
+AI-generated: no (the page does not mention AI).
+Page note: OGA page description: "Used by Midi when charging bombs."
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
