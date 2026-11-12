@@ -1,0 +1,14 @@
+Source: https://opengameart.org/content/3rd-version-of-sparkle
+Title: 3rd version of Sparkle
+Author: davididev (OpenGameArt.org Author field)
+License(s) listed on the page: CC-BY 3.0 only
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2025-07-30
+Collected: 2026-11-12
+
+Chosen license: CC-BY 3.0. Attribution is required (see CREDITS.txt). It is the only license listed on the page.
+Page Copyright/Attribution Notice: "Sparkle particle by DavidiDev.com"
+Page files: newsparkle3.png (100.5 Kb); the collector kept the file(s) unmodified (byte-identical, stored without compression in one zip).
+Pack zip SHA-256: 3bec44a0663dfc69e287612c72fc9b7457fad0f9731da859a97942ed2154613a
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
