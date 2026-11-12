@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/lightning-low-quality
+Title: Lightning (low quality)
+Author: cogitollc (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 only
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2022-07-31
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. It is the only license listed on the page.
+Page Copyright/Attribution Notice: (none on the page)
+Page files: l1.png, l2.png, src.svg; the collector put them unchanged (byte-identical, stored without compression) into one zip.
+AI-generated: no (the page does not mention AI; published 2022).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
