@@ -1,0 +1,13 @@
+Source: https://opengameart.org/content/basic-pixel-animated-spells
+Title: Basic Pixel Animated Spells
+Author: beddedOtaku (OpenGameArt.org Author field)
+License(s) listed on the page: CC0 (single)
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2017-07-18
+Collected: 2026-11-12
+
+Chosen license: CC0. No attribution is required; crediting the author is optional. Page Copyright/Attribution Notice: (none on the page).
+Page files: Pixel Animated Spells.zip (78.7 Kb); the collector kept the file(s) unmodified.
+Pack zip SHA-256: 8260ea340bce6e0902630502e519258989c4bd2a3163561698b6fb23783017a8
+AI-generated: no (the page does not mention AI).
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
