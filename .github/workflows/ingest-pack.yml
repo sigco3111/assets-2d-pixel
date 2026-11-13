@@ -1,0 +1,11 @@
+name: ingest-pack
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick unzip zip
+      - run: bash .github/scripts/one.sh rocket-thruster-effect-animations "https://opengameart.org/sites/default/files/rc_art_-_rocket_thruster_animations.zip" "Rocket Thruster Effect Animations" CC0 Reactorcore 2025-07-29 "effect,thruster,animation,spritesheet" "https://opengameart.org/content/rocket-thruster-effect-animations" no
