@@ -1,0 +1,71 @@
+name: a92-ingest2d
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: ingest
+        run: |
+          cat > /tmp/packs.tsv <<'EOF'
+          High resolution slash effects|high-resolution-slash-effects|https://opengameart.org/content/high-resolution-slash-effects|MetaShinryu|CC0|2D 이펙트|slash,effect,vfx,hit
+          2D Explosion Animations #2 | Frame by frame|2d-explosion-animations-2-frame-by-frame|https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame|Sinestesia|CC0|2D 이펙트|explosion,effect,vfx,spritesheet
+          Slash Effect Collection|slash-effect-collection|https://opengameart.org/content/slash-effect-collection|MetaShinryu|CC0|2D 이펙트|slash,effect,vfx
+          Fire Spell Explosion|fire-spell-explosion|https://opengameart.org/content/fire-spell-explosion|Clint Bellanger|CC-BY 3.0|2D 이펙트|magic,fire,explosion,vfx
+          Explosion Set 1 (M484 Games)|explosion-set-1-m484-games|https://opengameart.org/content/explosion-set-1-m484-games|Master484|CC0|2D 이펙트|explosion,effect,vfx
+          2D Explosion Animations #3 | Frame by frame|2d-explosion-animations-3-frame-by-frame|https://opengameart.org/content/2d-explosion-animations-3-frame-by-frame|Sinestesia|CC0|2D 이펙트|explosion,muzzle,vfx,spritesheet
+          EOF
+          : > /tmp/res.txt
+          ADDED=0
+          while IFS='|' read -r NAME SLUG PAGE AUTHOR LIC TYPE TAGS; do
+            [ -z "$NAME" ] && continue
+            [ "$ADDED" -ge 1 ] && break
+            if [ -d "$SLUG" ]; then echo "SKIP exists $SLUG"; continue; fi
+            if grep -qF "$NAME," /tmp/cat.csv; then echo "SKIP dup $NAME"; continue; fi
+            curl -sSL -m 60 "$PAGE" -o /tmp/page.html || { echo "SKIP pagefail $NAME"; continue; }
+            FILEURL=$(grep -o 'href="[^"]*sites/default/files/[^"]*"' /tmp/page.html | sed 's/^href="//;s/"$//' | grep -Ei '\.(zip|7z|rar|tar\.gz|tgz)$' | head -1)
+            if [ -z "$FILEURL" ]; then echo "SKIP nofile $NAME"; continue; fi
+            case "$FILEURL" in /*) FILEURL="https://opengameart.org$FILEURL";; esac
+            EXT="${FILEURL##*.}"
+            mkdir -p "$SLUG/.tmp"
+            curl -sSL -m 300 "$FILEURL" -o "$SLUG/.tmp/pack.$EXT" || { echo "SKIP dl $NAME"; rm -rf "$SLUG"; continue; }
+            SZ=$(stat -c%s "$SLUG/.tmp/pack.$EXT")
+            if [ "$SZ" -lt 2000 ]; then echo "SKIP tiny $NAME"; rm -rf "$SLUG"; continue; fi
+            mkdir -p "$SLUG/.tmp/x"
+            if [ "$EXT" = "zip" ]; then unzip -o -q "$SLUG/.tmp/pack.zip" -d "$SLUG/.tmp/x" >/dev/null 2>&1 || true; fi
+            if [ "$EXT" = "7z" ]; then 7z x -y -o"$SLUG/.tmp/x" "$SLUG/.tmp/pack.7z" >/dev/null 2>&1 || true; fi
+            IMG=$(find "$SLUG/.tmp/x" -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' \) -size +8k -printf '%s\t%p\n' 2>/dev/null | sort -nr | head -1 | cut -f2)
+            if [ -z "$IMG" ]; then
+              OG=$(grep -o 'property="og:image" content="[^"]*"' /tmp/page.html | head -1 | sed 's/.*content="//;s/"$//')
+              if [ -n "$OG" ]; then curl -sSL -m 60 "$OG" -o "$SLUG/.tmp/og.img" || true; if [ -s "$SLUG/.tmp/og.img" ]; then IMG="$SLUG/.tmp/og.img"; fi; fi
+            fi
+            mkdir -p previews
+            PV=""
+            if [ -n "$IMG" ] && [ -f "$IMG" ]; then
+              convert "$IMG" -resize '480x480>' -strip "previews/$SLUG.png" >/dev/null 2>&1 || true
+              if [ -s "previews/$SLUG.png" ]; then
+                if [ "$(stat -c%s "previews/$SLUG.png")" -gt 204800 ]; then
+                  convert "$IMG" -resize '480x480>' -strip -quality 85 "previews/$SLUG.jpg" >/dev/null 2>&1 || true
+                  rm -f "previews/$SLUG.png"
+                  if [ -s "previews/$SLUG.jpg" ]; then PV="previews/$SLUG.jpg"; fi
+                else
+                  PV="previews/$SLUG.png"
+                fi
+              fi
+            fi
+            mv "$SLUG/.tmp/pack.$EXT" "$SLUG/$SLUG.$EXT"
+            rm -rf "$SLUG/.tmp"
+            git add "$SLUG/$SLUG.$EXT"
+            git commit -q -m "에셋: $NAME 추가"
+            if [ -n "$PV" ]; then git add "$PV"; git commit -q -m "썸네일: $NAME 추가"; fi
+            echo "$NAME|$SLUG|$SLUG/$SLUG.$EXT|$PV|$LIC|$TYPE|$AUTHOR|$PAGE|$TAGS" >> /tmp/res.txt
+            echo "ADDED $NAME $PV"
+            ADDED=$((ADDED+1))
+          done < /tmp/packs.tsv
+          cp /tmp/res.txt a92-res.txt
+          git add a92-res.txt
+          git commit -q -m "A92 결과 기록" || true
+          git push origin HEAD:main
+          cat /tmp/res.txt
