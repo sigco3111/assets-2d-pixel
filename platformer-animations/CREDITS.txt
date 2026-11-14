@@ -1,0 +1,5 @@
+Platformer Animations
+
+Author: clint-bellanger
+Source: https://opengameart.org/content/platformer-animations
+License: CC-BY (see OpenGameArt page)
