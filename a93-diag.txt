@@ -1,9 +1,23 @@
-Everything up-to-date
+To https://github.com/sigco3111/assets-2d-pixel
+   e0c08d5..17f085c  HEAD -> main
 REPO assets-2d-pixel MODE upload
 CATALOG_DATA_ROWS(raw fetch) 1882
 SIZE_BEFORE_MB du: 416
 CANDIDATES 150
+PAGE org/content/pixel-fx-pack len 49370 name Pixel FX Pack art True
+DUP Pixel FX Pack
+PAGE engameart.org/content/faq len 71975 name FAQ art True
+LIC-REJECT FAQ | 
+PAGE s-and-sprites-by-hyptosis len 115660 name Lots of free 2d tiles and sprites by Hyptosis art True
+DUP Lots of free 2d tiles and sprites by Hyptosis
+DUP Zelda-like tilesets and sprites
+DUP A platformer in the forest
+LIC-REJECT Painterly Spell Icons part 1 | license(s):&nbsp; cc-by 3.0 cc-by-sa 4.0 <a href='http://creativecommons
 LIC-REJECT Phaser 3 Tilemap &amp; File Pack Project Template | license(s):&nbsp; cc-by-sa 3.0 collections:&nbsp; !co assets 16x16 16x16 rpg </
-LIC-REJECT 💯 | license(s):&nbsp; cc-by-sa 3.0 collections:&nbsp; epic pixelart rpg lpc collection <a href="/con
-SIZE_AFTER_MB du: 416
-UPLOAD_DONE 0 packs
+NOZIP Tiny 16: Expanded Character Sprites
+DUP Weapon Slash - Effect
+LIC-REJECT Shmup Ships | license(s):&nbsp; cc-by-sa 3.0 gpl 3.0 <a href='http://www.gnu.org/licenses/old
+PICK Platformer Animations CC-BY clint-bellanger https://opengameart.org/content/platformer-animations
+ADDED Platformer Animations thumb: previews/platformer-animations.png
+SIZE_AFTER_MB du: 417
+UPLOAD_DONE 1 packs
