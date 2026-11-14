@@ -1,2 +1,0 @@
-
-Platformer Animations|assets-2d-pixel|platformer-animations/platformer-animations.zip|previews/platformer-animations.png|CC-BY|2D 이펙트|clint-bellanger|https://opengameart.org/content/platformer-animations|effect,vfx,hit,magic,pixel
