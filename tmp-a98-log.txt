@@ -1,0 +1,12 @@
+catalog rows: 1898
+listing fail page 0 unsupported format character 'B' (0x42) at index 70
+listing fail page 1 unsupported format character 'B' (0x42) at index 70
+discovered: 0
+SKIP dup: Gothicvania Magic Pack 9
+SKIP dup: Earth Impact - Magic Effect
+SKIP dup: 2D Spell Effects
+SKIP dup: Weapon Slash - Effect
+ERROR https://opengameart.org/content/gothicvania-magic-pack-8 <HTTPError 404: 'Not Found'>
+ERROR https://opengameart.org/content/gothicvania-magic-pack-7 <HTTPError 404: 'Not Found'>
+SKIP dup: Pixel Art Spells
+SKIP no zip: Slash effect
