@@ -15,6 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -sSL "https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/tools/tmp_a98_collect3.py" -o /tmp/collect.py
+          curl -sSL "https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/tools/tmp_a98_collect4.py" -o /tmp/collect.py
           wc -c /tmp/collect.py
           python3 -u /tmp/collect.py
