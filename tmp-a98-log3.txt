@@ -1,3 +1,0 @@
-release created a98-fire-and-spell-animations
-README entry fixed
-moved to release
