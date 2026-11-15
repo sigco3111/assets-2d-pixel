@@ -2759,5 +2759,5 @@ OpenGameArt 수집 ansimuz(Luis Zuno) 2D 팩. 전부 OGA 페이지 CC0 표기 �
 
 ### FIre and Spell Animations
 ![FIre and Spell Animations 미리보기](fire-and-spell-animations/preview.png)
-- 파일: `anims_0.zip` (10823.9KB) — 저장소 내 포함
+- 파일: `anims_0.zip` (10823.9KB) — Releases 첨부 (tag a98-fire-and-spell-animations)
 - 제작: ztn / 라이선스: CC0 / 원본: https://opengameart.org/content/fire-and-spell-animations

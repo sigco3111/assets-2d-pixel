@@ -1,7 +1,7 @@
 # FIre and Spell Animations
 
 - 출처 URL: https://opengameart.org/content/fire-and-spell-animations
-- 받은 파일: anims_0.zip (10823.9KB)
+- 받은 파일: anims_0.zip (Releases 첨부: a98-fire-and-spell-animations) (10823.9KB)
 - 라이선스: CC0
 - 제작자: ztn
 - 공개일: 2022-03-17
