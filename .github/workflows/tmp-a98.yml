@@ -1,4 +1,4 @@
-name: 임시 2D 정리
+name: 임시 정리 릴리스
 
 on:
   workflow_dispatch:
@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: 정리와 이펙트 1팩 추가
+      - name: 릴리스로 이동
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -sSL "https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/tools/tmp_a98_fix2d.py" -o /tmp/fix.py
-          python3 -u /tmp/fix.py
+          curl -sSL "https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/tools/tmp_a98_release.py" -o /tmp/rel.py
+          python3 -u /tmp/rel.py
