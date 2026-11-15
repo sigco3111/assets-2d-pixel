@@ -1,12 +1,18 @@
 catalog rows: 1898
-listing fail page 0 unsupported format character 'B' (0x42) at index 70
-listing fail page 1 unsupported format character 'B' (0x42) at index 70
-discovered: 0
-SKIP dup: Gothicvania Magic Pack 9
-SKIP dup: Earth Impact - Magic Effect
-SKIP dup: 2D Spell Effects
-SKIP dup: Weapon Slash - Effect
-ERROR https://opengameart.org/content/gothicvania-magic-pack-8 <HTTPError 404: 'Not Found'>
-ERROR https://opengameart.org/content/gothicvania-magic-pack-7 <HTTPError 404: 'Not Found'>
-SKIP dup: Pixel Art Spells
-SKIP no zip: Slash effect
+SKIP dup: Shape Particles
+SKIP license: https://opengameart.org/content/fire-aura-compatible-with-flare
+SKIP dup: Rocket Thruster Effect Animations
+SKIP dup: Plasma Electric Effect Animations
+SKIP dup: Gun Muzzle Flash Effects (Fire and Ion and Melee)
+SKIP license: https://opengameart.org/content/dhst-particle-sheet-v3
+SKIP dup: Pixel art sword slash effect
+SKIP license: https://opengameart.org/content/circular-effect-animations
+SKIP license: https://opengameart.org/content/tiled-walls-with-damaged-and-weathered-effect-16x8-px
+SKIP license: https://opengameart.org/content/ice-sparkles-overlay-effect
+SKIP license: https://opengameart.org/content/electricity-overlay-effect
+SKIP license: https://opengameart.org/content/small-hit-confirm-vfx-animation
+ADDED: Mechanized Magic: Ultimate UI Pack | Dumivid | 2026-05-21 | 2055 files | 16180435 bytes -> mechanized-magic-ultimate-ui-pack
+SKIP too big: Mechanized Magic: 2D Vector Cards Pack 46893451
+SKIP license: https://opengameart.org/content/magic-forest-tileset
+ADDED: 2d Magic Book | osanimate | 2025-07-07 | 4 files | 9047588 bytes -> 2d-magic-book
+README updated
