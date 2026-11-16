@@ -1,0 +1,45 @@
+name: tmp-thumb4
+
+on:
+  push:
+    paths:
+      - .github/workflows/tmp-thumb4.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  shield:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Shield Spell 대표 이미지 받기
+        run: |
+          mkdir -p previews
+          if ! curl -fsSL -o /tmp/shield.png "https://opengameart.org/sites/default/files/shield.png"; then
+            echo "::error::curl 실패"
+            exit 1
+          fi
+          file /tmp/shield.png
+          cp /tmp/shield.png previews/shield-spell.png
+
+      - name: 커밋과 push
+        run: |
+          set -e
+          git config user.name "sigco3111"
+          git config user.email "sigco3111k@gmail.com"
+          git add previews/shield-spell.png
+          git commit -m "썸네일: Shield Spell 보완" || true
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main 2>/tmp/push.log; then
+              echo "push 완료"
+              exit 0
+            fi
+            echo "::warning::push 시도 $i 실패: $(tail -2 /tmp/push.log | tr '\n' ' ')"
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 5))
+          done
+          echo "::error::push 실패: $(tail -3 /tmp/push.log | tr '\n' ' ')"
+          exit 1
