@@ -1,0 +1,13 @@
+[main 52df0c2] 에셋: Elemental Weapons - Effect 추가
+ 6 files changed, 139 insertions(+)
+ create mode 100644 elemental-weapons-effect/CREDITS.txt
+ create mode 100644 elemental-weapons-effect/LICENSE-CC0.txt
+ create mode 100644 elemental-weapons-effect/LICENSE-SOURCE.txt
+ create mode 100644 elemental-weapons-effect/elemental-weapons-effect.zip
+ create mode 100644 elemental-weapons-effect/pack.md
+ create mode 100644 elemental-weapons-effect/preview.png
+To https://github.com/sigco3111/assets-2d-pixel
+   c2a41b0..52df0c2  main -> main
+SKIP Weapon Slash - Effect
+ADDED Elemental Weapons - Effect 882451
+DONE 1
