@@ -1,0 +1,81 @@
+name: tmp-thumb
+
+on:
+  push:
+    paths:
+      - .github/workflows/tmp-thumb.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  thumbs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pillow 설치
+        run: pip install --quiet pillow
+
+      - name: 썸네일 생성
+        run: |
+          python3 - <<'PY'
+          import io, os, zipfile
+          from PIL import Image
+
+          def frames(zpath):
+              z = zipfile.ZipFile(zpath)
+              out = []
+              for n in sorted(z.namelist()):
+                  if n.lower().endswith(".png"):
+                      out.append((n, Image.open(io.BytesIO(z.read(n))).convert("RGBA")))
+              return out
+
+          os.makedirs("previews", exist_ok=True)
+          BG = (28, 30, 36, 255)
+
+          fs = frames("16x16-explosion/16x16-explosion.zip")
+          print("16x16 frames:", [(n, im.size) for n, im in fs])
+          S, PAD = 8, 12
+          w = sum(im.width * S for _, im in fs) + PAD * (len(fs) + 1)
+          h = max(im.height * S for _, im in fs) + PAD * 2
+          canvas = Image.new("RGBA", (w, h), BG)
+          x = PAD
+          for _, im in fs:
+              big = im.resize((im.width * S, im.height * S), Image.NEAREST)
+              canvas.alpha_composite(big, (x, (h - big.height) // 2))
+              x += big.width + PAD
+          canvas.convert("RGB").save("previews/16x16-explosion.png", optimize=True)
+          print("saved previews/16x16-explosion.png", canvas.size)
+
+          sh = frames("shield-spell/shield.zip")
+          print("shield frames:", [(n, im.size) for n, im in sh])
+          im = max((i for _, i in sh), key=lambda i: i.width * i.height)
+          if im.width > 640:
+              im = im.resize((640, max(1, round(im.height * 640 / im.width))), Image.LANCZOS)
+          c = Image.new("RGBA", im.size, BG)
+          c.alpha_composite(im, (0, 0))
+          c.convert("RGB").save("previews/shield-spell.png", optimize=True)
+          print("saved previews/shield-spell.png", c.size)
+          PY
+
+      - name: 커밋과 push
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111k@gmail.com"
+          git add previews/16x16-explosion.png
+          git commit -m "썸네일: 16x16 Explosion 보완" || true
+          git add previews/shield-spell.png
+          git commit -m "썸네일: Shield Spell 보완" || true
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "push 완료"
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 5))
+          done
+          exit 1
