@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0
+License: CC0
+Checked: 2026-11-19 (GitHub Actions runner)
+Quote: : CC0 
