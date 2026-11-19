@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/8x8-pixel-topdown-pack
+License: CC0
+Checked: 2026-11-19 (GitHub Actions runner)
+Quote: : CC0 
