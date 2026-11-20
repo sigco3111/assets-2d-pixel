@@ -1,0 +1,8 @@
+Made by Patch
+원본: https://github.com/patch-gg/pixelfx (https://patch.gg)
+라이선스: MIT
+
+Hugo Duprez: src/core/sim.js 및 해당 효과 파일 상단에 명시된 파일은 Sprite Fusion 오픈소스 VFX(https://www.spritefusion.com/pixel-art-vfx)를 각색. Copyright (c) 2026 Hugo Duprez, MIT License.
+Hollow Crown: src/core/act.js 는 https://github.com/rehan-remade/hollow-crown 을 각색. Copyright (c) 2026 rehan-remade, MIT License.
+
+Patch Pixel 폰트(gallery/fonts)는 Patch의 고유 서체로 MIT 대상이 아님. © 2026 Patch. All rights reserved.
