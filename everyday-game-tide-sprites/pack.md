@@ -17,4 +17,4 @@
 - 출처: https://github.com/zhgarylu/everyday-game (원작) · 한글판 포크: https://github.com/sigco3111/everyday-game
 - 제작자: zhgarylu (원작 저장소)
 - 수집일: 2026-11-20 (소유자 지시로 '알 수 없음' 표기 후 공개 수집)
-- 파일: everyday-game-tide-sprites.zip
+- 파일: 12-everyday-game-tide-sprites.zip
