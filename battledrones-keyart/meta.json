@@ -1,0 +1,15 @@
+{
+ "name": "Battle Drones 키아트 (가로·세로 2종)",
+ "slug": "battledrones-keyart",
+ "zip": "battledrones-keyart.zip",
+ "file": "battledrones-keyart/battledrones-keyart.zip",
+ "author": "Battle Drones authors (simonw)",
+ "url": "https://github.com/simonw/battledrones",
+ "license": "Apache-2.0",
+ "attr": "required (Apache-2.0): 저작권·라이선스 고지와 변경 표기 유지 (Battle Drones authors, simonw/battledrones)",
+ "date": "2026-11-20",
+ "tags": "background,keyart,menu,scifi,military,webp",
+ "notes": "메뉴 키아트 가로·세로 2종 webp. gpt-image-2.5 생성 후 파이썬 가공(원작 ART.md). Apache-2.0(LICENSE·NOTICE 동봉). AI 생성 표기",
+ "preview": "preview.png",
+ "kind": "2D 배경"
+}

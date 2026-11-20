@@ -1,0 +1,7 @@
+Battle Drones 바위 타일 텍스처 5종 (seamless rock textures, Battle Drones)
+
+Original work: Battle Drones by the Battle Drones authors (simonw/battledrones)
+https://github.com/simonw/battledrones (Apache-2.0, see LICENSE.txt / NOTICE.txt)
+Art: generated with OpenAI gpt-image-2.5-sunburst, processed in Python (ART.md)
+Korean localization fork (extraction copy): https://github.com/sigco3111/battledrones-ko
+Collected and packaged 2026-11-20. Keep the Apache-2.0 notice.

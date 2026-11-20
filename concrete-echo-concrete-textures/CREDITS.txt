@@ -1,0 +1,6 @@
+Concrete Echo 콘크리트·플라스터 PBR 텍스처 6쌍 (concrete/plaster textures, Concrete Echo)
+
+Original work: Concrete Echo by Rikinshah787 (Game-Fable-5.2)
+https://github.com/Rikinshah787/Game-Fable-5.2 (no license stated, checked 2026-11-20; reuse permission unconfirmed)
+Korean localization fork (extraction copy): https://github.com/sigco3111/concrete-echo-ko
+Collected and packaged 2026-11-20.

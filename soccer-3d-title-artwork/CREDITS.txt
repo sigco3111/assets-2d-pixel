@@ -1,0 +1,7 @@
+Pocket Soccer 3D 타이틀 아트워크·앱 아이콘 (title artwork, Pocket Soccer 3D)
+
+Original work: Pocket Soccer 3D (Soccer-3D) by ShaunPrice
+https://github.com/ShaunPrice/soccer-3d (no license stated, checked 2026-11-20; reuse permission unconfirmed)
+Title artwork: ElevenLabs-generated per the original README; asset rights need separate confirmation
+Korean localization fork (extraction copy): https://github.com/sigco3111/soccer-3d-ko
+Collected and packaged 2026-11-20.

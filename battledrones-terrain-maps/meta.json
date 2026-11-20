@@ -1,0 +1,15 @@
+{
+ "name": "Battle Drones 페인티드 지형 맵 7종 (알베도 타일)",
+ "slug": "battledrones-terrain-maps",
+ "zip": "battledrones-terrain-maps.zip",
+ "file": "releases/download/battledrones-terrain-maps/battledrones-terrain-maps.zip",
+ "author": "Battle Drones authors (simonw)",
+ "url": "https://github.com/simonw/battledrones",
+ "license": "Apache-2.0",
+ "attr": "required (Apache-2.0): 저작권·라이선스 고지와 변경 표기 유지 (Battle Drones authors, simonw/battledrones)",
+ "date": "2026-11-20",
+ "tags": "texture,terrain,map,albedo,painted,biome,island,desert,arctic,volcanic",
+ "notes": "7맵 페인티드 지형 알베도 타일 webp+meta.json. zip 13MB로 5MB 초과라 Releases(battledrones-terrain-maps) 첨부. gpt-image-2.5 생성 후 파이썬 가공. Apache-2.0. AI 생성 표기",
+ "preview": "preview.png",
+ "kind": "2D·텍스처"
+}

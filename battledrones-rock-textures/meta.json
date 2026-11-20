@@ -1,0 +1,15 @@
+{
+ "name": "Battle Drones 바위 타일 텍스처 5종 (심리스 512²)",
+ "slug": "battledrones-rock-textures",
+ "zip": "battledrones-rock-textures.zip",
+ "file": "battledrones-rock-textures/battledrones-rock-textures.zip",
+ "author": "Battle Drones authors (simonw)",
+ "url": "https://github.com/simonw/battledrones",
+ "license": "Apache-2.0",
+ "attr": "required (Apache-2.0): 저작권·라이선스 고지와 변경 표기 유지 (Battle Drones authors, simonw/battledrones)",
+ "date": "2026-11-20",
+ "tags": "texture,rock,seamless,tileable,terrain,cliff,512,webp",
+ "notes": "생물군계별 512x512 심리스 바위 텍스처 5종 webp. gpt-image-2.5 생성 후 파이썬 가공. Apache-2.0(LICENSE·NOTICE 동봉). AI 생성 표기",
+ "preview": "preview.png",
+ "kind": "2D·텍스처"
+}
