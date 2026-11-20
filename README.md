@@ -2761,3 +2761,18 @@ OpenGameArt 수집 ansimuz(Luis Zuno) 2D 팩. 전부 OGA 페이지 CC0 표기 �
 ![FIre and Spell Animations 미리보기](fire-and-spell-animations/preview.png)
 - 파일: `anims_0.zip` (10823.9KB) — Releases 첨부 (tag a98-fire-and-spell-animations)
 - 제작: ztn / 라이선스: CC0 / 원본: https://opengameart.org/content/fire-and-spell-animations
+
+### Papertrails 종이 질감 텍스처 9종
+![Papertrails 종이 질감 텍스처 미리보기](papertrails-paper-textures/preview.png)
+- 파일: `papertrails-paper-textures.zip` (4.2MB) — 저장소 내 포함
+- 제작: xikhar (Shikhar) / 라이선스: MIT / 원본: https://github.com/xikhar/papertrails
+
+### Papertrails 종이오리기 아트 아틀라스 3종
+![Papertrails 종이오리기 아트 아틀라스 미리보기](papertrails-art-atlas/preview.png)
+- 파일: [릴리스 papertrails-art-atlas 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/papertrails-art-atlas/papertrails-art-atlas.zip) (8.3MB, 5MB 초과로 릴리스로 배포)
+- 제작: xikhar (Shikhar) / 라이선스: MIT / 원본: https://github.com/xikhar/papertrails
+
+### Graveyard Shift 키아트 (밤비 내리는 주유소 좀비)
+![Graveyard Shift 키아트 미리보기](zombies-keyart/preview.png)
+- 파일: `zombies-keyart.zip` (2.7MB) — 저장소 내 포함
+- 제작: ethanplusai / 라이선스: MIT / 원본: https://github.com/ethanplusai/zombies

@@ -1,0 +1,6 @@
+Graveyard Shift 키아트 (key art, zombies / Graveyard Shift)
+
+Original work: zombies (Graveyard Shift) by ethanplusai
+https://github.com/ethanplusai/zombies (MIT, Copyright (c) 2026 ethanplusai)
+Korean localization fork (extraction copy): https://github.com/sigco3111/zombies-ko
+Collected and packaged 2026-11-20. Keep the MIT notice (LICENSE.txt).
