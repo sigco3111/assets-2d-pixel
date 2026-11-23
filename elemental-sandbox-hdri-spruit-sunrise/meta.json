@@ -2,14 +2,14 @@
  "name": "Elemental Sandbox HDRI 환경광 (Poly Haven Spruit Sunrise 2K)",
  "slug": "elemental-sandbox-hdri-spruit-sunrise",
  "zip": "elemental-sandbox-hdri-spruit-sunrise.zip",
- "file": "elemental-sandbox-hdri-spruit-sunrise/elemental-sandbox-hdri-spruit-sunrise.zip",
+ "file": "releases/download/elemental-sandbox-hdri-spruit-sunrise/elemental-sandbox-hdri-spruit-sunrise.zip",
  "author": "Poly Haven",
  "url": "https://polyhaven.com/a/spruit_sunrise",
  "license": "CC0",
  "attr": "optional: Poly Haven (polyhaven.com)",
  "date": "2026-11-23",
  "tags": "hdri,environment,sky,sunrise,lighting,polyhaven,2k,equirect,ibl",
- "notes": "Elemental Sandbox(LinearAbilityExtThreeJS) 조명·반사용 HDRI. Poly Haven spruit_sunrise 2K HDR 공식 다운로드와 MD5 일치 확인(2026-11-23). CC0",
+ "notes": "Elemental Sandbox(LinearAbilityExtThreeJS) 조명·반사용 HDRI. Poly Haven spruit_sunrise 2K HDR 공식 다운로드와 MD5 일치 확인(2026-11-23). CC0. zip은 Releases(elemental-sandbox-hdri-spruit-sunrise) 첨부",
  "preview": "preview.png",
  "kind": "HDRI 환경맵"
 }
