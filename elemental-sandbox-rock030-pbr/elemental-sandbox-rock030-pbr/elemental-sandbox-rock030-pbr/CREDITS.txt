@@ -1,8 +1,0 @@
-Elemental Sandbox 바위 PBR 텍스처 4종 (ambientCG Rock030 1K)
-
-Original asset: Rock030 by ambientCG (CC0 1.0)
-https://ambientcg.com/a/Rock030
-Found in: LinearAbilityExtThreeJS (Elemental Sandbox) by mohamedachrefelouafi
-https://github.com/achrefelouafi/LinearAbilityExtThreeJS (cathedral floor textures, public/textures/cathedral/)
-Provenance verified 2026-11-23: files are byte-identical (MD5) to the official ambientCG Rock030 1K-JPG download.
-Collected and packaged 2026-11-23. CC0: no attribution required; credit appreciated.
