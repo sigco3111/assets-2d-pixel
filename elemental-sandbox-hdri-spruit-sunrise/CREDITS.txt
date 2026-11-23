@@ -1,0 +1,8 @@
+Elemental Sandbox HDRI 환경광 (Poly Haven Spruit Sunrise 2K)
+
+Original asset: Spruit Sunrise HDRI by Poly Haven (CC0 1.0)
+https://polyhaven.com/a/spruit_sunrise
+Found in: LinearAbilityExtThreeJS (Elemental Sandbox) by mohamedachrefelouafi
+https://github.com/achrefelouafi/LinearAbilityExtThreeJS (public/hdri/spruit_sunrise.hdr)
+Provenance verified 2026-11-23: byte-identical (MD5) to the official Poly Haven 2K HDR download.
+Collected and packaged 2026-11-23. CC0: no attribution required; credit appreciated.
