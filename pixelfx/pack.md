@@ -8,7 +8,7 @@
 - 이펙트: 244종, 21개 카테고리
 - 태그: 픽셀아트, VFX, 이펙트, 스프라이트시트, canvas, 브라우저 게임, 2D
 - AI 생성 여부: 원본 README에는 효과가 AI로 생성되었다는 명시가 없음. 새 이펙트를 만드는 Claude Code 스킬(skills/pixelfx)이 함께 들어 있음.
-- 미리보기: 추후 추가
+- 미리보기: ../previews/pixelfx.png (montage 스틸)
 
 ## 표기 요구
 
@@ -27,3 +27,10 @@ MIT 조건에 따라 저작권 고지와 라이선스 문구를 사본과 함께
 - 팔레트 변경: 옵션 palette (어두운색→밝은색 hex 배열)로 코드 수정 없이 색 변경.
 - 캐릭터 동작 포함: createAct 로 와인드업, 타격 정지, 반동을 함께 재생. createFx 는 이펙트만.
 - 직접 만들기: node tools/new.mjs <카테고리/이름>, render.mjs 로 확인, check.mjs 로 점검. 자세한 규칙은 docs/AUTHORING.md.
+
+## 다운로드 압축본 (2026-11-23)
+
+- `pixelfx.zip`: 기존 수집 커밋 5294518의 코드·문서·도구·갤러리 묶음. 244개 효과 모듈, MIT 전문과 서드파티 고지 포함.
+- ZIP의 `gallery/fonts/PatchPixel-Regular.woff2`는 제외했습니다. 해당 폰트는 MIT 대상이 아니며 권리 유보가 명시되어 있습니다. 갤러리는 시스템 대체 폰트로 표시됩니다.
+- 원본의 에이전트용 플러그인·스킬 설정과 GitHub 자동화는 ZIP에서 제외했습니다. 이펙트 사용·렌더에는 필요하지 않습니다.
+- 기존 미리보기: `../previews/pixelfx.png`.
