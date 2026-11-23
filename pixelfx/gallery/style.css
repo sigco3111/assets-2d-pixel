@@ -1,11 +1,5 @@
 /* layout: one dark play field. A sticky bar (mark, name, categories, search) over a grid of live stages;
    a sheet opens over the field for one effect. Play is black in every theme, so the page is single-theme. */
-@font-face {
-  font-family: "Patch Pixel";
-  font-weight: 400;
-  font-display: swap;
-  src: url(fonts/PatchPixel-Regular.woff2) format("woff2");
-}
 :root {
   --ground: #000000;
   --panel: #111111;
@@ -14,7 +8,7 @@
   --quiet: #999999;
   --line: #333333;
   --patch: #f53cd1;
-  --display: "Patch Pixel", ui-monospace, "SFMono-Regular", monospace;
+  --display: ui-monospace, "SFMono-Regular", monospace;
   --text: "Funnel Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --mono: "Red Hat Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
   color-scheme: dark;
