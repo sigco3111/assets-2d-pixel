@@ -33,4 +33,4 @@ MIT 조건에 따라 저작권 고지와 라이선스 문구를 사본과 함께
 - `pixelfx.zip`: 기존 수집 커밋 5294518의 코드·문서·도구·갤러리 묶음. 244개 효과 모듈, MIT 전문과 서드파티 고지 포함.
 - ZIP의 `gallery/fonts/PatchPixel-Regular.woff2`는 제외했습니다. 해당 폰트는 MIT 대상이 아니며 권리 유보가 명시되어 있습니다. 갤러리는 시스템 대체 폰트로 표시됩니다.
 - 원본의 에이전트용 플러그인·스킬 설정과 GitHub 자동화는 ZIP에서 제외했습니다. 이펙트 사용·렌더에는 필요하지 않습니다.
-- 기존 미리보기: `../previews/pixelfx.png`.
+- 기존 미리보기: `../previews/pixelfx.png`. 대용량 README 데모 GIF는 ZIP에서 제외했습니다.
