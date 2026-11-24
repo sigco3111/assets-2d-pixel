@@ -1,0 +1,10 @@
+Dead Precinct Pre-rendered Backgrounds (10 fixed-camera backgrounds)
+
+Original work: DEAD PRECINCT by Bao5ye
+https://github.com/Bao5ye/dead-precinct (MIT, Copyright (c) 2026 Bao5ye)
+The upstream LICENSE applies and is included as LICENSE.txt.
+
+Per the original README, all backgrounds were rendered by the author with
+Blender Cycles and color-graded; no external assets were used.
+Korean localization fork (extraction source): https://github.com/sigco3111/dead-precinct-ko
+Collected and packaged 2026-11-24.

@@ -1,0 +1,18 @@
+Dead Precinct Pre-rendered Backgrounds - license provenance (written by the collector)
+
+Source repository: https://github.com/Bao5ye/dead-precinct (original commit
+3292dc6; files extracted from the Korean fork sigco3111/dead-precinct-ko,
+whose game file carries the same embedded backgrounds).
+Its LICENSE is MIT (Copyright (c) 2026 Bao5ye), included verbatim as LICENSE.txt.
+
+The original README states that all characters, monsters, places and music are
+original creations, that no original-game material was used, and that the
+backgrounds are Blender Cycles offline renders by the author. The same README
+also declares the game a non-commercial fan homage to a 1998 survival-horror
+classic. The backgrounds themselves depict generic locations (city street,
+police station hall/office/corridor/armory, parking garage); even so, review
+fit before reuse in a similar commercial title.
+
+This pack contains only the 10 background PNGs extracted from the game's
+single index.html (BG object, base64). No character art, logos or trademarks
+are included. Keep LICENSE.txt with the pack when redistributing.
