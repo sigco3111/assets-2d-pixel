@@ -1,0 +1,14 @@
+{
+ "name": "Free Monster Pack (Frakassets)",
+ "slug": "free-monster-pack",
+ "zip": "free-monster-pack.zip",
+ "file": "releases/download/free-monster-pack/free-monster-pack.zip",
+ "author": "Frakassets",
+ "url": "https://frakassets.itch.io/free-monster-pack",
+ "license": "CC-BY 4.0",
+ "attr": "required: Frakassets (frakassets.itch.io), CC-BY 4.0",
+ "date": "2026-11-24",
+ "tags": "sprite,monster,pixel,2d,lit,normal-map,cc-by,frakassets,itch.io",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}
