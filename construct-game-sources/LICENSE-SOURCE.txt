@@ -1,0 +1,8 @@
+Source: https://kenney.nl/assets/construct-game-sources
+Title: Construct Game Sources
+Author: Kenney (kenney.nl)
+License listed on the page: Creative Commons CC0
+Collected: 2026-11-25
+
+CC0 (public domain dedication). No attribution required; credit to Kenney is appreciated.
+The zip contains the author's original License.txt. This file was written by the collector from the page's license statement; it is not an original license file from the author.
