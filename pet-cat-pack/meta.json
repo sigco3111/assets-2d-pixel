@@ -1,0 +1,14 @@
+{
+ "name": "Pet Cats Pack (LuizMelo)",
+ "slug": "pet-cat-pack",
+ "zip": "pet-cat-pack.zip",
+ "file": "releases/download/pet-cat-pack/pet-cat-pack.zip",
+ "author": "LuizMelo",
+ "url": "https://luizmelo.itch.io/pet-cat-pack",
+ "license": "CC0",
+ "attr": "optional: LuizMelo (luizmelo.itch.io)",
+ "date": "2026-11-24",
+ "tags": "sprite,character,pixel,2d,platformer,cc0,luizmelo,itch.io",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}
