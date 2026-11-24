@@ -2782,3 +2782,9 @@ OpenGameArt 수집 ansimuz(Luis Zuno) 2D 팩. 전부 OGA 페이지 CC0 표기 �
 - 파일: [릴리스 effekseer-sample-effects 첨부 다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/effekseer-sample-effects/effekseer-sample-effects.zip) (10.0MB, 3D 파티클 이펙트 .efk 33개 + 원본 .efkproj + Effekseer for WebGL 1.80.8 런타임, 라이선스·CREDITS·pack.md 동봉)
 - 제작: Effekseer 프로젝트, Pierre, NextSoft, AndrewFM, Suzuki, tktk / 라이선스: 이펙트 CC0, 런타임 MIT(LICENSE 유지) / 원본: https://patch.gg/patch/effekseer (Effekseer 공식 1.80.8 Sample 폴더 고지로 확인). 한글판 데모: https://github.com/sigco3111/effekseer-ko
 - 비고: Patch 데모 코드·표지·썸네일은 제외. 이 저장소의 다른 팩이 2D 스프라이트인 것과 달리 3D 파티클 데이터라 Effekseer 런타임이 필요합니다.
+
+### Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K)
+![Long Wind Poly Haven 스캔 텍스처 미리보기](long-wind-ph-textures/preview.png)
+- 파일: [릴리스 long-wind-ph-textures 첨부(분할 zip)](https://github.com/sigco3111/assets-2d-pixel/releases/tag/long-wind-ph-textures) (55MB를 z01~z05+zip 6개로 분할 — 모두 받아 `zip -s 0 long-wind-ph-textures.zip --out full.zip` 병합. diffuse+nor_gl+arm 3맵×14종, 잔디길 3종 2K·나머지 1K JPG)
+- 제작: Poly Haven / 라이선스: CC0 / 원본: https://polyhaven.com (사용 게임: https://github.com/jbang2004/long-wind)
+- 비고: 수묵 무협 게임 Long Wind 지형·마을·소품 사용분. 원작 CREDITS 출처 명시, 공식 dl.polyhaven.org 다운로드와 MD5 일치 3종 확인(2026-11-24)
