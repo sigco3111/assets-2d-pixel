@@ -1,0 +1,14 @@
+{
+ "name": "Medieval Warrior Pack (LuizMelo)",
+ "slug": "medieval-warrior-pack",
+ "zip": "medieval-warrior-pack.zip",
+ "file": "releases/download/medieval-warrior-pack/medieval-warrior-pack.zip",
+ "author": "LuizMelo",
+ "url": "https://luizmelo.itch.io/medieval-warrior-pack",
+ "license": "CC0",
+ "attr": "optional: LuizMelo (luizmelo.itch.io)",
+ "date": "2026-11-24",
+ "tags": "sprite,character,pixel,2d,platformer,cc0,luizmelo,itch.io",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}
