@@ -1,0 +1,14 @@
+{
+ "name": "Fire Worm (LuizMelo)",
+ "slug": "fire-worm",
+ "zip": "fire-worm.zip",
+ "file": "releases/download/fire-worm/fire-worm.zip",
+ "author": "LuizMelo",
+ "url": "https://luizmelo.itch.io/fire-worm",
+ "license": "CC0",
+ "attr": "optional: LuizMelo (luizmelo.itch.io)",
+ "date": "2026-11-24",
+ "tags": "sprite,character,pixel,2d,platformer,cc0,luizmelo,itch.io",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}
