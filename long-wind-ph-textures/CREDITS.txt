@@ -1,0 +1,11 @@
+Long Wind Poly Haven 스캔 텍스처 14종 (PBR 3맵, 1K/2K JPG)
+
+Original assets: Poly Haven (https://polyhaven.com) — CC0 (https://polyhaven.com/license)
+Found in: Long Wind by jbang2004 — https://github.com/jbang2004/long-wind (public/assets/ph/textures)
+Korean fork: https://github.com/sigco3111/long-wind
+Provenance spot-check 2026-11-24: pine_bark/weathered_planks diffuse_1k, grass_path_3 diffuse_2k MD5 = official dl.polyhaven.org downloads.
+
+Textures (each: diffuse + normal GL + AO/Roughness/Metalness):
+grass_path_3 (2k), rocky_terrain_02 (2k), sparse_grass (2k), leafy_grass, dry_ground_rocks, forest_leaves_02, rock_boulder_dry, rough_linen, brown_leather, pine_bark, chinese_cedar_bark, weathered_planks, japanese_stone_wall, ceramic_roof_01
+Per-asset pages: https://polyhaven.com/a/<name>
+Collected and packaged 2026-11-24. CC0: no attribution required; credit appreciated.
