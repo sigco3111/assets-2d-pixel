@@ -1,0 +1,15 @@
+{
+ "name": "Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K)",
+ "slug": "long-wind-ph-textures",
+ "zip": "long-wind-ph-textures.zip",
+ "file": "releases/download/long-wind-ph-textures/long-wind-ph-textures.zip",
+ "author": "Poly Haven",
+ "url": "https://polyhaven.com",
+ "license": "CC0",
+ "attr": "optional: Poly Haven (polyhaven.com)",
+ "date": "2026-11-24",
+ "tags": "texture,pbr,scan,polyhaven,terrain,grass,rock,bark,leather,linen,planks,stone,roof,1k,2k",
+ "notes": "Long Wind(jbang2004/long-wind) 사용분 14종×3맵(diffuse·nor_gl·arm). 잔디길 3종 2K, 나머지 1K JPG. 원작 CREDITS 출처 명시 + 공식 다운로드 MD5 일치 3종 확인(2026-11-24). zip 55MB로 Releases(long-wind-ph-textures) 첨부. CC0",
+ "preview": "preview.png",
+ "kind": "2D·텍스처"
+}
