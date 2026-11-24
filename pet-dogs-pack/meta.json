@@ -1,0 +1,14 @@
+{
+ "name": "Pet Dogs Pack (LuizMelo)",
+ "slug": "pet-dogs-pack",
+ "zip": "pet-dogs-pack.zip",
+ "file": "releases/download/pet-dogs-pack/pet-dogs-pack.zip",
+ "author": "LuizMelo",
+ "url": "https://luizmelo.itch.io/pet-dogs-pack",
+ "license": "CC0",
+ "attr": "optional: LuizMelo (luizmelo.itch.io)",
+ "date": "2026-11-24",
+ "tags": "sprite,character,pixel,2d,platformer,cc0,luizmelo,itch.io",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}
