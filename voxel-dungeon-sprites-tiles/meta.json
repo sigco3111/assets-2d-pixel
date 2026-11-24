@@ -1,0 +1,14 @@
+{
+ "name": "Voxel Dungeon Sprites & Tiles (Cole Foster)",
+ "slug": "voxel-dungeon-sprites-tiles",
+ "zip": "voxel-dungeon-sprites-tiles.zip",
+ "file": "releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip",
+ "author": "Cole Foster",
+ "url": "https://colefoster.itch.io/voxel-dungeon-pack",
+ "license": "CC0",
+ "attr": "optional: Cole Foster (colefoster.itch.io)",
+ "date": "2026-11-24",
+ "tags": "sprite,creature,dungeon,tileset,ui,monsters,boss,golem,cc0,colefoster,itch.io",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}
