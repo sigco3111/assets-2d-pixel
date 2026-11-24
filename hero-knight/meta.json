@@ -1,0 +1,14 @@
+{
+ "name": "Hero Knight (LuizMelo)",
+ "slug": "hero-knight",
+ "zip": "hero-knight.zip",
+ "file": "releases/download/hero-knight/hero-knight.zip",
+ "author": "LuizMelo",
+ "url": "https://luizmelo.itch.io/hero-knight",
+ "license": "CC0",
+ "attr": "optional: LuizMelo (luizmelo.itch.io)",
+ "date": "2026-11-24",
+ "tags": "sprite,character,pixel,2d,platformer,cc0,luizmelo,itch.io",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}
