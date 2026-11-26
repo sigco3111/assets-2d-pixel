@@ -2794,3 +2794,21 @@ OpenGameArt 수집 ansimuz(Luis Zuno) 2D 팩. 전부 OGA 페이지 CC0 표기 �
 - 파일: `dead-precinct-backgrounds/dead-precinct-backgrounds.zip` (584KB, 320×240 PNG 10장: 거리 2·대홀 2·사무실·복도 2·무기고·주차장 2)
 - 제작: Bao5ye / 라이선스: MIT / 원본: https://github.com/Bao5ye/dead-precinct (한글판: https://github.com/sigco3111/dead-precinct-ko)
 - 비고: 원작자 Blender Cycles 오프라인 렌더+색보정(README 명시). 고정 카메라 배경용. 원작은 1998년작 서바이벌 호러 비상업 팬 오마주 선언이 있으므로 유사 상업 게임 재사용은 별도 검토. MIT 전문 동봉
+
+### 마문 전당포 인물 전신 일러스트 793종 (표정 7단 변주)
+![마문 전당포 인물 일러스트 미리보기](dangpu-portraits/7-preview.png)
+- 파일: `dangpu-portraits/` 안 `1~4-dangpu-portraits.zip.part1~4` (90MB plain split 4개 — 모두 받아 `cat dangpu-portraits.zip.part* > dangpu-portraits.zip` 병합. webp 793 + svg 원본, 42개 기본 얼굴 × 7단 표정, 인족/요족/마수/선문 4세력)
+- 제작: lqszhsp / 라이선스: MIT / 원본: https://github.com/lqszhsp/dangpu (한글판: https://github.com/sigco3111/dangpu-ko)
+- 비고: 원저작자가 gpt-image/qwen-image로 생성한 AI 아트(원저장소 README 배지·art/ 제작 기록). MIT 전문·출처는 6-LICENSE-SOURCE.txt 동봉
+
+### 마문 전당포 아이템 아이콘 504종
+![마문 전당포 아이템 아이콘 미리보기](dangpu-items/4-preview.png)
+- 파일: `dangpu-items/1-dangpu-items.zip` (8.7MB, 256×256 webp 일러스트 + svg 원본. 약재·골동·법기 등 중국풍 판타지 물품, 일부 각도 변주 _high/_low/_top)
+- 제작: lqszhsp / 라이선스: MIT / 원본: https://github.com/lqszhsp/dangpu (한글판: https://github.com/sigco3111/dangpu-ko)
+- 비고: AI 생성 아트. MIT 전문·출처는 3-LICENSE-SOURCE.txt 동봉
+
+### 마문 전당포 배경·오브젝트 일러스트 107종
+![마문 전당포 배경 일러스트 미리보기](dangpu-backgrounds/4-preview.png)
+- 파일: `dangpu-backgrounds/1-dangpu-backgrounds.zip` (6.1MB, 배경 23 + 기계·장치 56 + 감정 화면 오브젝트 28. 전당포 카운터·귀시·엔딩 장면 등 webp + svg)
+- 제작: lqszhsp / 라이선스: MIT / 원본: https://github.com/lqszhsp/dangpu (한글판: https://github.com/sigco3111/dangpu-ko)
+- 비고: AI 생성 아트. MIT 전문·출처는 3-LICENSE-SOURCE.txt 동봉
