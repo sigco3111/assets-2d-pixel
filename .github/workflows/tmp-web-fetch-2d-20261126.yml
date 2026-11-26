@@ -1,0 +1,31 @@
+name: tmp-web-fetch-2d-20261126
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: fetch and stage
+        run: |
+          set -e
+          mkdir -p chess-tilesheet dosega-style-platformer-tiles /tmp/dl
+          curl -fL -o chess-tilesheet/chess-tilesheet.zip 'https://opengameart.org/sites/default/files/chess-tileset.zip'
+          curl -fL -o chess-tilesheet/preview.png 'https://opengameart.org/sites/default/files/resized-640x640.png'
+          curl -fL -o /tmp/dl/dosgametiles.png 'https://opengameart.org/sites/default/files/dosgametiles.png'
+          cp /tmp/dl/dosgametiles.png dosega-style-platformer-tiles/preview.png
+          (cd /tmp/dl && zip -q -j /tmp/dl/dosega.zip dosgametiles.png)
+          cp /tmp/dl/dosega.zip dosega-style-platformer-tiles/dosega-style-platformer-tiles.zip
+          echo ewogIm5hbWUiOiAiQ2hlc3MgVGlsZXNoZWV0IiwKICJzbHVnIjogImNoZXNzLXRpbGVzaGVldCIsCiAiemlwIjogImNoZXNzLXRpbGVzaGVldC56aXAiLAogImZpbGUiOiAiY2hlc3MtdGlsZXNoZWV0L2NoZXNzLXRpbGVzaGVldC56aXAiLAogImF1dGhvciI6ICJub3VyMzE0IiwKICJ1cmwiOiAiaHR0cHM6Ly9vcGVuZ2FtZWFydC5vcmcvY29udGVudC9jaGVzcy10aWxlc2hlZXQiLAogImxpY2Vuc2UiOiAiQ0MwIiwKICJhdHRyIjogIkNoZXNzIFRpbGVzaGVldCBieSBub3VyMzE0LCBPcGVuR2FtZUFydCAoaHR0cHM6Ly9vcGVuZ2FtZWFydC5vcmcvY29udGVudC9jaGVzcy10aWxlc2hlZXQpLCBDQzAiLAogImRhdGUiOiAiMjAyNi0xMS0yNiIsCiAidGFncyI6ICJjaGVzcyxwaXhlbCx0aWxlc2V0LGJvYXJkLWdhbWUscmV0cm8sY2MwIiwKICJub3RlcyI6ICJPR0Eg7Lac7LKYIO2OmOydtOyngCBMaWNlbnNlIENDMCDtmZXsnbggKOybuSDtg5Dsg4kgMu2ajOywqCkuIDh4OCDtlL3shYAg7LK07IqkIO2DgOydvOyLnO2KuCB6aXAgMTFLQi4g66+466as67O06riwIHByZXZpZXcucG5nIiwKICJwcmV2aWV3IjogInByZXZpZXcucG5nIiwKICJraW5kIjogIjJEIOyKpO2UhOudvOydtO2KuCIKfQo= | base64 -d > chess-tilesheet/meta.json
+          echo ewogIm5hbWUiOiAiRE9TL0VHQS1zdHlsZSBwbGF0Zm9ybWVyIGNoYXJhY3RlciBhbmQgdGlsZXMiLAogInNsdWciOiAiZG9zZWdhLXN0eWxlLXBsYXRmb3JtZXItdGlsZXMiLAogInppcCI6ICJkb3NlZ2Etc3R5bGUtcGxhdGZvcm1lci10aWxlcy56aXAiLAogImZpbGUiOiAiZG9zZWdhLXN0eWxlLXBsYXRmb3JtZXItdGlsZXMvZG9zZWdhLXN0eWxlLXBsYXRmb3JtZXItdGlsZXMuemlwIiwKICJhdXRob3IiOiAibWFyaWVfaXNrYW5kYXIiLAogInVybCI6ICJodHRwczovL29wZW5nYW1lYXJ0Lm9yZy9jb250ZW50L2Rvc2VnYS1zdHlsZS1wbGF0Zm9ybWVyLWNoYXJhY3Rlci1hbmQtdGlsZXMiLAogImxpY2Vuc2UiOiAiQ0MwIiwKICJhdHRyIjogIkRPUy9FR0Etc3R5bGUgcGxhdGZvcm1lciBjaGFyYWN0ZXIgYW5kIHRpbGVzIGJ5IG1hcmllX2lza2FuZGFyLCBPcGVuR2FtZUFydCAoaHR0cHM6Ly9vcGVuZ2FtZWFydC5vcmcvY29udGVudC9kb3NlZ2Etc3R5bGUtcGxhdGZvcm1lci1jaGFyYWN0ZXItYW5kLXRpbGVzKSwgQ0MwIiwKICJkYXRlIjogIjIwMjYtMTEtMjYiLAogInRhZ3MiOiAiZWdhLGRvcyxwbGF0Zm9ybWVyLHBpeGVsLHRpbGVzLHJldHJvLGNjMCIsCiAibm90ZXMiOiAiT0dBIOy2nOyymCDtjpjsnbTsp4AgTGljZW5zZSBDQzAg7ZmV7J24ICjsm7kg7YOQ7IOJIDLtmozssKgpLiAxNngxNiDtlIzrnqvtj6zrqLgg7YOA7J28wrfsupDrpq3thLAgUE5HIDHsnqUuIOuvuOumrOuztOq4sCBwcmV2aWV3LnBuZyIsCiAicHJldmlldyI6ICJwcmV2aWV3LnBuZyIsCiAia2luZCI6ICIyRCDsiqTtlITrnbzsnbTtirgiCn0K | base64 -d > dosega-style-platformer-tiles/meta.json
+          ls -la chess-tilesheet dosega-style-platformer-tiles
+      - name: commit
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add chess-tilesheet dosega-style-platformer-tiles
+          git commit -m 'assets: 웹 탐색 2회차 2D 팩 2종 추가 (CC0)'
+          git pull --rebase -q || true
+          git push
