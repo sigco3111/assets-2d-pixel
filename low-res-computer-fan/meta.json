@@ -1,0 +1,15 @@
+{
+ "name": "Low Res Computer fan",
+ "slug": "low-res-computer-fan",
+ "zip": "low-res-computer-fan.zip",
+ "file": "low-res-computer-fan/low-res-computer-fan.zip",
+ "author": "BiscuitGames",
+ "url": "https://opengameart.org/content/low-res-computer-fan",
+ "license": "CC0",
+ "attr": "Low Res Computer fan by BiscuitGames, OpenGameArt (https://opengameart.org/content/low-res-computer-fan), CC0",
+ "date": "2026-11-26",
+ "tags": "texture,fan,pc,cc0,low-res",
+ "notes": "OGA 출처 페이지 License CC0 확인 (웹 탐색 2회차). 120mm 팬 낡은 텍스처 PNG 1장. 미리보기 preview.png",
+ "preview": "preview.png",
+ "kind": "텍스처"
+}
