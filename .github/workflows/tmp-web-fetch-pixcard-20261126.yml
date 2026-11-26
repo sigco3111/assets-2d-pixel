@@ -1,0 +1,28 @@
+name: tmp-web-fetch-pixcard-20261126
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: fetch and stage
+        run: |
+          set -e
+          mkdir -p pixel-card-assets /tmp/dl
+          curl -fL -o /tmp/dl/pixelcardassest_v02.png 'https://opengameart.org/sites/default/files/pixelcardassest_v02.png'
+          cp /tmp/dl/pixelcardassest_v02.png pixel-card-assets/preview.png
+          (cd /tmp/dl && zip -q -j /tmp/dl/pcard.zip pixelcardassest_v02.png)
+          cp /tmp/dl/pcard.zip pixel-card-assets/pixel-card-assets.zip
+          echo ewogIm5hbWUiOiAiUGl4ZWwgQ2FyZCBBc3NldHMiLAogInNsdWciOiAicGl4ZWwtY2FyZC1hc3NldHMiLAogInppcCI6ICJwaXhlbC1jYXJkLWFzc2V0cy56aXAiLAogImZpbGUiOiAicGl4ZWwtY2FyZC1hc3NldHMvcGl4ZWwtY2FyZC1hc3NldHMuemlwIiwKICJhdXRob3IiOiAic3Rvcmllc3N0cmF1c3MiLAogInVybCI6ICJodHRwczovL29wZW5nYW1lYXJ0Lm9yZy9jb250ZW50L3BpeGVsLWNhcmQtYXNzZXRzIiwKICJsaWNlbnNlIjogIkNDMCIsCiAiYXR0ciI6ICJQaXhlbCBDYXJkIEFzc2V0cyBieSBzdG9yaWVzc3RyYXVzcywgT3BlbkdhbWVBcnQgKGh0dHBzOi8vb3BlbmdhbWVhcnQub3JnL2NvbnRlbnQvcGl4ZWwtY2FyZC1hc3NldHMpLCBDQzAiLAogImRhdGUiOiAiMjAyNi0xMS0yNiIsCiAidGFncyI6ICJwaXhlbCxjYXJkLHVpLGljb25zLGNjMCIsCiAibm90ZXMiOiAiT0dBIOy2nOyymCDtjpjsnbTsp4AgTGljZW5zZSBDQzAg7ZmV7J24ICjsm7kg7YOQ7IOJIDLtmozssKgpLiDsubTrk5wg7JWe66m0wrfrkrfrqbTCt+2FjOuRkOumrMK366y06riwIOyVhOydtOy9mCBQTkcgMeyepS4g66+466as67O06riwIHByZXZpZXcucG5nIiwKICJwcmV2aWV3IjogInByZXZpZXcucG5nIiwKICJraW5kIjogIjJEIOyKpO2UhOudvOydtO2KuCIKfQo= | base64 -d > pixel-card-assets/meta.json
+          ls -la pixel-card-assets
+      - name: commit
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A -- pixel-card-assets
+          git commit -m 'assets: 웹 탐색 2회차 2D 팩 추가 (Pixel Card Assets, CC0)'
+          git pull --rebase -q || true
+          git push
