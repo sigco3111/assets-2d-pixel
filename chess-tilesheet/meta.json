@@ -1,0 +1,15 @@
+{
+ "name": "Chess Tilesheet",
+ "slug": "chess-tilesheet",
+ "zip": "chess-tilesheet.zip",
+ "file": "chess-tilesheet/chess-tilesheet.zip",
+ "author": "nour314",
+ "url": "https://opengameart.org/content/chess-tilesheet",
+ "license": "CC0",
+ "attr": "Chess Tilesheet by nour314, OpenGameArt (https://opengameart.org/content/chess-tilesheet), CC0",
+ "date": "2026-11-26",
+ "tags": "chess,pixel,tileset,board-game,retro,cc0",
+ "notes": "OGA 출처 페이지 License CC0 확인 (웹 탐색 2회차). 8x8 픽셀 체스 타일시트 zip 11KB. 미리보기 preview.png",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}

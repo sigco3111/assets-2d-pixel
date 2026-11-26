@@ -1,0 +1,15 @@
+{
+ "name": "DOS/EGA-style platformer character and tiles",
+ "slug": "dosega-style-platformer-tiles",
+ "zip": "dosega-style-platformer-tiles.zip",
+ "file": "dosega-style-platformer-tiles/dosega-style-platformer-tiles.zip",
+ "author": "marie_iskandar",
+ "url": "https://opengameart.org/content/dosega-style-platformer-character-and-tiles",
+ "license": "CC0",
+ "attr": "DOS/EGA-style platformer character and tiles by marie_iskandar, OpenGameArt (https://opengameart.org/content/dosega-style-platformer-character-and-tiles), CC0",
+ "date": "2026-11-26",
+ "tags": "ega,dos,platformer,pixel,tiles,retro,cc0",
+ "notes": "OGA 출처 페이지 License CC0 확인 (웹 탐색 2회차). 16x16 플랫포머 타일·캐릭터 PNG 1장. 미리보기 preview.png",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}
