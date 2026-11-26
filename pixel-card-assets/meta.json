@@ -1,0 +1,15 @@
+{
+ "name": "Pixel Card Assets",
+ "slug": "pixel-card-assets",
+ "zip": "pixel-card-assets.zip",
+ "file": "pixel-card-assets/pixel-card-assets.zip",
+ "author": "storiesstrauss",
+ "url": "https://opengameart.org/content/pixel-card-assets",
+ "license": "CC0",
+ "attr": "Pixel Card Assets by storiesstrauss, OpenGameArt (https://opengameart.org/content/pixel-card-assets), CC0",
+ "date": "2026-11-26",
+ "tags": "pixel,card,ui,icons,cc0",
+ "notes": "OGA 출처 페이지 License CC0 확인 (웹 탐색 2회차). 카드 앞면·뒷면·테두리·무기 아이콘 PNG 1장. 미리보기 preview.png",
+ "preview": "preview.png",
+ "kind": "2D 스프라이트"
+}
